@@ -3,4 +3,4 @@ my dotfiles
 change your computer's configs at your will!"
 ![alt text](https://my.mixtape.moe/nmtgja.png "sleep")
 ![alt text](https://u.teknik.io/vCVul.png "ono")
-![alt text](https://u.teknik.io/TJcHT.png "work)
+![alt text](https://u.teknik.io/TJcHT.png "work")
