@@ -1,0 +1,95 @@
+2016-02-04 18:08:06		Plugins loaded: alias, aspell, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2016-02-04 18:08:16		script: downloading list of scripts...
+2016-02-04 18:08:18		script: 299 scripts for WeeChat 1.4
+2016-02-04 18:08:23	⚠ 	Warning: ./wind/buffers.conf, line 63: unknown option for section "look": toogle_bar = on
+2016-02-04 18:08:23		New key binding (context "mouse"): @bar(buffers):ctrl-wheeldown => hsignal:buffers_mouse
+2016-02-04 18:08:23		New key binding (context "mouse"): @bar(buffers):ctrl-wheelup => hsignal:buffers_mouse
+2016-02-04 18:08:26		New key binding (context "mouse"): @chat(perl.iset):button1 => hsignal:iset_mouse
+2016-02-04 18:08:26		New key binding (context "mouse"): @chat(perl.iset):button2* => hsignal:iset_mouse
+2016-02-04 18:08:26		New key binding (context "mouse"): @chat(perl.iset):wheeldown => /repeat 5 /iset **down
+2016-02-04 18:08:26		New key binding (context "mouse"): @chat(perl.iset):wheelup => /repeat 5 /iset **up
+2016-02-04 18:08:44	⚠ 	irc: unable to add temporary server "irc.snoonet.org" because the addition of temporary servers with command /connect is currently disabled
+2016-02-04 18:08:44	⚠ 	irc: if you want to add a standard server, use the command "/server add" (see /help server); if you really want to add a temporary server (NOT SAVED), turn on the option irc.look.temporary_servers
+2016-02-04 18:08:46		fifo: pipe closed
+2016-02-04 18:08:47		perl scripts loaded: buffers, iset
+2016-02-04 18:08:47		script: 299 scripts for WeeChat 1.4
+2016-02-04 18:08:47		Plugins loaded: alias, aspell, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2016-02-04 18:08:58	⚠ 	irc: unable to add temporary server "irc.snoonet.org" because the addition of temporary servers with command /connect is currently disabled
+2016-02-04 18:08:58	⚠ 	irc: if you want to add a standard server, use the command "/server add" (see /help server); if you really want to add a temporary server (NOT SAVED), turn on the option irc.look.temporary_servers
+2016-02-04 18:09:06	⚠ 	You can not write text in this buffer
+2016-02-04 18:09:06	⚠ 	You can not write text in this buffer
+2016-02-04 18:09:06	⚠ 	You can not write text in this buffer
+2016-02-04 18:09:06	⚠ 	You can not write text in this buffer
+2016-02-04 18:09:06	⚠ 	You can not write text in this buffer
+2016-02-04 18:09:06	⚠ 	You can not write text in this buffer
+2016-02-04 18:09:06	⚠ 	You can not write text in this buffer
+2016-02-04 18:09:06	⚠ 	You can not write text in this buffer
+2016-02-04 18:09:06	⚠ 	You can not write text in this buffer
+2016-02-04 18:09:06	⚠ 	You can not write text in this buffer
+2016-02-04 18:09:06	⚠ 	You can not write text in this buffer
+2016-02-04 18:09:06	⚠ 	You can not write text in this buffer
+2016-02-04 18:09:06	⚠ 	You can not write text in this buffer
+2016-02-04 18:09:06	⚠ 	You can not write text in this buffer
+2016-02-04 18:09:06	⚠ 	You can not write text in this buffer
+2016-02-04 18:09:06	⚠ 	You can not write text in this buffer
+2016-02-04 18:09:06	⚠ 	You can not write text in this buffer
+2016-02-04 18:09:06	⚠ 	You can not write text in this buffer
+2016-02-04 18:09:06	⚠ 	You can not write text in this buffer
+2016-02-04 18:09:06	⚠ 	You can not write text in this buffer
+2016-02-04 18:09:06	⚠ 	You can not write text in this buffer
+2016-02-04 18:09:06	⚠ 	You can not write text in this buffer
+2016-02-04 18:09:06	⚠ 	You can not write text in this buffer
+2016-02-04 18:09:06	⚠ 	You can not write text in this buffer
+2016-02-04 18:09:06	⚠ 	You can not write text in this buffer
+2016-02-04 18:09:06	⚠ 	You can not write text in this buffer
+2016-02-04 18:09:06	⚠ 	You can not write text in this buffer
+2016-02-04 18:09:06	⚠ 	You can not write text in this buffer
+2016-02-04 18:09:06	⚠ 	You can not write text in this buffer
+2016-02-04 18:09:06	⚠ 	You can not write text in this buffer
+2016-02-04 18:09:06	⚠ 	You can not write text in this buffer
+2016-02-04 18:09:06	⚠ 	You can not write text in this buffer
+2016-02-04 18:09:06	⚠ 	You can not write text in this buffer
+2016-02-04 18:09:06	⚠ 	You can not write text in this buffer
+2016-02-04 18:09:06	⚠ 	You can not write text in this buffer
+2016-02-04 18:09:06	⚠ 	You can not write text in this buffer
+2016-02-04 18:09:06	⚠ 	You can not write text in this buffer
+2016-02-04 18:09:06	⚠ 	You can not write text in this buffer
+2016-02-04 18:09:06	⚠ 	You can not write text in this buffer
+2016-02-04 18:09:06	⚠ 	You can not write text in this buffer
+2016-02-04 18:09:06	⚠ 	You can not write text in this buffer
+2016-02-04 18:09:06	⚠ 	You can not write text in this buffer
+2016-02-04 18:09:06	⚠ 	You can not write text in this buffer
+2016-02-04 18:09:06	⚠ 	You can not write text in this buffer
+2016-02-04 18:09:06	⚠ 	You can not write text in this buffer
+2016-02-04 18:09:06	⚠ 	You can not write text in this buffer
+2016-02-04 18:09:06	⚠ 	You can not write text in this buffer
+2016-02-04 18:09:06	⚠ 	You can not write text in this buffer
+2016-02-04 18:09:06	⚠ 	You can not write text in this buffer
+2016-02-04 18:09:06	⚠ 	You can not write text in this buffer
+2016-02-04 18:09:06	⚠ 	You can not write text in this buffer
+2016-02-04 18:09:06	⚠ 	You can not write text in this buffer
+2016-02-04 18:09:06	⚠ 	You can not write text in this buffer
+2016-02-04 18:09:06	⚠ 	You can not write text in this buffer
+2016-02-04 18:09:06	⚠ 	You can not write text in this buffer
+2016-02-04 18:09:06	⚠ 	You can not write text in this buffer
+2016-02-04 18:09:06	⚠ 	You can not write text in this buffer
+2016-02-04 18:09:06	⚠ 	You can not write text in this buffer
+2016-02-04 18:09:06	⚠ 	You can not write text in this buffer
+2016-02-04 18:09:06	⚠ 	You can not write text in this buffer
+2016-02-04 18:09:06	⚠ 	You can not write text in this buffer
+2016-02-04 18:09:23		irc: server snoo added
+2016-02-04 18:10:09		fifo: pipe closed
+2016-02-08 17:01:05		perl scripts loaded: buffers, iset
+2016-02-08 17:01:05		script: downloading list of scripts...
+2016-02-08 17:01:05		Plugins loaded: alias, aspell, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2016-02-08 17:01:06		script: 299 scripts for WeeChat 1.4
+2016-02-08 17:01:16	⚠ 	irc: unable to add temporary server "irc.freenode.net" because the addition of temporary servers with command /connect is currently disabled
+2016-02-08 17:01:16	⚠ 	irc: if you want to add a standard server, use the command "/server add" (see /help server); if you really want to add a temporary server (NOT SAVED), turn on the option irc.look.temporary_servers
+2016-02-08 17:01:30		irc: server freenode added
+2016-02-08 17:01:38	⚠ 	irc: command "join" must be executed on connected irc server
+2016-02-08 17:01:41	⚠ 	irc: command "join" must be executed on connected irc server
+2016-02-08 17:04:27		fifo: pipe closed
+2016-02-08 17:04:38		perl scripts loaded: buffers, iset
+2016-02-08 17:04:38		script: 299 scripts for WeeChat 1.4
+2016-02-08 17:04:38		Plugins loaded: alias, aspell, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2016-02-08 17:04:45		fifo: pipe closed

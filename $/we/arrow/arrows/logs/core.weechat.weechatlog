@@ -1,0 +1,7 @@
+2016-02-01 18:16:58		Plugins loaded: alias, aspell, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2016-02-01 18:17:13	+	irc: command "join" must be executed on irc buffer (server or channel)
+2016-02-01 18:17:21	+	irc: unable to add temporary server "irc.snoonet.org" because the addition of temporary servers with command /connect is currently disabled
+2016-02-01 18:17:21	+	irc: if you want to add a standard server, use the command "/server add" (see /help server); if you really want to add a temporary server (NOT SAVED), turn on the option irc.look.temporary_servers
+2016-02-01 18:17:31	+	Error with command "/server  irc.snoonet.org" (help on command: /help server)
+2016-02-01 18:17:40		irc: server snoo added
+2016-02-01 18:30:19		fifo: pipe closed

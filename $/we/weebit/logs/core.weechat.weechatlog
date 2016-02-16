@@ -1,0 +1,20 @@
+2016-02-01 18:25:44		Plugins loaded: alias, aspell, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2016-02-01 18:26:00		irc: server snoo added
+2016-02-01 18:26:31	 !!! 	irc: unable to add temporary server "politics" because the addition of temporary servers with command /connect is currently disabled
+2016-02-01 18:26:31	 !!! 	irc: if you want to add a standard server, use the command "/server add" (see /help server); if you really want to add a temporary server (NOT SAVED), turn on the option irc.look.temporary_servers
+2016-02-01 18:26:39	 !!! 	irc: already connected to server "snoo"!
+2016-02-01 18:27:53		fifo: pipe closed
+2016-02-01 18:28:07		Plugins loaded: alias, aspell, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2016-02-01 18:28:09		fifo: pipe closed
+2016-02-01 21:38:26		Plugins loaded: alias, aspell, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2016-02-01 21:38:30	 !!! 	irc: command "join" must be executed on irc buffer (server or channel)
+2016-02-01 21:38:37		fifo: pipe closed
+2016-02-08 17:02:38	 !!! 	Warning: ./weebit/irc.conf, line 84: unknown option for section "network": alternate_nick = on
+2016-02-08 17:02:38		Plugins loaded: alias, aspell, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2016-02-08 17:02:50	 !!! 	irc: unable to add temporary server "irc.freenode.net" because the addition of temporary servers with command /connect is currently disabled
+2016-02-08 17:02:50	 !!! 	irc: if you want to add a standard server, use the command "/server add" (see /help server); if you really want to add a temporary server (NOT SAVED), turn on the option irc.look.temporary_servers
+2016-02-08 17:03:04		irc: server freenode added
+2016-02-08 17:03:28	 !!! 	irc: command "join" must be executed on connected irc server
+2016-02-08 17:03:32	 !!! 	irc: command "join" must be executed on connected irc server
+2016-02-08 17:05:03	 !!! 	Error: unknown command "/quir" (type /help for help)
+2016-02-08 17:05:05		fifo: pipe closed

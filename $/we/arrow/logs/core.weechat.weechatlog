@@ -1,0 +1,7 @@
+2016-02-01 21:38:19		Plugins loaded: alias, aspell, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2016-02-01 21:38:21		fifo: pipe closed
+2016-02-08 17:02:22	=!=	Warning: ./arrow/irc.conf, line 84: unknown option for section "network": alternate_nick = on
+2016-02-08 17:02:22		Plugins loaded: alias, aspell, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2016-02-08 17:02:32	=!=	irc: unable to add temporary server "irc.freenode.net" because the addition of temporary servers with command /connect is currently disabled
+2016-02-08 17:02:32	=!=	irc: if you want to add a standard server, use the command "/server add" (see /help server); if you really want to add a temporary server (NOT SAVED), turn on the option irc.look.temporary_servers
+2016-02-08 17:02:34		fifo: pipe closed

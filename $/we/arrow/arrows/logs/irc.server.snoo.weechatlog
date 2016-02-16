@@ -1,0 +1,95 @@
+2016-02-01 18:17:43	↻	irc: connecting to server irc.snoonet.org/6667...
+2016-02-01 18:17:43	↻	irc: connected to irc.snoonet.org/6667 (158.69.213.102)
+2016-02-01 18:17:44	+	irc: reading data on socket: error 2 (connection closed by peer)
+2016-02-01 18:17:44	↻	irc: disconnecting from server...
+2016-02-01 18:17:44	↻	irc: disconnected from server
+2016-02-01 18:17:44	↻	irc: reconnecting to server in 10 seconds
+2016-02-01 18:17:54	↻	irc: reconnecting to server...
+2016-02-01 18:17:54	↻	irc: connecting to server irc.snoonet.org/6667...
+2016-02-01 18:17:54	↻	irc: connected to irc.snoonet.org/6667 (198.245.51.167)
+2016-02-01 18:17:54	↻	veronica.snoonet.org: *** Looking up your hostname...
+2016-02-01 18:17:54	↻	veronica.snoonet.org: *** If you are having problems connecting due to ping timeouts, please type /quote PONG mQwXiXiwch or /raw PONG mQwXiXiwch now.
+2016-02-01 18:17:54	↻	veronica.snoonet.org: *** Found your hostname (ip68-3-11-156.ph.ph.cox.net)
+2016-02-01 18:17:55	↻	veronica.snoonet.org: Welcome to Snoonet!
+2016-02-01 18:17:55	↻	Welcome to the Snoonet IRC Network michael!michael@ip68-3-11-156.ph.ph.cox.net
+2016-02-01 18:17:55	↻	Your host is veronica.snoonet.org, running version InspIRCd-2.0
+2016-02-01 18:17:55	↻	This server was created 22:09:23 May 11 2015
+2016-02-01 18:17:55	↻	veronica.snoonet.org InspIRCd-2.0 BGHILORSTWcdghikorswx ABCDFGHIJKLMNOPQRSTUXYZbcdefghijklmnoprstuvwxz FHIJLUXYZbdefghjklovwx
+2016-02-01 18:17:55	↻	AWAYLEN=200 CALLERID=g CASEMAPPING=rfc1459 CHANMODES=IXZbegw,k,FHJLUdfjlx,ABCDGKMNOPQRSTcimnprstuz CHANNELLEN=64 CHANTYPES=# CHARSET=ascii ELIST=MU ESILENCE EXCEPTS=e EXTBAN=,ABCNOQRSTUcjmprsz FNC INVEX=I :are supported by this server
+2016-02-01 18:17:55	↻	KICKLEN=255 MAP MAXBANS=60 MAXCHANNELS=200 MAXPARA=32 MAXTARGETS=20 MODES=50 NAMESX NETWORK=Snoonet NICKLEN=27 OPERLOG PREFIX=(Yohv)!@%+ REMOVE :are supported by this server
+2016-02-01 18:17:55	↻	SECURELIST SILENCE=32 SSL=[::]:6697 STATUSMSG=!@%+ TOPICLEN=1000 UHNAMES USERIP VBANLIST WALLCHOPS WALLVOICES WATCH=64 :are supported by this server
+2016-02-01 18:17:55	↻	1VEABUYX3 :your unique ID
+2016-02-01 18:17:55	↻	veronica.snoonet.org message of the day
+2016-02-01 18:17:55	↻	- #/-#/-#/-#/-#/-#/-#/-#/-#/-#/-#/-#/-#/-#/-#/-#/-#/-#/-#/-#/-#/-#/-#/-
+2016-02-01 18:17:55	↻	-
+2016-02-01 18:17:55	↻	-
+2016-02-01 18:17:55	↻	-   _____                              _
+2016-02-01 18:17:55	↻	-  / ____|                            | |
+2016-02-01 18:17:55	↻	- | (___  _ __   ___   ___  _ __   ___| |_
+2016-02-01 18:17:55	↻	-  \___ \| '_ \ / _ \ / _ \| '_ \ / _ \ __|
+2016-02-01 18:17:55	↻	-  ____) | | | | (_) | (_) | | | |  __/ |_
+2016-02-01 18:17:55	↻	- |_____/|_| |_|\___/ \___/|_| |_|\___|\__|
+2016-02-01 18:17:55	↻	-
+2016-02-01 18:17:55	↻	-
+2016-02-01 18:17:55	↻	-
+2016-02-01 18:17:55	↻	- Welcome to the Snoonet Chat Network.
+2016-02-01 18:17:55	↻	-
+2016-02-01 18:17:55	↻	- By connecting to Snoonet you indicate that you have read and
+2016-02-01 18:17:55	↻	- accept our policies as set out on http://www.snoonet.org/rules .
+2016-02-01 18:17:55	↻	- Snoonet runs an open proxy scanner.  If you continue connecting
+2016-02-01 18:17:55	↻	- to Snoonet, you agree to this scanning to protect our network
+2016-02-01 18:17:55	↻	- from scammers, spammers and the propagation of viruses.
+2016-02-01 18:17:55	↻	-
+2016-02-01 18:17:55	↻	-
+2016-02-01 18:17:55	↻	- Please visit our ruleset listed at http://www.snoonet.org/rules .
+2016-02-01 18:17:55	↻	- Yes, this is so important we list it twice. Snoonet does not have
+2016-02-01 18:17:55	↻	- many network wide rules but the ones we do have we enforce
+2016-02-01 18:17:55	↻	- to the best of our ability. This may also include the use of
+2016-02-01 18:17:55	↻	- automated oper utilities and/or standalone network bots that may
+2016-02-01 18:17:55	↻	- join/part your channel, or the mass setting of channel modes across
+2016-02-01 18:17:55	↻	- all network channels to protect you and your users during times
+2016-02-01 18:17:55	↻	- of network turmoil.
+2016-02-01 18:17:55	↻	-
+2016-02-01 18:17:55	↻	- Please join #help if you have questions about any of the above
+2016-02-01 18:17:55	↻	- information.
+2016-02-01 18:17:55	↻	-
+2016-02-01 18:17:55	↻	- Network Administration may remove any problem user at any time
+2016-02-01 18:17:55	↻	- for the betterment of all users. This includes, but is not limited
+2016-02-01 18:17:55	↻	- to, trolling, attempting to receive or spread users personal
+2016-02-01 18:17:55	↻	- information (also known as Doxxing), vote brigading on any social
+2016-02-01 18:17:55	↻	- media websites, or any thing that network administration sees as
+2016-02-01 18:17:55	↻	- potentially harmful to the atmosphere of Snoonet.
+2016-02-01 18:17:55	↻	-
+2016-02-01 18:17:55	↻	-
+2016-02-01 18:17:55	↻	-
+2016-02-01 18:17:55	↻	- Our network rules are located here: http://www.snoonet.org/rules .
+2016-02-01 18:17:55	↻	-
+2016-02-01 18:17:55	↻	- Ignorance is not an excuse - most of the network rules are common sense.
+2016-02-01 18:17:55	↻	-
+2016-02-01 18:17:55	↻	- #/-#/-#/-#/-#/-#/-#/-#/-#/-#/-#/-#/-#/-#/-#/-#/-#/-#/-#/-#/-#/-#/-#/-
+2016-02-01 18:17:55	↻	-
+2016-02-01 18:17:55	↻	-
+2016-02-01 18:17:55	↻	-
+2016-02-01 18:17:55	↻	End of message of the day.
+2016-02-01 18:17:55	↻	There are 148 users and 4738 invisible on 14 servers
+2016-02-01 18:17:55	↻	27 :operator(s) online
+2016-02-01 18:17:55	↻	1 :unknown connections
+2016-02-01 18:17:55	↻	3806 :channels formed
+2016-02-01 18:17:55	↻	I have 1146 clients and 1 servers
+2016-02-01 18:17:55	↻	Current Local Users: 1146  Max: 1699
+2016-02-01 18:17:55	↻	Current Global Users: 4886  Max: 4981
+2016-02-01 18:17:55	↻	Snoonet-dcp.r84.1kbodk.IP :is now your displayed host
+2016-02-01 18:17:55	↻	User mode [+wxiI] by michael
+2016-02-01 18:17:55	↻	NickServ (NickServ@snoonet/services/NickServ): This nickname is registered and protected.  If it is your
+2016-02-01 18:17:55	↻	NickServ (NickServ@snoonet/services/NickServ): nick, type /msg NickServ IDENTIFY password.  Otherwise,
+2016-02-01 18:17:55	↻	NickServ (NickServ@snoonet/services/NickServ): please choose a different nick.
+2016-02-01 18:17:55	↻	NickServ (NickServ@snoonet/services/NickServ): If you do not change within 1 minute, I will change your nick.
+2016-02-01 18:17:55	↻	Global (Global@snoonet/services/Global): [Logon News - Oct 22 22:28:09 2015 UTC] Need to contact us for any reason and can't join #help? Snoonet has implemented a ticket system to serve you better. Support requests, including ban appeals, can now be initiated by visiting https://support.snoonet.org
+2016-02-01 18:17:55	↻	Global (Global@snoonet/services/Global): [Random News - Jun 12 17:58:20 2015 UTC] Did you know: ThatOneRoadie once apologized for being too Canadian, shortly after body checking a moose on skates because the moose roughed up his goalie.
+2016-02-01 18:18:14	↻	You are now known as trump
+2016-02-01 18:18:14	↻	NickServ (NickServ@snoonet/services/NickServ): This nickname is registered and protected.  If it is your
+2016-02-01 18:18:14	↻	NickServ (NickServ@snoonet/services/NickServ): nick, type /msg NickServ IDENTIFY password.  Otherwise,
+2016-02-01 18:18:14	↻	NickServ (NickServ@snoonet/services/NickServ): please choose a different nick.
+2016-02-01 18:18:14	↻	NickServ (NickServ@snoonet/services/NickServ): If you do not change within 1 minute, I will change your nick.
+2016-02-01 18:19:14	↻	NickServ (NickServ@snoonet/services/NickServ): Your nickname is now being changed to Snoo46642
+2016-02-01 18:19:14	↻	You are now known as Snoo46642

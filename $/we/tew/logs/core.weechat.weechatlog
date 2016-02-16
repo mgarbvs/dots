@@ -1,0 +1,20 @@
+2016-02-15 10:38:15		Plugins loaded: alias, aspell, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2016-02-15 10:38:20		script: downloading list of scripts...
+2016-02-15 10:38:21		script: 299 scripts for WeeChat 1.4
+2016-02-15 10:38:33		python: stdout/stderr: Missing package(s) for urlserver: /home/michael/.linuxbrew/Cellar/python/2.7.11/lib/python2.7/lib-dynload/_struct.so: undefined symbol: PyUnicodeUCS2_AsEncodedString
+2016-02-15 10:38:33		python: stdout/stderr: Traceback (most recent call last):
+2016-02-15 10:38:33		python: stdout/stderr:   File "/home/michael/$/we/tew/python/urlserver.py", line 150, in <module>
+2016-02-15 10:38:33		python: stdout/stderr:     'regex': re.compile(r'(\w+://(?:%s|%s)(?::\d+)?(?:/[^\])>\s]*)?)' %
+2016-02-15 10:38:33		python: stdout/stderr: NameError: name 're' is not defined
+2016-02-15 10:38:33	=!=	python: unable to parse file "/home/michael/$/we/tew/python/urlserver.py"
+2016-02-15 10:38:37		fifo: pipe closed
+2016-02-15 10:38:47		perl scripts loaded: buffers, iset
+2016-02-15 10:38:47		python: stdout/stderr: Missing package(s) for urlserver: /home/michael/.linuxbrew/Cellar/python/2.7.11/lib/python2.7/lib-dynload/_struct.so: undefined symbol: PyUnicodeUCS2_AsEncodedString
+2016-02-15 10:38:47		python: stdout/stderr: Traceback (most recent call last):
+2016-02-15 10:38:47		python: stdout/stderr:   File "/home/michael/$/we/tew/python/autoload/urlserver.py", line 150, in <module>
+2016-02-15 10:38:47		python: stdout/stderr:     'regex': re.compile(r'(\w+://(?:%s|%s)(?::\d+)?(?:/[^\])>\s]*)?)' %
+2016-02-15 10:38:47		python: stdout/stderr: NameError: name 're' is not defined
+2016-02-15 10:38:47	=!=	python: unable to parse file "/home/michael/$/we/tew/python/autoload/urlserver.py"
+2016-02-15 10:38:47		script: 299 scripts for WeeChat 1.4
+2016-02-15 10:38:47		Plugins loaded: alias, aspell, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2016-02-15 10:38:55		fifo: pipe closed

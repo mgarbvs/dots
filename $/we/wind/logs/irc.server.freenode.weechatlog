@@ -1,0 +1,60 @@
+2016-02-08 17:01:33	ℹ 	irc: connecting to server irc.freenode.net/6667...
+2016-02-08 17:01:35	ℹ 	irc: connected to irc.freenode.net/6667 (185.30.166.37)
+2016-02-08 17:01:35	ℹ 	verne.freenode.net: *** Looking up your hostname...
+2016-02-08 17:01:35	ℹ 	verne.freenode.net: *** Checking Ident
+2016-02-08 17:01:35	ℹ 	verne.freenode.net: *** Found your hostname
+2016-02-08 17:01:41	ℹ 	verne.freenode.net: *** No Ident response
+2016-02-08 17:01:42	ℹ 	irc: nickname "michael" is already in use, trying nickname "michael1"
+2016-02-08 17:01:42	ℹ 	irc: nickname "michael1" is already in use, trying nickname "michael2"
+2016-02-08 17:01:42	ℹ 	Welcome to the freenode Internet Relay Chat Network michael2
+2016-02-08 17:01:42	ℹ 	Your host is verne.freenode.net[185.30.166.37/6667], running version ircd-seven-1.1.3
+2016-02-08 17:01:42	ℹ 	This server was created Wed Jun 10 2015 at 11:49:56 UTC
+2016-02-08 17:01:42	ℹ 	verne.freenode.net ircd-seven-1.1.3 DOQRSZaghilopswz CFILMPQSbcefgijklmnopqrstvz bkloveqjfI
+2016-02-08 17:01:42	ℹ 	CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode KNOCK STATUSMSG=@+ CALLERID=g :are supported by this server
+2016-02-08 17:01:42	ℹ 	CASEMAPPING=rfc1459 CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 ETRACE CPRIVMSG CNOTICE DEAF=D MONITOR=100 FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: :are supported by this server
+2016-02-08 17:01:42	ℹ 	EXTBAN=$,ajrxz WHOX CLIENTVER=3.0 SAFELIST ELIST=CTU :are supported by this server
+2016-02-08 17:01:42	ℹ 	There are 147 users and 85574 invisible on 27 servers
+2016-02-08 17:01:42	ℹ 	27 :IRC Operators online
+2016-02-08 17:01:42	ℹ 	5 :unknown connection(s)
+2016-02-08 17:01:42	ℹ 	56369 :channels formed
+2016-02-08 17:01:42	ℹ 	I have 3083 clients and 2 servers
+2016-02-08 17:01:42	ℹ 	3083 3520 :Current local users 3083, max 3520
+2016-02-08 17:01:42	ℹ 	85721 97497 :Current global users 85721, max 97497
+2016-02-08 17:01:42	ℹ 	Highest connection count: 3522 (3520 clients) (79597 connections received)
+2016-02-08 17:01:42	ℹ 	- verne.freenode.net Message of the Day -
+2016-02-08 17:01:42	ℹ 	- Welcome to verne.freenode.net in Amsterdam, NL.
+2016-02-08 17:01:42	ℹ 	- Thanks to http://www.hyperfilter.com/ for sponsoring
+2016-02-08 17:01:42	ℹ 	- this server!
+2016-02-08 17:01:42	ℹ 	-
+2016-02-08 17:01:42	ℹ 	-
+2016-02-08 17:01:42	ℹ 	- VERNE, Jules (1828-1905). Born in Nantes, France, Verne was
+2016-02-08 17:01:42	ℹ 	- a pioneering french author known for novels such as Twenty
+2016-02-08 17:01:42	ℹ 	- Thousand Leagues Under the Sea, A Journey to the Center of the
+2016-02-08 17:01:42	ℹ 	- Earth, and Around the World in Eighty Days. Often lauded as the
+2016-02-08 17:01:42	ℹ 	- Father of science fiction, Verne wrote about concepts such as
+2016-02-08 17:01:42	ℹ 	- space travel, skyscrapers, and worldwide communications
+2016-02-08 17:01:42	ℹ 	- networks long before these ideas became popularised or realised.
+2016-02-08 17:01:42	ℹ 	-
+2016-02-08 17:01:42	ℹ 	- Welcome to freenode - supporting the free and open source
+2016-02-08 17:01:42	ℹ 	- software communities since 1998.
+2016-02-08 17:01:42	ℹ 	-
+2016-02-08 17:01:42	ℹ 	- By connecting to freenode you indicate that you have read and
+2016-02-08 17:01:42	ℹ 	- accept our policies as set out on http://www.freenode.net
+2016-02-08 17:01:42	ℹ 	- freenode runs an open proxy scanner. Please join #freenode for
+2016-02-08 17:01:42	ℹ 	- any network-related questions or queries, where a number of
+2016-02-08 17:01:42	ℹ 	- volunteer staff and helpful users will be happy to assist you.
+2016-02-08 17:01:42	ℹ 	-
+2016-02-08 17:01:42	ℹ 	- You can meet us at FOSSCON (http://www.fosscon.org) where we get
+2016-02-08 17:01:42	ℹ 	- together with like-minded FOSS enthusiasts for talks and
+2016-02-08 17:01:42	ℹ 	- real-life collaboration.
+2016-02-08 17:01:42	ℹ 	-
+2016-02-08 17:01:42	ℹ 	- We would like to thank Private Internet Access
+2016-02-08 17:01:42	ℹ 	- (https://www.privateinternetaccess.com/) and the other
+2016-02-08 17:01:42	ℹ 	- organisations that help keep freenode and our other projects
+2016-02-08 17:01:42	ℹ 	- running for their sustained support.
+2016-02-08 17:01:42	ℹ 	-
+2016-02-08 17:01:42	ℹ 	- In particular we would like to thank the sponsor
+2016-02-08 17:01:42	ℹ 	- of this server, details of which can be found above.
+2016-02-08 17:01:42	ℹ 	-
+2016-02-08 17:01:42	ℹ 	End of /MOTD command.
+2016-02-08 17:01:42	ℹ 	User mode [+i] by michael2
