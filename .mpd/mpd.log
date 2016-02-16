@@ -1,0 +1,1570 @@
+Feb 13 12:52 : client: [0] opened from 127.0.0.1:56204
+Feb 13 12:52 : client: [0] closed
+Feb 13 12:52 : client: [1] opened from 127.0.0.1:56206
+Feb 13 12:52 : avahi: Service 'Music Player' successfully established.
+Feb 13 12:52 : player: played "Homeshake - Midnight Snack/10 Give It To Me.mp3"
+Feb 13 12:52 : client: [1] closed
+Feb 13 12:52 : client: [2] opened from 127.0.0.1:56210
+Feb 13 12:52 : client: [2] closed
+Feb 13 12:52 : client: [3] opened from 127.0.0.1:56212
+Feb 13 12:54 : player: played "Aphex Twin/2005 02 21 - AFX - Analord 04/01 - AFX - Crying In Your Face.mp3"
+Feb 13 14:18 : player: played "Homeshake - Midnight Snack/10 Give It To Me.mp3"
+Feb 13 14:30 : client: [3] closed
+Feb 13 14:30 : player: played "Homeshake - Midnight Snack/01 What Did He Look Like_.mp3"
+Feb 13 14:31 : client: [4] opened from 127.0.0.1:57090
+Feb 13 14:31 : client: [4] closed
+Feb 13 14:31 : client: [5] opened from 127.0.0.1:57092
+Feb 13 14:45 : avahi: Service 'Music Player' successfully established.
+Feb 13 14:45 : client: [0] opened from 127.0.0.1:52332
+Feb 13 14:45 : client: [0] closed
+Feb 13 14:45 : client: [1] opened from 127.0.0.1:52334
+Feb 13 14:45 : player: played "Homeshake - Midnight Snack/02 Heat.mp3"
+Feb 13 14:47 : client: [1] closed
+Feb 13 14:47 : client: [2] opened from 127.0.0.1:52352
+Feb 13 14:47 : client: [2] closed
+Feb 13 14:47 : client: [3] opened from 127.0.0.1:52354
+Feb 13 14:48 : player: played "Homeshake - Midnight Snack/02 Heat.mp3"
+Feb 13 14:51 : player: played "Homeshake - Midnight Snack/10 Give It To Me.mp3"
+Feb 13 15:09 : client: [0] opened from 127.0.0.1:52906
+Feb 13 15:09 : client: [0] closed
+Feb 13 15:09 : client: [1] opened from 127.0.0.1:52908
+Feb 13 15:09 : avahi: Service 'Music Player' successfully established.
+Feb 13 15:09 : player: played "Homeshake - Midnight Snack/10 Give It To Me.mp3"
+Feb 13 15:09 : player: played "Homeshake - Midnight Snack/10 Give It To Me.mp3"
+Feb 13 15:10 : player: played "Homeshake - Midnight Snack/01 What Did He Look Like_.mp3"
+Feb 13 15:13 : client: [1] closed
+Feb 13 15:13 : client: [2] opened from 127.0.0.1:52958
+Feb 13 15:13 : client: [2] closed
+Feb 13 15:13 : client: [3] opened from 127.0.0.1:52960
+Feb 13 15:14 : client: [3] closed
+Feb 13 15:14 : player: played "Homeshake - Midnight Snack/02 Heat.mp3"
+Feb 13 15:38 : client: [0] opened from 127.0.0.1:34090
+Feb 13 15:38 : client: [0] closed
+Feb 13 15:38 : client: [1] opened from 127.0.0.1:34092
+Feb 13 15:38 : avahi: Service 'Music Player' successfully established.
+Feb 13 15:38 : player: played "Homeshake - Midnight Snack/02 Heat.mp3"
+Feb 13 15:39 : client: [1] closed
+Feb 13 15:39 : client: [2] opened from 127.0.0.1:34096
+Feb 13 15:39 : client: [2] closed
+Feb 13 15:39 : client: [3] opened from 127.0.0.1:34098
+Feb 13 15:39 : client: [3] closed
+Feb 13 15:39 : client: [4] opened from 127.0.0.1:34100
+Feb 13 15:39 : client: [4] closed
+Feb 13 15:39 : client: [5] opened from 127.0.0.1:34102
+Feb 13 15:39 : client: [5] closed
+Feb 13 15:39 : client: [6] opened from 127.0.0.1:34104
+Feb 13 15:39 : client: [6] closed
+Feb 13 15:39 : client: [7] opened from 127.0.0.1:34106
+Feb 13 15:39 : player: played "Homeshake - Midnight Snack/01 What Did He Look Like_.mp3"
+Feb 13 15:40 : player: played "Homeshake - Midnight Snack/02 Heat.mp3"
+Feb 13 15:41 : player: played "Elegy/Elegy/Elegy.mp3"
+Feb 13 15:41 : player: played "Sword & Sworcery LP - The Ballad of the/02 Lone Star.mp3"
+Feb 13 15:45 : client: [7] closed
+Feb 13 15:45 : client: [8] opened from 127.0.0.1:34124
+Feb 13 15:45 : client: [8] closed
+Feb 13 15:46 : client: [9] opened from 127.0.0.1:34128
+Feb 13 15:46 : client: [9] closed
+Feb 13 15:46 : client: [10] opened from 127.0.0.1:34130
+Feb 13 15:46 : client: [10] closed
+Feb 13 15:46 : client: [11] opened from 127.0.0.1:34132
+Feb 13 15:46 : client: [11] closed
+Feb 13 15:47 : client: [12] opened from 127.0.0.1:34134
+Feb 13 15:49 : player: played "Tchaikovsky_ The Seasons/01 Tchaikovsky_ Les Saisons, Op. 37B.mp3"
+Feb 13 15:53 : player: played "Tchaikovsky_ The Seasons/02 Tchaikovsky_ Les Saisons, Op. 37B.mp3"
+Feb 13 16:07 : player: played "Tchaikovsky_ The Seasons/03 Tchaikovsky_ Les Saisons, Op. 37B.mp3"
+Feb 13 16:08 : player: played "zaz paris/01. Paris Sera Toujours Paris.mp3"
+Feb 13 16:09 : player: played "Homeshake - Midnight Snack/01 What Did He Look Like_.mp3"
+Feb 13 16:11 : update: added ２８１４ - 新しい日の誕生 [CD-R] [FLAC]/07 テレパシー.flac
+Feb 13 16:11 : update: added ２８１４ - 新しい日の誕生 [CD-R] [FLAC]/01 恢复.flac
+Feb 13 16:11 : update: added ２８１４ - 新しい日の誕生 [CD-R] [FLAC]/06 真実の恋.flac
+Feb 13 16:11 : update: added ２８１４ - 新しい日の誕生 [CD-R] [FLAC]/08 新しい日の誕生.flac
+Feb 13 16:11 : update: added ２８１４ - 新しい日の誕生 [CD-R] [FLAC]/05 悲哀.flac
+Feb 13 16:11 : update: added ２８１４ - 新しい日の誕生 [CD-R] [FLAC]/04 ふわっと.flac
+Feb 13 16:11 : update: added ２８１４ - 新しい日の誕生 [CD-R] [FLAC]/02 遠くの愛好家.flac
+Feb 13 16:11 : update: added ２８１４ - 新しい日の誕生 [CD-R] [FLAC]/03 新宿ゴールデン街.flac
+Feb 13 16:12 : player: played "Homeshake - Midnight Snack/02 Heat.mp3"
+Feb 13 16:15 : player: played "Homeshake - Midnight Snack/10 Give It To Me.mp3"
+Feb 13 16:18 : player: played "Homeshake - Midnight Snack/11 Midnight.mp3"
+Feb 13 16:23 : player: played "２８１４ - 新しい日の誕生 [CD-R] [FLAC]/01 恢复.flac"
+Feb 13 16:23 : player: played "２８１４ - 新しい日の誕生 [CD-R] [FLAC]/02 遠くの愛好家.flac"
+Feb 13 16:23 : player: played "２８１４ - 新しい日の誕生 [CD-R] [FLAC]/01 恢复.flac"
+Feb 13 16:24 : player: played "２８１４ - 新しい日の誕生 [CD-R] [FLAC]/01 恢复.flac"
+Feb 13 16:24 : player: played "２８１４ - 新しい日の誕生 [CD-R] [FLAC]/02 遠くの愛好家.flac"
+Feb 13 16:24 : player: played "２８１４ - 新しい日の誕生 [CD-R] [FLAC]/01 恢复.flac"
+Feb 13 16:27 : player: played "２８１４ - 新しい日の誕生 [CD-R] [FLAC]/02 遠くの愛好家.flac"
+Feb 13 16:35 : player: played "２８１４ - 新しい日の誕生 [CD-R] [FLAC]/02 遠くの愛好家.flac"
+Feb 13 16:44 : player: played "２８１４ - 新しい日の誕生 [CD-R] [FLAC]/03 新宿ゴールデン街.flac"
+Feb 13 16:50 : player: played "２８１４ - 新しい日の誕生 [CD-R] [FLAC]/04 ふわっと.flac"
+Feb 13 17:00 : player: played "２８１４ - 新しい日の誕生 [CD-R] [FLAC]/05 悲哀.flac"
+Feb 13 17:13 : client: [12] closed
+Feb 13 17:14 : client: [13] opened from 127.0.0.1:37474
+Feb 13 17:14 : client: [13] closed
+Feb 13 17:14 : client: [14] opened from 127.0.0.1:37476
+Feb 13 17:14 : client: [14] closed
+Feb 13 17:14 : client: [15] opened from 127.0.0.1:37478
+Feb 13 17:16 : player: played "２８１４ - 新しい日の誕生 [CD-R] [FLAC]/06 真実の恋.flac"
+Feb 13 17:30 : player: played "２８１４ - 新しい日の誕生 [CD-R] [FLAC]/07 テレパシー.flac"
+Feb 13 17:49 : player: played "２８１４ - 新しい日の誕生 [CD-R] [FLAC]/08 新しい日の誕生.flac"
+Feb 13 17:51 : client: [15] closed
+Feb 13 17:51 : client: [16] opened from 127.0.0.1:39362
+Feb 13 17:51 : client: [16] closed
+Feb 13 17:51 : client: [17] opened from 127.0.0.1:39366
+Feb 13 17:51 : client: [17] closed
+Feb 13 17:51 : client: [18] opened from 127.0.0.1:39368
+Feb 13 17:51 : client: [18] closed
+Feb 13 17:51 : client: [19] opened from 127.0.0.1:39370
+Feb 13 17:52 : client: [19] closed
+Feb 13 17:52 : client: [20] opened from 127.0.0.1:39372
+Feb 13 17:58 : player: played "oxygene/01 Oxygene, Pt. 1.mp3"
+Feb 13 18:01 : player: played "Captain Murphy - Duality/02 El Topo (prod. Alejandro Jodorowsky).mp3"
+Feb 13 18:02 : player: played "PhinBD/01- Lam Phu Thai # 1.mp3"
+Feb 13 18:06 : client: [21] opened from 127.0.0.1:39454
+Feb 13 18:06 : client: [21] closed
+Feb 13 18:06 : client: [22] opened from 127.0.0.1:39458
+Feb 13 18:06 : client: [22] closed
+Feb 13 18:06 : client: [23] opened from 127.0.0.1:39462
+Feb 13 18:06 : client: [23] closed
+Feb 13 18:12 : player: played "oxygene/02 Oxygene, Pt. 2.mp3"
+Feb 13 18:15 : player: played "oxygene/03 Oxygene, Pt. 3.mp3"
+Feb 13 18:25 : avahi: Service 'Music Player' successfully established.
+Feb 13 18:25 : client: [0] opened from 127.0.0.1:43326
+Feb 13 18:25 : client: [0] closed
+Feb 13 18:25 : client: [1] opened from 127.0.0.1:43328
+Feb 13 18:26 : player: played "oxygene/03 Oxygene, Pt. 3.mp3"
+Feb 13 18:28 : client: [1] closed
+Feb 13 18:29 : client: [2] opened from 127.0.0.1:43362
+Feb 13 18:29 : client: [2] closed
+Feb 13 18:29 : client: [3] opened from 127.0.0.1:43364
+Feb 13 18:29 : client: [3] closed
+Feb 13 18:29 : client: [4] opened from 127.0.0.1:43366
+Feb 13 18:30 : player: played "oxygene/04 Oxygene, Pt. 4.mp3"
+Feb 13 18:38 : player: played "[1998] Air - Moon Safari/Air-01-La Femme d'Argent .mp3"
+Feb 13 18:44 : player: played "[1998] Air - Moon Safari/Air-02-Sexy Boy.mp3"
+Feb 13 18:45 : client: [4] closed
+Feb 13 18:45 : client: [5] opened from 127.0.0.1:43470
+Feb 13 18:45 : client: [5] closed
+Feb 13 18:45 : client: [6] opened from 127.0.0.1:43472
+Feb 13 18:45 : client: [7] opened from 127.0.0.1:43474
+Feb 13 18:45 : client: [7] closed
+Feb 13 18:47 : client: [6] closed
+Feb 13 18:50 : client: [8] opened from 127.0.0.1:43490
+Feb 13 18:50 : client: [8] closed
+Feb 13 18:50 : client: [9] opened from 127.0.0.1:43492
+Feb 13 18:51 : client: [9] closed
+Feb 13 18:51 : client: [10] opened from 127.0.0.1:43510
+Feb 13 18:52 : player: played "Captain Murphy - Duality/02 El Topo (prod. Alejandro Jodorowsky).mp3"
+Feb 13 21:55 : client: [10] closed
+Feb 13 22:36 : client: [11] opened from 127.0.0.1:44524
+Feb 13 22:36 : client: [11] closed
+Feb 13 22:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Feb 13 22:36 : ffmpeg/mjpeg: Changeing bps to 8
+Feb 13 22:36 : update: added Cat Power - Dear Sir/02 Rockets.m4a
+Feb 13 22:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Feb 13 22:36 : ffmpeg/mjpeg: Changeing bps to 8
+Feb 13 22:36 : update: added Cat Power - Dear Sir/07 (Untitled).m4a
+Feb 13 22:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Feb 13 22:36 : ffmpeg/mjpeg: Changeing bps to 8
+Feb 13 22:36 : update: added Cat Power - Dear Sir/03 Itchyhead.m4a
+Feb 13 22:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Feb 13 22:36 : ffmpeg/mjpeg: Changeing bps to 8
+Feb 13 22:36 : client: [12] opened from 127.0.0.1:44526
+Feb 13 22:36 : update: added Cat Power - Dear Sir/06 Mr. Gallo.m4a
+Feb 13 22:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Feb 13 22:36 : ffmpeg/mjpeg: Changeing bps to 8
+Feb 13 22:36 : update: added Cat Power - Dear Sir/05 The Sleepwalker.m4a
+Feb 13 22:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Feb 13 22:36 : ffmpeg/mjpeg: Changeing bps to 8
+Feb 13 22:36 : update: added Cat Power - Dear Sir/09 Headlights.m4a
+Feb 13 22:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Feb 13 22:36 : ffmpeg/mjpeg: Changeing bps to 8
+Feb 13 22:36 : update: added Cat Power - Dear Sir/01 3 Times.m4a
+Feb 13 22:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Feb 13 22:36 : ffmpeg/mjpeg: Changeing bps to 8
+Feb 13 22:36 : update: added Cat Power - Dear Sir/04 Yesterday Is Here.m4a
+Feb 13 22:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Feb 13 22:36 : ffmpeg/mjpeg: Changeing bps to 8
+Feb 13 22:36 : update: added Cat Power - Dear Sir/08 No Matter.m4a
+Feb 13 22:36 : update: added Seaworthy and Taylor Deupree - Wood, Winter, Hollow (2013)/01 - Wood.mp3
+Feb 13 22:36 : update: added Seaworthy and Taylor Deupree - Wood, Winter, Hollow (2013)/04 - February 22, 2013.mp3
+Feb 13 22:36 : update: added Seaworthy and Taylor Deupree - Wood, Winter, Hollow (2013)/03 - Winter.mp3
+Feb 13 22:36 : update: added Seaworthy and Taylor Deupree - Wood, Winter, Hollow (2013)/02 - February 21, 2013.mp3
+Feb 13 22:36 : update: added Seaworthy and Taylor Deupree - Wood, Winter, Hollow (2013)/05 - Hollow.mp3
+Feb 13 22:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 13 22:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 13 22:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 13 22:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 13 22:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 13 22:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 13 22:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 13 22:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 13 22:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 13 22:36 : update: added 1968 - We're Only In It For The Money/05 - Telephone Conversation.mp3
+Feb 13 22:36 : update: added 1968 - We're Only In It For The Money/08 - What's The Ugliest Part Of Your Body .mp3
+Feb 13 22:36 : update: added 1968 - We're Only In It For The Money/17 - What's The Ugliest Part Of Your Body (Reprise).mp3
+Feb 13 22:36 : update: added 1968 - We're Only In It For The Money/12 - Nasal Retentive Calliope Music.mp3
+Feb 13 22:36 : update: added 1968 - We're Only In It For The Money/04 - Mom & Dad.mp3
+Feb 13 22:36 : update: added 1968 - We're Only In It For The Money/15 - Lonely Little Girl.mp3
+Feb 13 22:36 : update: added 1968 - We're Only In It For The Money/16 - Take Your Clothes Off When You Dance.mp3
+Feb 13 22:36 : update: added 1968 - We're Only In It For The Money/11 - Hot Poop.mp3
+Feb 13 22:36 : update: added 1968 - We're Only In It For The Money/02 - Who Needs The Peace Corps .mp3
+Feb 13 22:36 : update: added 1968 - We're Only In It For The Money/13 - Let's Make The Water Turn Black.mp3
+Feb 13 22:36 : update: added 1968 - We're Only In It For The Money/06 - Bow Tie Daddy.mp3
+Feb 13 22:36 : update: added 1968 - We're Only In It For The Money/14 - The Idiot Bastard Son.mp3
+Feb 13 22:36 : update: added 1968 - We're Only In It For The Money/09 - Absolutely Free.mp3
+Feb 13 22:36 : update: added 1968 - We're Only In It For The Money/10 - Flower Punk.mp3
+Feb 13 22:36 : update: added 1968 - We're Only In It For The Money/03 - Concentration Moon.mp3
+Feb 13 22:36 : update: added 1968 - We're Only In It For The Money/07 - Harry, You're A Beast.mp3
+Feb 13 22:36 : update: added 1968 - We're Only In It For The Money/18 - Mother People.mp3
+Feb 13 22:36 : update: added 1968 - We're Only In It For The Money/19 - The Chrome Plated Megaphone Of Destiny.mp3
+Feb 13 22:36 : update: added 1968 - We're Only In It For The Money/01 - Are You Hung Up .mp3
+Feb 13 22:36 : update: added A Kali Yuga Opera/holy haunted head - A Kali Yuga Opera - 11 The Summer Of The BBQ Fairy (Fox Apologizing To The Deer).mp3
+Feb 13 22:36 : update: added A Kali Yuga Opera/holy haunted head - A Kali Yuga Opera - 02 To You.mp3
+Feb 13 22:36 : update: added A Kali Yuga Opera/holy haunted head - A Kali Yuga Opera - 04 Which Branch-.mp3
+Feb 13 22:36 : update: added A Kali Yuga Opera/holy haunted head - A Kali Yuga Opera - 06 Stone & Sticks.mp3
+Feb 13 22:36 : update: added A Kali Yuga Opera/holy haunted head - A Kali Yuga Opera - 15 & Now, Disappear Into The Forgotten Works.mp3
+Feb 13 22:36 : update: added A Kali Yuga Opera/holy haunted head - A Kali Yuga Opera - 07 Last Day (2012 Bird & Bells).mp3
+Feb 13 22:36 : update: added A Kali Yuga Opera/holy haunted head - A Kali Yuga Opera - 10 The Fountain.mp3
+Feb 13 22:36 : update: added A Kali Yuga Opera/holy haunted head - A Kali Yuga Opera - 03 Who Were In I-.mp3
+Feb 13 22:36 : update: added A Kali Yuga Opera/holy haunted head - A Kali Yuga Opera - 08 Before The Tigers Came.mp3
+Feb 13 22:36 : update: added A Kali Yuga Opera/holy haunted head - A Kali Yuga Opera - 12 Fiery Was The Path (Mega-Crossed By Demons).mp3
+Feb 13 22:36 : update: added A Kali Yuga Opera/holy haunted head - A Kali Yuga Opera - 13 (The Log Lady Speaks To Laura Before She Enters The Roadhouse).mp3
+Feb 13 22:36 : update: added A Kali Yuga Opera/holy haunted head - A Kali Yuga Opera - 14 I Made A Crown-Towering Down.mp3
+Feb 13 22:36 : update: added A Kali Yuga Opera/holy haunted head - A Kali Yuga Opera - 09 Oh, Skeleton!.mp3
+Feb 13 22:36 : update: added A Kali Yuga Opera/holy haunted head - A Kali Yuga Opera - 05 Shadows.mp3
+Feb 13 22:36 : update: added A Kali Yuga Opera/holy haunted head - A Kali Yuga Opera - 01 Sister Mary-Welcome Home.mp3
+Feb 13 22:36 : update: added Gas Huffer - The Inhuman Ordeal Of Special Agent/07 - Smile No More.mp3
+Feb 13 22:36 : update: added Gas Huffer - The Inhuman Ordeal Of Special Agent/10 - The Sin Of Sloth.mp3
+Feb 13 22:36 : update: added Gas Huffer - The Inhuman Ordeal Of Special Agent/03 - Sixty Three Hours.mp3
+Feb 13 22:36 : update: added Gas Huffer - The Inhuman Ordeal Of Special Agent/12 - Discovery Park.mp3
+Feb 13 22:36 : update: added Gas Huffer - The Inhuman Ordeal Of Special Agent/13 - Money; 1, Fun; 0.mp3
+Feb 13 22:36 : update: added Gas Huffer - The Inhuman Ordeal Of Special Agent/06 - Matt's Mood.mp3
+Feb 13 22:36 : update: added Gas Huffer - The Inhuman Ordeal Of Special Agent/14 - Plant You Now.mp3
+Feb 13 22:36 : update: added Gas Huffer - The Inhuman Ordeal Of Special Agent/04 - Mosquito Stomp.mp3
+Feb 13 22:36 : update: added Gas Huffer - The Inhuman Ordeal Of Special Agent/09 - Double-O-Bum.mp3
+Feb 13 22:36 : update: added Gas Huffer - The Inhuman Ordeal Of Special Agent/11 - Numbnuts Cold.mp3
+Feb 13 22:36 : update: added Gas Huffer - The Inhuman Ordeal Of Special Agent/05 - Carolina Hot Foot.mp3
+Feb 13 22:36 : update: added Gas Huffer - The Inhuman Ordeal Of Special Agent/01 - You Are Not Your Job.mp3
+Feb 13 22:36 : update: added Gas Huffer - The Inhuman Ordeal Of Special Agent/08 - Tiny Life.mp3
+Feb 13 22:36 : update: added Gas Huffer - The Inhuman Ordeal Of Special Agent/02 - Fall Of The Kingfish.mp3
+Feb 13 22:36 : update: added Hot Rats/03 - Son Of Mr. Green Genes.mp3
+Feb 13 22:36 : update: added Hot Rats/04 - Little Umbrellas.mp3
+Feb 13 22:36 : update: added Hot Rats/02 - Willie The Pimp.mp3
+Feb 13 22:36 : update: added Hot Rats/01 - Peaches En Regalia.mp3
+Feb 13 22:36 : update: added Hot Rats/05 - The Gumbo Variations.mp3
+Feb 13 22:36 : update: added Hot Rats/06 - It Must Be A Camel.mp3
+Feb 13 22:36 : update: added Frank Zappa - Jazz From Hell - v0/07 St. Etienne.mp3
+Feb 13 22:36 : update: added Frank Zappa - Jazz From Hell - v0/08 Massaggio Galore.mp3
+Feb 13 22:36 : update: added Frank Zappa - Jazz From Hell - v0/01 Night School.mp3
+Feb 13 22:36 : update: added Frank Zappa - Jazz From Hell - v0/02 The Beltway Bandits.mp3
+Feb 13 22:36 : update: added Frank Zappa - Jazz From Hell - v0/05 G-Spot Tornado.mp3
+Feb 13 22:36 : update: added Frank Zappa - Jazz From Hell - v0/04 Jazz From Hell.mp3
+Feb 13 22:36 : update: added Frank Zappa - Jazz From Hell - v0/06 Damp Ankles.mp3
+Feb 13 22:36 : update: added Frank Zappa - Jazz From Hell - v0/03 While You Were Art II.mp3
+Feb 13 22:36 : update: added (2012) Bara Bara Na Bamen/12 - Toku No Kosoku Doro Kara.mp3
+Feb 13 22:36 : update: added (2012) Bara Bara Na Bamen/03 - Borei To Tambourine.mp3
+Feb 13 22:36 : update: added (2012) Bara Bara Na Bamen/02 - Ushiro No Kao.mp3
+Feb 13 22:36 : update: added (2012) Bara Bara Na Bamen/04 - June.mp3
+Feb 13 22:36 : update: added (2012) Bara Bara Na Bamen/08 - Blind Lemon Jefferson's Necktie No.3.mp3
+Feb 13 22:36 : update: added (2012) Bara Bara Na Bamen/10 - Nijimu Kubi.mp3
+Feb 13 22:36 : update: added (2012) Bara Bara Na Bamen/07 - Ushi To Jujika.mp3
+Feb 13 22:36 : update: added (2012) Bara Bara Na Bamen/13 - Ikutsumono Heya.mp3
+Feb 13 22:36 : update: added (2012) Bara Bara Na Bamen/09 - Tonari No Heya No Siranai Band.mp3
+Feb 13 22:36 : update: added (2012) Bara Bara Na Bamen/01 - Katamari Kara Nagareru Mono.mp3
+Feb 13 22:36 : update: added (2012) Bara Bara Na Bamen/05 - Blind Lemon Jefferson's Necktie No.2.mp3
+Feb 13 22:36 : update: added (2012) Bara Bara Na Bamen/06 - Tobari.mp3
+Feb 13 22:36 : update: added (2012) Bara Bara Na Bamen/11 - Otakibashi Dori O Nukete.mp3
+Feb 13 22:36 : update: added Don Slepian - Sea Of Bliss, 1983 (listen to this!)/03 Sonic Perfume.mp3
+Feb 13 22:36 : update: added Don Slepian - Sea Of Bliss, 1983 (listen to this!)/01 Sea Of Bliss.mp3
+Feb 13 22:36 : update: added Don Slepian - Sea Of Bliss, 1983 (listen to this!)/02 Awakening.mp3
+Feb 13 22:36 : update: added Albergo Intergalattico Spaziale/ST/04 - Tastiera Solo.mp3
+Feb 13 22:36 : update: added Albergo Intergalattico Spaziale/ST/albergo intergalattico spaziale - 02 - phasing.mp3
+Feb 13 22:36 : update: added Albergo Intergalattico Spaziale/ST/Albergo Intergalattico Spaziale - [1978] - 9 - Hymalaya.mp3
+Feb 13 22:36 : update: added Albergo Intergalattico Spaziale/ST/01 - live pistoia.mp3
+Feb 13 22:36 : update: added Albergo Intergalattico Spaziale/ST/Albergo Intergalattico Spaziale - 05 - Improvvisazione.mp3
+Feb 13 22:36 : update: added Albergo Intergalattico Spaziale/ST/Albergo Intergalattico Spaziale - [1978] - 8 - Sabbie Vergini.mp3
+Feb 13 22:36 : update: added Albergo Intergalattico Spaziale/ST/Albergo Intergalattico Spaziale - 07 - Variazioni su 'angeli di solitudine'.mp3
+Feb 13 22:36 : update: added Albergo Intergalattico Spaziale/ST/06 - 4 tracce.mp3
+Feb 13 22:36 : update: added Albergo Intergalattico Spaziale/ST/03 - Senza Titolo.mp3
+Feb 13 22:36 : update: added (2015) 始発電車 (The First Train)/XINLISUPREME - 始発電車 The First Train - 04 ノビノビ (Nobi Nobi).mp3
+Feb 13 22:36 : update: added (2015) 始発電車 (The First Train)/XINLISUPREME - 始発電車 The First Train - 02 Act 2.mp3
+Feb 13 22:36 : update: added (2015) 始発電車 (The First Train)/XINLISUPREME - 始発電車 The First Train - 05 Oh Yeah!.mp3
+Feb 13 22:36 : update: added (2015) 始発電車 (The First Train)/XINLISUPREME - 始発電車 The First Train - 03 I Am Not Shinzo Abe.mp3
+Feb 13 22:36 : update: added (2015) 始発電車 (The First Train)/XINLISUPREME - 始発電車 The First Train - 06 Nocturne.mp3
+Feb 13 22:36 : update: added (2015) 始発電車 (The First Train)/XINLISUPREME - 始発電車 The First Train - 01 Star.mp3
+Feb 13 22:36 : update: added (2015) 始発電車 (The First Train)/XINLISUPREME - 始発電車 The First Train - 07 始発電車 (The First Train).mp3
+Feb 13 22:36 : player: played "Sword & Sworcery LP - The Ballad of the/02 Lone Star.mp3"
+Feb 13 22:37 : client: [12] closed
+Feb 13 22:39 : client: [13] opened from 127.0.0.1:44546
+Feb 13 22:39 : client: [13] closed
+Feb 13 22:39 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 13 22:39 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 13 22:39 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 13 22:39 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 13 22:39 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 13 22:39 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 13 22:39 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 13 22:39 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 13 22:39 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 13 22:39 : client: [14] opened from 127.0.0.1:44548
+Feb 13 22:39 : client: [14] closed
+Feb 13 22:39 : client: [15] opened from 127.0.0.1:44550
+Feb 13 22:51 : client: [15] closed
+Feb 13 23:07 : client: [16] opened from 127.0.0.1:46854
+Feb 13 23:07 : client: [16] closed
+Feb 13 23:07 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 13 23:07 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 13 23:07 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 13 23:07 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 13 23:07 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 13 23:07 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 13 23:07 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 13 23:07 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 13 23:07 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 13 23:07 : client: [17] opened from 127.0.0.1:46856
+Feb 13 23:07 : player: played "Sword & Sworcery LP - The Ballad of the/02 Lone Star.mp3"
+Feb 13 23:19 : player: played "big selfish & bob hopeless - the indefatigable logic of bing and bob cdr (el frenzy productions, 2015)/02-Drinking Our Way Out Of Trouble.mp3"
+Feb 13 23:31 : player: played "big selfish & bob hopeless - the indefatigable logic of bing and bob cdr (el frenzy productions, 2015)/03-It's The Colours That Get Me Going.mp3"
+Feb 14 00:52 : client: [0] opened from 127.0.0.1:42162
+Feb 14 00:52 : update: removing (2012) 美丽陌生人/01-dear_eloise-hello_hello.mp3
+Feb 14 00:52 : update: removing (2012) 美丽陌生人/02-dear_eloise-secret_life.mp3
+Feb 14 00:52 : update: removing (2012) 美丽陌生人/03-dear_eloise-the_third_color.mp3
+Feb 14 00:52 : update: removing (2012) 美丽陌生人/04-dear_eloise-song_for_her.mp3
+Feb 14 00:52 : update: removing (2012) 美丽陌生人/05-dear_eloise-miss_butterfly.mp3
+Feb 14 00:52 : update: removing (2012) 美丽陌生人/06-dear_eloise-belongs_to_you.mp3
+Feb 14 00:52 : update: removing (2012) 美丽陌生人/07-dear_eloise-too_much_ego.mp3
+Feb 14 00:52 : update: removing (2012) 美丽陌生人/08-dear_eloise-she_never.mp3
+Feb 14 00:52 : update: removing (2012) 美丽陌生人/09-dear_eloise-last_night_in_copenhagen.mp3
+Feb 14 00:52 : update: removing (2012) 美丽陌生人/10-dear_eloise-the_stranger.mp3
+Feb 14 00:52 : update: removing めめ - ちとてとち/01 - ちとてとち.mp3
+Feb 14 00:52 : update: removing めめ - ちとてとち/02 - さっきまで泣いていたのは誰だ？.mp3
+Feb 14 00:52 : update: removing めめ - ちとてとち/03 - ソーダ水がうかぶ月.mp3
+Feb 14 00:52 : update: removing めめ - ちとてとち/04 - ふくろうは夜を待て.mp3
+Feb 14 00:52 : update: removing めめ - ちとてとち/05 - 迷ったのはくまさんアナタの方よ.mp3
+Feb 14 00:52 : update: removing めめ - ちとてとち/06 - くろねこのタンゴ.mp3
+Feb 14 00:52 : update: removing めめ - ちとてとち/07 - 夜明けのアタらシ.mp3
+Feb 14 00:52 : update: removing めめ - ちとてとち/08 - いっこえらんで.mp3
+Feb 14 00:52 : update: removing めめ - ちとてとち/09 - ミセス・ボアー.mp3
+Feb 14 00:52 : client: [0] closed
+Feb 14 00:52 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Feb 14 00:52 : ffmpeg/mjpeg: Changeing bps to 8
+Feb 14 00:52 : update: added bodyline/b o d y l i n e - VIDEO ENCOUNTERS - 07 liquid screen.m4a
+Feb 14 00:52 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Feb 14 00:52 : ffmpeg/mjpeg: Changeing bps to 8
+Feb 14 00:52 : update: added bodyline/b o d y l i n e - VIDEO ENCOUNTERS - 05 discovery (VHS).m4a
+Feb 14 00:52 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Feb 14 00:52 : ffmpeg/mjpeg: Changeing bps to 8
+Feb 14 00:52 : update: added bodyline/b o d y l i n e - VIDEO ENCOUNTERS - 02 stillwave.m4a
+Feb 14 00:52 : client: [1] opened from 127.0.0.1:42164
+Feb 14 00:52 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Feb 14 00:52 : ffmpeg/mjpeg: Changeing bps to 8
+Feb 14 00:52 : update: added bodyline/b o d y l i n e - VIDEO ENCOUNTERS - 04 hands 'nd body (VHS).m4a
+Feb 14 00:52 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Feb 14 00:52 : ffmpeg/mjpeg: Changeing bps to 8
+Feb 14 00:52 : update: added bodyline/b o d y l i n e - VIDEO ENCOUNTERS - 06 she (color).m4a
+Feb 14 00:52 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Feb 14 00:52 : ffmpeg/mjpeg: Changeing bps to 8
+Feb 14 00:52 : update: added bodyline/b o d y l i n e - VIDEO ENCOUNTERS - 03 pictures.m4a
+Feb 14 00:52 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Feb 14 00:52 : ffmpeg/mjpeg: Changeing bps to 8
+Feb 14 00:52 : update: added bodyline/b o d y l i n e - VIDEO ENCOUNTERS - 01 video stereo hi-fi.m4a
+Feb 14 00:52 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Feb 14 00:52 : ffmpeg/mjpeg: Changeing bps to 8
+Feb 14 00:52 : update: added telepath/t e l e p a t h テレパシー能力者 - 星間性交 - 08 ひとつだけ.m4a
+Feb 14 00:52 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Feb 14 00:52 : ffmpeg/mjpeg: Changeing bps to 8
+Feb 14 00:52 : update: added telepath/t e l e p a t h テレパシー能力者 - 星間性交 - 09 同感です.m4a
+Feb 14 00:52 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Feb 14 00:52 : ffmpeg/mjpeg: Changeing bps to 8
+Feb 14 00:52 : update: added telepath/t e l e p a t h テレパシー能力者 - 星間性交 - 03 深夜の愛.m4a
+Feb 14 00:52 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Feb 14 00:52 : ffmpeg/mjpeg: Changeing bps to 8
+Feb 14 00:52 : update: added telepath/t e l e p a t h テレパシー能力者 - 星間性交 - 06 星間性交.m4a
+Feb 14 00:52 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Feb 14 00:52 : ffmpeg/mjpeg: Changeing bps to 8
+Feb 14 00:52 : update: added telepath/t e l e p a t h テレパシー能力者 - 星間性交 - 05 選ばれし者.m4a
+Feb 14 00:52 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Feb 14 00:52 : ffmpeg/mjpeg: Changeing bps to 8
+Feb 14 00:52 : update: added telepath/t e l e p a t h テレパシー能力者 - 星間性交 - 01 心を入力して.m4a
+Feb 14 00:52 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Feb 14 00:52 : ffmpeg/mjpeg: Changeing bps to 8
+Feb 14 00:52 : update: added telepath/t e l e p a t h テレパシー能力者 - 星間性交 - 04 強迫観念.m4a
+Feb 14 00:52 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Feb 14 00:52 : ffmpeg/mjpeg: Changeing bps to 8
+Feb 14 00:52 : update: added telepath/t e l e p a t h テレパシー能力者 - 星間性交 - 02 愛の瞬間.m4a
+Feb 14 00:52 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Feb 14 00:52 : ffmpeg/mjpeg: Changeing bps to 8
+Feb 14 00:52 : update: added telepath/t e l e p a t h テレパシー能力者 - 星間性交 - 10 夜に愛.m4a
+Feb 14 00:52 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Feb 14 00:52 : ffmpeg/mjpeg: Changeing bps to 8
+Feb 14 00:52 : update: added telepath/t e l e p a t h テレパシー能力者 - 星間性交 - 11 魅惑的な美しさ.m4a
+Feb 14 00:52 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Feb 14 00:52 : ffmpeg/mjpeg: Changeing bps to 8
+Feb 14 00:52 : update: added telepath/t e l e p a t h テレパシー能力者 - 星間性交 - 07 強い願望.m4a
+Feb 14 00:52 : update: added leaking with/10 Summing the Wrench.mp3
+Feb 14 00:52 : update: added leaking with/02 Hocus Pocus.mp3
+Feb 14 00:52 : update: added leaking with/09 Spilling Guts.mp3
+Feb 14 00:52 : update: added leaking with/03 Vertical.mp3
+Feb 14 00:52 : update: added leaking with/08 On Delay.mp3
+Feb 14 00:52 : update: added leaking with/05 The Burglars.mp3
+Feb 14 00:52 : update: added leaking with/04 Lying in the Grass.mp3
+Feb 14 00:52 : update: added leaking with/11 Golden Gal.mp3
+Feb 14 00:52 : update: added leaking with/06 Natural Selection.mp3
+Feb 14 00:52 : update: added leaking with/01 FloriDada.mp3
+Feb 14 00:52 : update: added leaking with/12 Recycling.mp3
+Feb 14 00:52 : update: added leaking with/07 Bagels in Kiev.mp3
+Feb 14 00:52 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 14 00:52 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 14 00:52 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 14 00:52 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 14 00:52 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 14 00:52 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 14 00:52 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 14 00:52 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 14 00:52 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 14 00:52 : update: added (2012) 美丽陌生人 eloise/06-dear_eloise-belongs_to_you.mp3
+Feb 14 00:52 : update: added (2012) 美丽陌生人 eloise/01-dear_eloise-hello_hello.mp3
+Feb 14 00:52 : update: added (2012) 美丽陌生人 eloise/02-dear_eloise-secret_life.mp3
+Feb 14 00:52 : update: added (2012) 美丽陌生人 eloise/07-dear_eloise-too_much_ego.mp3
+Feb 14 00:52 : update: added (2012) 美丽陌生人 eloise/10-dear_eloise-the_stranger.mp3
+Feb 14 00:52 : update: added (2012) 美丽陌生人 eloise/08-dear_eloise-she_never.mp3
+Feb 14 00:52 : update: added (2012) 美丽陌生人 eloise/05-dear_eloise-miss_butterfly.mp3
+Feb 14 00:52 : update: added (2012) 美丽陌生人 eloise/04-dear_eloise-song_for_her.mp3
+Feb 14 00:52 : update: added (2012) 美丽陌生人 eloise/03-dear_eloise-the_third_color.mp3
+Feb 14 00:52 : update: added (2012) 美丽陌生人 eloise/09-dear_eloise-last_night_in_copenhagen.mp3
+Feb 14 00:52 : avahi: Service 'Music Player' successfully established.
+Feb 14 00:52 : client: [1] closed
+Feb 14 00:52 : client: [2] opened from 127.0.0.1:42168
+Feb 14 00:52 : player: played "big selfish & bob hopeless - the indefatigable logic of bing and bob cdr (el frenzy productions, 2015)/03-It's The Colours That Get Me Going.mp3"
+Feb 14 11:24 : client: [0] opened from 127.0.0.1:42976
+Feb 14 11:24 : client: [0] closed
+Feb 14 11:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 14 11:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 14 11:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 14 11:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 14 11:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 14 11:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 14 11:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 14 11:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 14 11:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 14 11:24 : update: added Trout Mask Replica mp3 (Lame) -V 0 -encoding='SLOW'/Captain Beefheart & the Magic Band - 18 - Fallin' Ditch.mp3
+Feb 14 11:24 : client: [1] opened from 127.0.0.1:42978
+Feb 14 11:24 : update: added Trout Mask Replica mp3 (Lame) -V 0 -encoding='SLOW'/Captain Beefheart & the Magic Band - 15 - Pena.mp3
+Feb 14 11:24 : update: added Trout Mask Replica mp3 (Lame) -V 0 -encoding='SLOW'/Captain Beefheart & the Magic Band - 09 - Sweet Sweet Bulbs.mp3
+Feb 14 11:24 : update: added Trout Mask Replica mp3 (Lame) -V 0 -encoding='SLOW'/Captain Beefheart & the Magic Band - 27 - Old Fart at Play.mp3
+Feb 14 11:24 : update: added Trout Mask Replica mp3 (Lame) -V 0 -encoding='SLOW'/Captain Beefheart & the Magic Band - 25 - The Blimp (Mousetrapreplica).mp3
+Feb 14 11:24 : update: added Trout Mask Replica mp3 (Lame) -V 0 -encoding='SLOW'/Captain Beefheart & the Magic Band - 01 - Frownland.mp3
+Feb 14 11:24 : update: added Trout Mask Replica mp3 (Lame) -V 0 -encoding='SLOW'/Captain Beefheart & the Magic Band - 26 - Steal Softly Thru Snow.mp3
+Feb 14 11:24 : update: added Trout Mask Replica mp3 (Lame) -V 0 -encoding='SLOW'/Captain Beefheart & the Magic Band - 05 - Hair Pie; Bake 1.mp3
+Feb 14 11:24 : update: added Trout Mask Replica mp3 (Lame) -V 0 -encoding='SLOW'/Captain Beefheart & the Magic Band - 03 - Dachau Blues.mp3
+Feb 14 11:24 : update: added Trout Mask Replica mp3 (Lame) -V 0 -encoding='SLOW'/Captain Beefheart & the Magic Band - 24 - Hobo Chang Ba.mp3
+Feb 14 11:24 : update: added Trout Mask Replica mp3 (Lame) -V 0 -encoding='SLOW'/Captain Beefheart & the Magic Band - 16 - Well.mp3
+Feb 14 11:24 : update: added Trout Mask Replica mp3 (Lame) -V 0 -encoding='SLOW'/Captain Beefheart & the Magic Band - 14 - Hair Pie; Bake 2.mp3
+Feb 14 11:24 : update: added Trout Mask Replica mp3 (Lame) -V 0 -encoding='SLOW'/Captain Beefheart & the Magic Band - 17 - When Big Joan Sets Up.mp3
+Feb 14 11:24 : update: added Trout Mask Replica mp3 (Lame) -V 0 -encoding='SLOW'/Captain Beefheart & the Magic Band - 06 - Moonlight on Vermont.mp3
+Feb 14 11:24 : update: added Trout Mask Replica mp3 (Lame) -V 0 -encoding='SLOW'/Captain Beefheart & the Magic Band - 02 - The Dust Blows Forward 'N the Dust Blows Back.mp3
+Feb 14 11:24 : update: added Trout Mask Replica mp3 (Lame) -V 0 -encoding='SLOW'/Captain Beefheart & the Magic Band - 07 - Pachuco Cadaver.mp3
+Feb 14 11:24 : update: added Trout Mask Replica mp3 (Lame) -V 0 -encoding='SLOW'/Captain Beefheart & the Magic Band - 21 - Orange Claw Hammer.mp3
+Feb 14 11:24 : update: added Trout Mask Replica mp3 (Lame) -V 0 -encoding='SLOW'/Captain Beefheart & the Magic Band - 10 - Neon Meate Dream of a Octafish.mp3
+Feb 14 11:24 : update: added Trout Mask Replica mp3 (Lame) -V 0 -encoding='SLOW'/Captain Beefheart & the Magic Band - 23 - She's Too Much for My Mirror.mp3
+Feb 14 11:24 : update: added Trout Mask Replica mp3 (Lame) -V 0 -encoding='SLOW'/Captain Beefheart & the Magic Band - 13 - Dali's Car.mp3
+Feb 14 11:24 : update: added Trout Mask Replica mp3 (Lame) -V 0 -encoding='SLOW'/Captain Beefheart & the Magic Band - 08 - Bills Corpse.mp3
+Feb 14 11:24 : update: added Trout Mask Replica mp3 (Lame) -V 0 -encoding='SLOW'/Captain Beefheart & the Magic Band - 19 - Sugar 'N Spikes.mp3
+Feb 14 11:24 : update: added Trout Mask Replica mp3 (Lame) -V 0 -encoding='SLOW'/Captain Beefheart & the Magic Band - 04 - Ella Guru.mp3
+Feb 14 11:24 : update: added Trout Mask Replica mp3 (Lame) -V 0 -encoding='SLOW'/Captain Beefheart & the Magic Band - 20 - Ant Man Bee.mp3
+Feb 14 11:24 : update: added Trout Mask Replica mp3 (Lame) -V 0 -encoding='SLOW'/Captain Beefheart & the Magic Band - 28 - Veteran's Day Poppy.mp3
+Feb 14 11:24 : update: added Trout Mask Replica mp3 (Lame) -V 0 -encoding='SLOW'/Captain Beefheart & the Magic Band - 22 - Wild Life.mp3
+Feb 14 11:24 : update: added Trout Mask Replica mp3 (Lame) -V 0 -encoding='SLOW'/Captain Beefheart & the Magic Band - 12 - My Human Gets Me Blues.mp3
+Feb 14 11:24 : update: added Trout Mask Replica mp3 (Lame) -V 0 -encoding='SLOW'/Captain Beefheart & the Magic Band - 11 - China Pig.mp3
+Feb 14 11:24 : avahi: Service 'Music Player' successfully established.
+Feb 14 11:24 : client: [1] closed
+Feb 14 11:24 : client: [2] opened from 127.0.0.1:42982
+Feb 14 11:24 : client: [2] closed
+Feb 14 11:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 14 11:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 14 11:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 14 11:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 14 11:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 14 11:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 14 11:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 14 11:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 14 11:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 14 11:24 : client: [3] opened from 127.0.0.1:42984
+Feb 14 11:24 : player: played "big selfish & bob hopeless - the indefatigable logic of bing and bob cdr (el frenzy productions, 2015)/03-It's The Colours That Get Me Going.mp3"
+Feb 14 11:37 : avahi: Service 'Music Player' successfully established.
+Feb 14 11:37 : client: [0] opened from 127.0.0.1:49662
+Feb 14 11:37 : client: [0] closed
+Feb 14 11:37 : client: [1] opened from 127.0.0.1:49664
+Feb 14 11:37 : update: removing 2013 - Tomorrow's Harvest/01 Gemini.mp3
+Feb 14 11:37 : update: removing 2013 - Tomorrow's Harvest/02 Reach for the Dead.mp3
+Feb 14 11:37 : update: removing 2013 - Tomorrow's Harvest/03 White Cyclosa.mp3
+Feb 14 11:37 : update: removing 2013 - Tomorrow's Harvest/04 Jacquard Causeway.mp3
+Feb 14 11:37 : update: removing 2013 - Tomorrow's Harvest/05 Telepath.mp3
+Feb 14 11:37 : update: removing 2013 - Tomorrow's Harvest/06 Cold Earth.mp3
+Feb 14 11:37 : update: removing 2013 - Tomorrow's Harvest/07 Transmisiones Ferox.mp3
+Feb 14 11:37 : update: removing 2013 - Tomorrow's Harvest/08 Sick Times.mp3
+Feb 14 11:37 : update: removing 2013 - Tomorrow's Harvest/09 Collapse.mp3
+Feb 14 11:37 : update: removing 2013 - Tomorrow's Harvest/10 Palace Posy.mp3
+Feb 14 11:37 : update: removing 2013 - Tomorrow's Harvest/11 Split Your Infinities.mp3
+Feb 14 11:37 : update: removing 2013 - Tomorrow's Harvest/12 Uritual.mp3
+Feb 14 11:37 : update: removing 2013 - Tomorrow's Harvest/13 Nothing Is Real.mp3
+Feb 14 11:37 : update: removing 2013 - Tomorrow's Harvest/14 Sundown.mp3
+Feb 14 11:37 : update: removing 2013 - Tomorrow's Harvest/15 New Seeds.mp3
+Feb 14 11:37 : update: removing 2013 - Tomorrow's Harvest/16 Come to Dust.mp3
+Feb 14 11:37 : update: removing 2013 - Tomorrow's Harvest/17 Semena Mertvykh.mp3
+Feb 14 11:37 : update: added 2013 - Tomorrow's Harvest/17 Semena Mertvykh.ogg
+Feb 14 11:37 : update: added 2013 - Tomorrow's Harvest/12 Uritual.ogg
+Feb 14 11:37 : update: added 2013 - Tomorrow's Harvest/02 Reach for the Dead.ogg
+Feb 14 11:37 : update: added 2013 - Tomorrow's Harvest/09 Collapse.ogg
+Feb 14 11:37 : update: added 2013 - Tomorrow's Harvest/03 White Cyclosa.ogg
+Feb 14 11:37 : update: added 2013 - Tomorrow's Harvest/05 Telepath.ogg
+Feb 14 11:37 : update: added 2013 - Tomorrow's Harvest/15 New Seeds.ogg
+Feb 14 11:37 : update: added 2013 - Tomorrow's Harvest/07 Transmisiones Ferox.ogg
+Feb 14 11:37 : update: added 2013 - Tomorrow's Harvest/08 Sick Times.ogg
+Feb 14 11:37 : update: added 2013 - Tomorrow's Harvest/14 Sundown.ogg
+Feb 14 11:37 : update: added 2013 - Tomorrow's Harvest/16 Come to Dust.ogg
+Feb 14 11:37 : update: added 2013 - Tomorrow's Harvest/11 Split Your Infinities.ogg
+Feb 14 11:37 : update: added 2013 - Tomorrow's Harvest/01 Gemini.ogg
+Feb 14 11:37 : update: added 2013 - Tomorrow's Harvest/10 Palace Posy.ogg
+Feb 14 11:37 : update: added 2013 - Tomorrow's Harvest/06 Cold Earth.ogg
+Feb 14 11:37 : update: added 2013 - Tomorrow's Harvest/04 Jacquard Causeway.ogg
+Feb 14 11:37 : update: added 2013 - Tomorrow's Harvest/13 Nothing Is Real.ogg
+Feb 14 11:37 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 14 11:37 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 14 11:37 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 14 11:37 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 14 11:37 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 14 11:37 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 14 11:37 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 14 11:37 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 14 11:37 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 14 11:38 : player: played "[2011] Replica/01. Andro.flac"
+Feb 14 11:38 : player: played "[2011] Replica/01. Andro.flac"
+Feb 14 11:39 : player: played "Captain Murphy - Duality/02 El Topo (prod. Alejandro Jodorowsky).mp3"
+Feb 14 11:40 : player: played "Captain Murphy - Duality/02 El Topo (prod. Alejandro Jodorowsky).mp3"
+Feb 14 11:40 : player: played "[1998] Air - Moon Safari/Air-01-La Femme d'Argent .mp3"
+Feb 14 11:40 : player: played "Captain Murphy - Duality/01 Disciples.mp3"
+Feb 14 11:45 : player: played "Frank Zappa - Jazz From Hell - v0/01 Night School.mp3"
+Feb 14 11:46 : client: [1] closed
+Feb 14 11:47 : client: [2] opened from 127.0.0.1:49668
+Feb 14 11:47 : client: [2] closed
+Feb 14 11:47 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 14 11:47 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 14 11:47 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 14 11:47 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 14 11:47 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 14 11:47 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 14 11:47 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 14 11:47 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 14 11:47 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 14 11:47 : client: [3] opened from 127.0.0.1:49670
+Feb 14 11:48 : player: played "Sword & Sworcery LP - The Ballad of the/02 Lone Star.mp3"
+Feb 14 11:49 : player: played "Don Slepian - Sea Of Bliss, 1983 (listen to this!)/01 Sea Of Bliss.mp3"
+Feb 14 11:50 : player: played "Ride - Nowhere (1991 - Remastered 2001)/01 Seagull.mp3"
+Feb 14 11:51 : player: played "Ryo Maruoka - Cycle [MP3 V0]/01. Higher.mp3"
+Feb 14 11:51 : client: [3] closed
+Feb 14 11:51 : client: [4] opened from 127.0.0.1:49674
+Feb 14 11:51 : client: [4] closed
+Feb 14 11:51 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 14 11:51 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 14 11:51 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 14 11:51 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 14 11:51 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 14 11:51 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 14 11:51 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 14 11:51 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 14 11:51 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 14 11:51 : client: [5] opened from 127.0.0.1:49676
+Feb 14 11:51 : player: played "She Sleeps, She Sleeps/01 - She Owned His Voice.mp3"
+Feb 14 11:51 : player: played "A Kali Yuga Opera/holy haunted head - A Kali Yuga Opera - 01 Sister Mary-Welcome Home.mp3"
+Feb 14 11:52 : player: played "Albur! - 0.02/Albur! - 0.02 - 01 20.59.mp3"
+Feb 14 11:52 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Feb 14 11:52 : ffmpeg/mjpeg: Changeing bps to 8
+Feb 14 11:52 : player: played "Cat Power - Dear Sir/01 3 Times.m4a"
+Feb 14 11:53 : player: played "1968 - We're Only In It For The Money/01 - Are You Hung Up .mp3"
+Feb 14 11:56 : player: played "1968 - We're Only In It For The Money/02 - Who Needs The Peace Corps .mp3"
+Feb 14 11:57 : client: [6] opened from 127.0.0.1:49680
+Feb 14 11:57 : client: [6] closed
+Feb 14 11:57 : client: [7] opened from 127.0.0.1:49684
+Feb 14 11:57 : client: [7] closed
+Feb 14 11:57 : client: [8] opened from 127.0.0.1:49688
+Feb 14 11:57 : client: [8] closed
+Feb 14 11:57 : client: [5] closed
+Feb 14 11:57 : player: played "1968 - We're Only In It For The Money/03 - Concentration Moon.mp3"
+Feb 14 14:17 : avahi: Service 'Music Player' successfully established.
+Feb 14 14:17 : client: [0] opened from 127.0.0.1:55386
+Feb 14 14:17 : client: [0] closed
+Feb 14 14:17 : client: [1] opened from 127.0.0.1:55388
+Feb 14 14:17 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 14 14:17 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 14 14:17 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 14 14:17 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 14 14:17 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 14 14:17 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 14 14:17 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 14 14:17 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 14 14:17 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 14 14:17 : player: played "1968 - We're Only In It For The Money/03 - Concentration Moon.mp3"
+Feb 14 14:18 : client: [1] closed
+Feb 14 14:20 : client: [2] opened from 127.0.0.1:55392
+Feb 14 14:20 : client: [2] closed
+Feb 14 14:20 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 14 14:20 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 14 14:20 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 14 14:20 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 14 14:20 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 14 14:20 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 14 14:20 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 14 14:20 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 14 14:20 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 14 14:20 : client: [3] opened from 127.0.0.1:55394
+Feb 14 14:20 : player: played "1968 - We're Only In It For The Money/02 - Who Needs The Peace Corps .mp3"
+Feb 14 14:22 : client: [3] closed
+Feb 14 14:23 : client: [4] opened from 127.0.0.1:55398
+Feb 14 14:23 : client: [4] closed
+Feb 14 14:23 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 14 14:23 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 14 14:23 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 14 14:23 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 14 14:23 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 14 14:23 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 14 14:23 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 14 14:23 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 14 14:23 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 14 14:23 : client: [5] opened from 127.0.0.1:55400
+Feb 14 14:23 : player: played "1968 - We're Only In It For The Money/02 - Who Needs The Peace Corps .mp3"
+Feb 14 14:23 : player: played "1968 - We're Only In It For The Money/03 - Concentration Moon.mp3"
+Feb 14 14:23 : player: played "B - P222OOTA2016 [RoM.org]/Bucketheadland - Pikes 222 Out of the Attic/01. Chew Chew Train.mp3"
+Feb 14 14:24 : player: played "Trout Mask Replica mp3 (Lame) -V 0 -encoding='SLOW'/Captain Beefheart & the Magic Band - 07 - Pachuco Cadaver.mp3"
+Feb 14 14:25 : player: played "leaking with/01 FloriDada.mp3"
+                                                                 Feb 14 14:48 : client: [0] opened from 127.0.0.1:54100
+Feb 14 14:48 : client: [0] closed
+Feb 14 14:48 : update: added King Crimson - Lark's Tongue In Aspic V0/02 - Book of Saturday.ogg
+Feb 14 14:48 : update: added King Crimson - Lark's Tongue In Aspic V0/03 - Exiles.ogg
+Feb 14 14:48 : vorbis: Failed to open Ogg Vorbis stream: not vorbis stream
+Feb 14 14:48 : audiofile: unrecognized audio file format
+Feb 14 14:48 : update: added King Crimson - Lark's Tongue In Aspic V0/01 - Larks' Tongues in Aspic, Part One.ogg
+Feb 14 14:48 : vorbis: Failed to open Ogg Vorbis stream: not vorbis stream
+Feb 14 14:48 : vorbis: Failed to open Ogg Vorbis stream: not vorbis stream
+Feb 14 14:48 : client: [1] opened from 127.0.0.1:54102
+Feb 14 14:48 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 14 14:48 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 14 14:48 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 14 14:48 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 14 14:48 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 14 14:48 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 14 14:48 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 14 14:48 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 14 14:48 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 14 14:48 : avahi: Service 'Music Player' successfully established.
+Feb 14 14:49 : player: played "(2012) 美丽陌生人 eloise/01-dear_eloise-hello_hello.mp3"
+Feb 14 14:49 : player: played "[2011] Replica/02. Power of Persuasion.flac"
+Feb 14 14:50 : vorbis: Failed to open Ogg Vorbis stream: not vorbis stream
+Feb 14 14:50 : audiofile: unrecognized audio file format
+Feb 14 14:50 : vorbis: Failed to open Ogg Vorbis stream: not vorbis stream
+Feb 14 14:50 : vorbis: Failed to open Ogg Vorbis stream: not vorbis stream
+Feb 14 14:50 : update: updating [2011] Replica/05. Replica.flac
+Feb 14 14:50 : update: updating [2011] Replica/04. Remember.flac
+Feb 14 14:50 : update: updating [2011] Replica/09. Child Soldier.flac
+Feb 14 14:50 : update: updating [2011] Replica/01. Andro.flac
+Feb 14 14:50 : update: updating [2011] Replica/02. Power of Persuasion.flac
+Feb 14 14:50 : update: updating [2011] Replica/03. Sleep Dealer.flac
+Feb 14 14:50 : update: updating [2011] Replica/10. Explain.flac
+Feb 14 14:50 : update: updating [2011] Replica/08. Up.flac
+Feb 14 14:50 : update: updating [2011] Replica/07. Submersible.flac
+Feb 14 14:50 : update: updating [2011] Replica/06. Nassau.flac
+Feb 14 14:50 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 14 14:50 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 14 14:50 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 14 14:50 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 14 14:50 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 14 14:50 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 14 14:50 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 14 14:50 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 14 14:50 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 14 14:50 : player: played "[2011] Replica/06. Nassau.flac"
+Feb 14 14:56 : player: played "1983/01 1983.mp3"
+Feb 14 16:27 : client: [0] opened from 127.0.0.1:54252
+Feb 14 16:27 : update: removing Trout Mask Replica mp3 (Lame) -V 0 -encoding='SLOW'/Captain Beefheart & the Magic Band - 01 - Frownland.mp3
+Feb 14 16:27 : client: [0] closed
+Feb 14 16:27 : update: removing Trout Mask Replica mp3 (Lame) -V 0 -encoding='SLOW'/Captain Beefheart & the Magic Band - 02 - The Dust Blows Forward 'N the Dust Blows Back.mp3
+Feb 14 16:27 : update: removing Trout Mask Replica mp3 (Lame) -V 0 -encoding='SLOW'/Captain Beefheart & the Magic Band - 03 - Dachau Blues.mp3
+Feb 14 16:27 : update: removing Trout Mask Replica mp3 (Lame) -V 0 -encoding='SLOW'/Captain Beefheart & the Magic Band - 04 - Ella Guru.mp3
+Feb 14 16:27 : update: removing Trout Mask Replica mp3 (Lame) -V 0 -encoding='SLOW'/Captain Beefheart & the Magic Band - 05 - Hair Pie; Bake 1.mp3
+Feb 14 16:27 : update: removing Trout Mask Replica mp3 (Lame) -V 0 -encoding='SLOW'/Captain Beefheart & the Magic Band - 06 - Moonlight on Vermont.mp3
+Feb 14 16:27 : update: removing Trout Mask Replica mp3 (Lame) -V 0 -encoding='SLOW'/Captain Beefheart & the Magic Band - 07 - Pachuco Cadaver.mp3
+Feb 14 16:27 : update: removing Trout Mask Replica mp3 (Lame) -V 0 -encoding='SLOW'/Captain Beefheart & the Magic Band - 08 - Bills Corpse.mp3
+Feb 14 16:27 : update: removing Trout Mask Replica mp3 (Lame) -V 0 -encoding='SLOW'/Captain Beefheart & the Magic Band - 09 - Sweet Sweet Bulbs.mp3
+Feb 14 16:27 : update: removing Trout Mask Replica mp3 (Lame) -V 0 -encoding='SLOW'/Captain Beefheart & the Magic Band - 10 - Neon Meate Dream of a Octafish.mp3
+Feb 14 16:27 : update: removing Trout Mask Replica mp3 (Lame) -V 0 -encoding='SLOW'/Captain Beefheart & the Magic Band - 11 - China Pig.mp3
+Feb 14 16:27 : update: removing Trout Mask Replica mp3 (Lame) -V 0 -encoding='SLOW'/Captain Beefheart & the Magic Band - 12 - My Human Gets Me Blues.mp3
+Feb 14 16:27 : update: removing Trout Mask Replica mp3 (Lame) -V 0 -encoding='SLOW'/Captain Beefheart & the Magic Band - 13 - Dali's Car.mp3
+Feb 14 16:27 : update: removing Trout Mask Replica mp3 (Lame) -V 0 -encoding='SLOW'/Captain Beefheart & the Magic Band - 14 - Hair Pie; Bake 2.mp3
+Feb 14 16:27 : update: removing Trout Mask Replica mp3 (Lame) -V 0 -encoding='SLOW'/Captain Beefheart & the Magic Band - 15 - Pena.mp3
+Feb 14 16:27 : update: removing Trout Mask Replica mp3 (Lame) -V 0 -encoding='SLOW'/Captain Beefheart & the Magic Band - 16 - Well.mp3
+Feb 14 16:27 : update: removing Trout Mask Replica mp3 (Lame) -V 0 -encoding='SLOW'/Captain Beefheart & the Magic Band - 17 - When Big Joan Sets Up.mp3
+Feb 14 16:27 : update: removing Trout Mask Replica mp3 (Lame) -V 0 -encoding='SLOW'/Captain Beefheart & the Magic Band - 18 - Fallin' Ditch.mp3
+Feb 14 16:27 : update: removing Trout Mask Replica mp3 (Lame) -V 0 -encoding='SLOW'/Captain Beefheart & the Magic Band - 19 - Sugar 'N Spikes.mp3
+Feb 14 16:27 : update: removing Trout Mask Replica mp3 (Lame) -V 0 -encoding='SLOW'/Captain Beefheart & the Magic Band - 20 - Ant Man Bee.mp3
+Feb 14 16:27 : update: removing Trout Mask Replica mp3 (Lame) -V 0 -encoding='SLOW'/Captain Beefheart & the Magic Band - 21 - Orange Claw Hammer.mp3
+Feb 14 16:27 : update: removing Trout Mask Replica mp3 (Lame) -V 0 -encoding='SLOW'/Captain Beefheart & the Magic Band - 22 - Wild Life.mp3
+Feb 14 16:27 : update: removing Trout Mask Replica mp3 (Lame) -V 0 -encoding='SLOW'/Captain Beefheart & the Magic Band - 23 - She's Too Much for My Mirror.mp3
+Feb 14 16:27 : update: removing Trout Mask Replica mp3 (Lame) -V 0 -encoding='SLOW'/Captain Beefheart & the Magic Band - 24 - Hobo Chang Ba.mp3
+Feb 14 16:27 : update: removing Trout Mask Replica mp3 (Lame) -V 0 -encoding='SLOW'/Captain Beefheart & the Magic Band - 25 - The Blimp (Mousetrapreplica).mp3
+Feb 14 16:27 : update: removing Trout Mask Replica mp3 (Lame) -V 0 -encoding='SLOW'/Captain Beefheart & the Magic Band - 26 - Steal Softly Thru Snow.mp3
+Feb 14 16:27 : update: removing Trout Mask Replica mp3 (Lame) -V 0 -encoding='SLOW'/Captain Beefheart & the Magic Band - 27 - Old Fart at Play.mp3
+Feb 14 16:27 : update: removing Trout Mask Replica mp3 (Lame) -V 0 -encoding='SLOW'/Captain Beefheart & the Magic Band - 28 - Veteran's Day Poppy.mp3
+Feb 14 16:27 : vorbis: Failed to open Ogg Vorbis stream: not vorbis stream
+Feb 14 16:27 : audiofile: unrecognized audio file format
+Feb 14 16:27 : vorbis: Failed to open Ogg Vorbis stream: not vorbis stream
+Feb 14 16:27 : vorbis: Failed to open Ogg Vorbis stream: not vorbis stream
+Feb 14 16:27 : client: [1] opened from 127.0.0.1:54254
+Feb 14 16:27 : avahi: Service 'Music Player' successfully established.
+Feb 14 16:27 : player: played "1983/02 Sao Paulo.mp3"
+Feb 14 16:29 : player: played "1983/02 Sao Paulo.mp3"
+Feb 14 16:30 : client: [2] opened from 127.0.0.1:54258
+Feb 14 16:30 : client: [2] closed
+Feb 14 16:31 : player: played "1983/03 Bad Actors.mp3"
+Feb 14 16:34 : player: played "1983/04 Orbit Brazil.mp3"
+Feb 14 16:35 : player: played "1983/05 Shifty.mp3"
+Feb 14 16:36 : player: played "1983/06 Babble.mp3"
+Feb 14 16:39 : client: [3] opened from 127.0.0.1:54466
+Feb 14 16:39 : client: [3] closed
+Feb 14 16:39 : vorbis: Failed to open Ogg Vorbis stream: not vorbis stream
+Feb 14 16:39 : audiofile: unrecognized audio file format
+Feb 14 16:39 : vorbis: Failed to open Ogg Vorbis stream: not vorbis stream
+Feb 14 16:39 : vorbis: Failed to open Ogg Vorbis stream: not vorbis stream
+Feb 14 16:39 : update: added 2004 - The College Dropout/13 Kanye West - Breathe In Breathe Out (feat. Ludacris).mp3
+Feb 14 16:39 : update: added 2004 - The College Dropout/17 Kanye West - Lil Jimmy (Skit).mp3
+Feb 14 16:39 : update: added 2004 - The College Dropout/20 Kanye West - Family Business.mp3
+Feb 14 16:39 : client: [4] opened from 127.0.0.1:54468
+Feb 14 16:39 : ffmpeg/mp3: decoding for stream 0 failed
+Feb 14 16:39 : ffmpeg/mp3: Could not find codec parameters for stream 0 (Audio: mp3, 0 channels, s16p): unspecified frame size
+Consider increasing the value for the 'analyzeduration' and 'probesize' options
+Feb 14 16:39 : update: added 2004 - The College Dropout/22 Kanye West - Heavy Hitters (feat. GLC).mp3
+Feb 14 16:39 : update: added 2004 - The College Dropout/05 Kanye West - I'll Fly Away.mp3
+Feb 14 16:39 : update: added 2004 - The College Dropout/02 Kanye West - We Don't Care.mp3
+Feb 14 16:39 : update: added 2004 - The College Dropout/12 Kanye West - Slow Jamz (feat. Twista & Jamie Foxx).mp3
+Feb 14 16:39 : update: added 2004 - The College Dropout/15 Kanye West - School Spirit.mp3
+Feb 14 16:39 : update: added 2004 - The College Dropout/11 Kanye West - The New Workout Plan.mp3
+Feb 14 16:39 : update: added 2004 - The College Dropout/19 Kanye West - Through The Wire.mp3
+Feb 14 16:39 : update: added 2004 - The College Dropout/06 Kanye West - Spaceship (feat. GLC & Consequence).mp3
+Feb 14 16:39 : update: added 2004 - The College Dropout/18 Kanye West - Two Words (feat. Mos Def, Freeway & The Harlem Boys Choir).mp3
+Feb 14 16:39 : update: added 2004 - The College Dropout/04 Kanye West - All Falls Down (feat. Syleena Jonson).mp3
+Feb 14 16:39 : update: added 2004 - The College Dropout/14 Kanye West - School Spirit (Skit 1).mp3
+Feb 14 16:39 : update: added 2004 - The College Dropout/03 Kanye West - Graduation Day.mp3
+Feb 14 16:39 : update: added 2004 - The College Dropout/07 Kanye West - Jesus Walks.mp3
+Feb 14 16:39 : update: added 2004 - The College Dropout/09 Kanye West - Get Em High (feat. Talib Kweli & Common).mp3
+Feb 14 16:39 : update: added 2004 - The College Dropout/21 Kanye West - Last Call.mp3
+Feb 14 16:39 : update: added 2004 - The College Dropout/08 Kanye West - Never Let Me Down (feat. Jay-Z & J. Ivy).mp3
+Feb 14 16:39 : update: added 2004 - The College Dropout/10 Kanye West - Workout Plan.mp3
+Feb 14 16:39 : update: added 2004 - The College Dropout/01 Kanye West - Intro.mp3
+Feb 14 16:39 : update: added 2004 - The College Dropout/16 Kanye West - School Spirit (Skit 2).mp3
+Feb 14 16:39 : client: [4] closed
+Feb 14 16:39 : client: [1] closed
+Feb 14 16:43 : player: played "1983/07 Pet Monster Shotglass.mp3"
+Feb 14 16:45 : client: [5] opened from 127.0.0.1:54524
+Feb 14 16:45 : client: [5] closed
+Feb 14 16:45 : vorbis: Failed to open Ogg Vorbis stream: not vorbis stream
+Feb 14 16:45 : audiofile: unrecognized audio file format
+Feb 14 16:45 : vorbis: Failed to open Ogg Vorbis stream: not vorbis stream
+Feb 14 16:45 : vorbis: Failed to open Ogg Vorbis stream: not vorbis stream
+Feb 14 16:45 : client: [6] opened from 127.0.0.1:54526
+Feb 14 16:45 : ffmpeg/mp3: decoding for stream 0 failed
+Feb 14 16:45 : ffmpeg/mp3: Could not find codec parameters for stream 0 (Audio: mp3, 0 channels, s16p): unspecified frame size
+Consider increasing the value for the 'analyzeduration' and 'probesize' options
+Feb 14 16:45 : client: [6] closed
+Feb 14 16:45 : client: [7] opened from 127.0.0.1:54528
+Feb 14 16:45 : client: [7] closed
+Feb 14 16:46 : player: played "1983/08 Hello.mp3"
+Feb 14 16:46 : client: [8] opened from 127.0.0.1:54530
+Feb 14 16:49 : player: played "1983/09 Untitled #7.mp3"
+Feb 14 16:51 : client: [8] closed
+Feb 14 16:51 : client: [9] opened from 127.0.0.1:54614
+Feb 14 16:54 : player: played "1983/10 Unexpected Delight feat. Laura Darlington.mp3"
+Feb 14 16:58 : player: played "1983/11 1983 (daedelus odd-dance party remix).mp3"
+Feb 14 17:06 : client: [9] closed
+Feb 14 17:06 : client: [10] opened from 127.0.0.1:54930
+Feb 14 17:06 : client: [10] closed
+Feb 14 17:06 : client: [11] opened from 127.0.0.1:54932
+Feb 14 17:07 : client: [11] closed
+Feb 14 17:07 : client: [12] opened from 127.0.0.1:54936
+Feb 14 17:07 : client: [12] closed
+Feb 14 17:07 : client: [13] opened from 127.0.0.1:54940
+Feb 14 17:07 : client: [13] closed
+Feb 14 17:07 : client: [14] opened from 127.0.0.1:54944
+Feb 14 17:07 : client: [14] closed
+Feb 14 17:07 : vorbis: Failed to open Ogg Vorbis stream: not vorbis stream
+Feb 14 17:07 : audiofile: unrecognized audio file format
+Feb 14 17:07 : vorbis: Failed to open Ogg Vorbis stream: not vorbis stream
+Feb 14 17:07 : vorbis: Failed to open Ogg Vorbis stream: not vorbis stream
+Feb 14 17:07 : client: [15] opened from 127.0.0.1:54946
+Feb 14 17:07 : ffmpeg/mp3: decoding for stream 0 failed
+Feb 14 17:07 : ffmpeg/mp3: Could not find codec parameters for stream 0 (Audio: mp3, 0 channels, s16p): unspecified frame size
+Consider increasing the value for the 'analyzeduration' and 'probesize' options
+Feb 14 17:23 : client: [15] closed
+Feb 14 17:23 : client: [16] opened from 127.0.0.1:55380
+Feb 14 17:23 : client: [16] closed
+Feb 14 17:23 : vorbis: Failed to open Ogg Vorbis stream: not vorbis stream
+Feb 14 17:23 : audiofile: unrecognized audio file format
+Feb 14 17:23 : vorbis: Failed to open Ogg Vorbis stream: not vorbis stream
+Feb 14 17:23 : vorbis: Failed to open Ogg Vorbis stream: not vorbis stream
+Feb 14 17:23 : client: [17] opened from 127.0.0.1:55382
+Feb 14 17:23 : ffmpeg/mp3: decoding for stream 0 failed
+Feb 14 17:23 : ffmpeg/mp3: Could not find codec parameters for stream 0 (Audio: mp3, 0 channels, s16p): unspecified frame size
+Consider increasing the value for the 'analyzeduration' and 'probesize' options
+Feb 14 17:23 : player: played "Trump - The Art Of The Deal (Audiobook - Tapes)/08 Tape 4 Side 2.mp3"
+Feb 14 17:26 : player: played "(2015) 始発電車 (The First Train)/XINLISUPREME - 始発電車 The First Train - 01 Star.mp3"
+Feb 14 17:27 : client: [17] closed
+Feb 14 17:27 : client: [18] opened from 127.0.0.1:55404
+Feb 14 17:27 : client: [19] opened from 127.0.0.1:55406
+Feb 14 17:27 : client: [19] closed
+Feb 14 17:27 : player: played "(2015) 始発電車 (The First Train)/XINLISUPREME - 始発電車 The First Train - 02 Act 2.mp3"
+Feb 14 17:27 : player: played "(2015) 始発電車 (The First Train)/XINLISUPREME - 始発電車 The First Train - 03 I Am Not Shinzo Abe.mp3"
+Feb 14 17:27 : player: played "(2015) 始発電車 (The First Train)/XINLISUPREME - 始発電車 The First Train - 04 ノビノビ (Nobi Nobi).mp3"
+Feb 14 17:27 : player: played "(2015) 始発電車 (The First Train)/XINLISUPREME - 始発電車 The First Train - 05 Oh Yeah!.mp3"
+Feb 14 17:27 : player: played "(2015) 始発電車 (The First Train)/XINLISUPREME - 始発電車 The First Train - 06 Nocturne.mp3"
+Feb 14 17:27 : player: played "(2015) 始発電車 (The First Train)/XINLISUPREME - 始発電車 The First Train - 07 始発電車 (The First Train).mp3"
+Feb 14 17:28 : client: [18] closed
+Feb 14 17:28 : client: [20] opened from 127.0.0.1:55410
+Feb 14 17:28 : client: [20] closed
+Feb 14 17:28 : vorbis: Failed to open Ogg Vorbis stream: not vorbis stream
+Feb 14 17:28 : audiofile: unrecognized audio file format
+Feb 14 17:28 : vorbis: Failed to open Ogg Vorbis stream: not vorbis stream
+Feb 14 17:28 : vorbis: Failed to open Ogg Vorbis stream: not vorbis stream
+Feb 14 17:28 : client: [21] opened from 127.0.0.1:55412
+Feb 14 17:28 : ffmpeg/mp3: decoding for stream 0 failed
+Feb 14 17:28 : ffmpeg/mp3: Could not find codec parameters for stream 0 (Audio: mp3, 0 channels, s16p): unspecified frame size
+Consider increasing the value for the 'analyzeduration' and 'probesize' options
+Feb 14 17:36 : player: played "lee asano+ryuhei)/lee (asano+ryuhei) - 2014 - +++ self service +++ [FLAC]/1.01. lee (asano+ryuhei) - 50yen vs 50cent.flac"
+Feb 14 17:38 : player: played "lee asano+ryuhei)/lee (asano+ryuhei) - 2014 - +++ self service +++ [FLAC]/1.02. lee (asano+ryuhei) - pasted freestyle.flac"
+Feb 14 17:41 : player: played "lee asano+ryuhei)/lee (asano+ryuhei) - 2014 - +++ self service +++ [FLAC]/1.03. lee (asano+ryuhei) - lLvVsS.flac"
+Feb 14 17:43 : player: played "lee asano+ryuhei)/lee (asano+ryuhei) - 2014 - +++ self service +++ [FLAC]/1.04. lee (asano+ryuhei) - taaa.chang.flac"
+Feb 14 17:46 : player: played "lee asano+ryuhei)/lee (asano+ryuhei) - 2014 - +++ self service +++ [FLAC]/1.05. lee (asano+ryuhei) - owakare.flac"
+Feb 14 17:49 : player: played "lee asano+ryuhei)/lee (asano+ryuhei) - 2014 - +++ self service +++ [FLAC]/1.06. lee (asano+ryuhei) - do nuts say.flac"
+Feb 14 17:51 : player: played "lee asano+ryuhei)/lee (asano+ryuhei) - 2014 - +++ self service +++ [FLAC]/1.07. lee (asano+ryuhei) - tHis.flac"
+Feb 14 17:52 : player: played "lee asano+ryuhei)/lee (asano+ryuhei) - 2014 - +++ self service +++ [FLAC]/1.08. lee (asano+ryuhei) - hr. sgr.flac"
+Feb 14 17:54 : client: [21] closed
+Feb 14 17:55 : client: [22] opened from 127.0.0.1:55624
+Feb 14 17:55 : client: [22] closed
+Feb 14 17:55 : vorbis: Failed to open Ogg Vorbis stream: not vorbis stream
+Feb 14 17:55 : audiofile: unrecognized audio file format
+Feb 14 17:55 : vorbis: Failed to open Ogg Vorbis stream: not vorbis stream
+Feb 14 17:55 : vorbis: Failed to open Ogg Vorbis stream: not vorbis stream
+Feb 14 17:55 : client: [23] opened from 127.0.0.1:55626
+Feb 14 17:55 : ffmpeg/mp3: decoding for stream 0 failed
+Feb 14 17:55 : ffmpeg/mp3: Could not find codec parameters for stream 0 (Audio: mp3, 0 channels, s16p): unspecified frame size
+Consider increasing the value for the 'analyzeduration' and 'probesize' options
+Feb 14 17:55 : player: played "lee asano+ryuhei)/lee (asano+ryuhei) - 2014 - +++ self service +++ [FLAC]/1.09. lee (asano+ryuhei) -  A. on the N..flac"
+Feb 14 17:57 : player: played "lee asano+ryuhei)/lee (asano+ryuhei) - 2014 - +++ self service +++ [FLAC]/1.10. lee (asano+ryuhei) - air guiter.flac"
+Feb 14 17:59 : client: [23] closed
+Feb 14 17:59 : player: played "lee asano+ryuhei)/lee (asano+ryuhei) - 2014 - +++ self service +++ [FLAC]/1.11. lee (asano+ryuhei) - aziwai.flac"
+Feb 14 17:59 : client: [24] opened from 127.0.0.1:55692
+Feb 14 17:59 : client: [24] closed
+Feb 14 17:59 : vorbis: Failed to open Ogg Vorbis stream: not vorbis stream
+Feb 14 17:59 : audiofile: unrecognized audio file format
+Feb 14 17:59 : vorbis: Failed to open Ogg Vorbis stream: not vorbis stream
+Feb 14 17:59 : vorbis: Failed to open Ogg Vorbis stream: not vorbis stream
+Feb 14 17:59 : client: [25] opened from 127.0.0.1:55694
+Feb 14 17:59 : ffmpeg/mp3: decoding for stream 0 failed
+Feb 14 17:59 : ffmpeg/mp3: Could not find codec parameters for stream 0 (Audio: mp3, 0 channels, s16p): unspecified frame size
+Consider increasing the value for the 'analyzeduration' and 'probesize' options
+Feb 14 18:01 : player: played "lee asano+ryuhei)/lee (asano+ryuhei) - 2014 - +++ self service +++ [FLAC]/1.12. lee (asano+ryuhei) - dilla donuts (~2).flac"
+Feb 14 18:29 : client: [26] opened from 127.0.0.1:56294
+Feb 14 18:29 : client: [26] closed
+Feb 14 18:29 : client: [27] opened from 127.0.0.1:56298
+Feb 14 18:29 : client: [27] closed
+Feb 14 18:29 : client: [28] opened from 127.0.0.1:56302
+Feb 14 18:29 : client: [28] closed
+Feb 14 18:30 : player: played "lee asano+ryuhei)/lee (asano+ryuhei) - 2014 - +++ self service +++ [FLAC]/1.13. lee (asano+ryuhei) - ltr ___ thx.flac"
+Feb 14 18:30 : player: played "1968 - We're Only In It For The Money/04 - Mom & Dad.mp3"
+Feb 14 18:30 : player: played "1968 - We're Only In It For The Money/05 - Telephone Conversation.mp3"
+Feb 14 18:31 : client: [25] closed
+Feb 14 18:31 : client: [29] opened from 127.0.0.1:56360
+Feb 14 18:31 : update: added OYA/06 どっちかの角.mp3
+Feb 14 18:31 : update: added OYA/03 タニシ.mp3
+Feb 14 18:31 : update: added OYA/02 ユーレイ.mp3
+Feb 14 18:31 : update: added OYA/07 ロボトミー.mp3
+Feb 14 18:31 : client: [29] closed
+Feb 14 18:31 : update: added OYA/01 また明日.mp3
+Feb 14 18:31 : update: added OYA/08 J.N.mp3
+Feb 14 18:31 : update: added OYA/05 カポ.mp3
+Feb 14 18:31 : update: added OYA/04 カイセントウ.mp3
+Feb 14 18:31 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Feb 14 18:31 : ffmpeg/mjpeg: Changeing bps to 8
+Feb 14 18:31 : update: added Ogre You Asshole - アルファベータ vs. ラムダ [2007]/06 - Ogre You Asshole - おまじない.m4a
+Feb 14 18:31 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Feb 14 18:31 : ffmpeg/mjpeg: Changeing bps to 8
+Feb 14 18:31 : client: [30] opened from 127.0.0.1:56362
+Feb 14 18:31 : update: added Ogre You Asshole - アルファベータ vs. ラムダ [2007]/05 - Ogre You Asshole - サカサマ.m4a
+Feb 14 18:31 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Feb 14 18:31 : ffmpeg/mjpeg: Changeing bps to 8
+Feb 14 18:31 : update: added Ogre You Asshole - アルファベータ vs. ラムダ [2007]/02 - Ogre You Asshole - フラッグ.m4a
+Feb 14 18:31 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Feb 14 18:31 : ffmpeg/mjpeg: Changeing bps to 8
+Feb 14 18:31 : update: added Ogre You Asshole - アルファベータ vs. ラムダ [2007]/08 - Ogre You Asshole - ラムダ・ラムダ・ラムダ.m4a
+Feb 14 18:31 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Feb 14 18:31 : ffmpeg/mjpeg: Changeing bps to 8
+Feb 14 18:31 : update: added Ogre You Asshole - アルファベータ vs. ラムダ [2007]/07 - Ogre You Asshole - シチュー.m4a
+Feb 14 18:31 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Feb 14 18:31 : ffmpeg/mjpeg: Changeing bps to 8
+Feb 14 18:31 : update: added Ogre You Asshole - アルファベータ vs. ラムダ [2007]/03 - Ogre You Asshole - バックシート.m4a
+Feb 14 18:31 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Feb 14 18:31 : ffmpeg/mjpeg: Changeing bps to 8
+Feb 14 18:31 : update: added Ogre You Asshole - アルファベータ vs. ラムダ [2007]/04 - Ogre You Asshole - マスク.m4a
+Feb 14 18:31 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Feb 14 18:31 : ffmpeg/mjpeg: Changeing bps to 8
+Feb 14 18:31 : update: added Ogre You Asshole - アルファベータ vs. ラムダ [2007]/01 - Ogre You Asshole - コインランドリー.m4a
+Feb 14 18:31 : vorbis: Failed to open Ogg Vorbis stream: not vorbis stream
+Feb 14 18:31 : audiofile: unrecognized audio file format
+Feb 14 18:31 : vorbis: Failed to open Ogg Vorbis stream: not vorbis stream
+Feb 14 18:31 : vorbis: Failed to open Ogg Vorbis stream: not vorbis stream
+Feb 14 18:31 : update: added フォグランプ (Fog Lamp)/03 箱.mp3
+Feb 14 18:31 : update: added フォグランプ (Fog Lamp)/07 レインコート.mp3
+Feb 14 18:31 : update: added フォグランプ (Fog Lamp)/02 フォグランプ.mp3
+Feb 14 18:31 : update: added フォグランプ (Fog Lamp)/06 K.mp3
+Feb 14 18:31 : update: added フォグランプ (Fog Lamp)/05 ヘッドライト.mp3
+Feb 14 18:31 : update: added フォグランプ (Fog Lamp)/04 ステージ.mp3
+Feb 14 18:31 : update: added フォグランプ (Fog Lamp)/08 ワイパー.mp3
+Feb 14 18:31 : update: added フォグランプ (Fog Lamp)/01 クラッカー.mp3
+Feb 14 18:31 : ffmpeg/mp3: decoding for stream 0 failed
+Feb 14 18:31 : ffmpeg/mp3: Could not find codec parameters for stream 0 (Audio: mp3, 0 channels, s16p): unspecified frame size
+Consider increasing the value for the 'analyzeduration' and 'probesize' options
+Feb 14 18:31 : update: added Bluebeard/04 sleepless.mp3
+Feb 14 18:31 : update: added Bluebeard/06 earth bound.mp3
+Feb 14 18:31 : update: added Bluebeard/05 snow.mp3
+Feb 14 18:31 : update: added Bluebeard/01 untitled.mp3
+Feb 14 18:31 : update: added Bluebeard/07 can't rely on.mp3
+Feb 14 18:31 : update: added Bluebeard/02 room 501.mp3
+Feb 14 18:31 : update: added Bluebeard/08 endless way.mp3
+Feb 14 18:31 : update: added Bluebeard/03 over again.mp3
+Feb 14 18:33 : player: played "1968 - We're Only In It For The Money/04 - Mom & Dad.mp3"
+Feb 14 18:34 : player: played "1968 - We're Only In It For The Money/05 - Telephone Conversation.mp3"
+Feb 14 18:34 : player: played "1968 - We're Only In It For The Money/06 - Bow Tie Daddy.mp3"
+Feb 14 18:34 : player: played "1968 - We're Only In It For The Money/07 - Harry, You're A Beast.mp3"
+Feb 14 18:34 : player: played "1968 - We're Only In It For The Money/05 - Telephone Conversation.mp3"
+Feb 14 18:45 : player: played "1968 - We're Only In It For The Money/07 - Harry, You're A Beast.mp3"
+Feb 14 18:46 : player: played "1968 - We're Only In It For The Money/08 - What's The Ugliest Part Of Your Body .mp3"
+Feb 14 19:49 : player: played "1968 - We're Only In It For The Money/09 - Absolutely Free.mp3"
+Feb 14 19:49 : player: played "1968 - We're Only In It For The Money/08 - What's The Ugliest Part Of Your Body .mp3"
+Feb 14 20:29 : player: played "1968 - We're Only In It For The Money/09 - Absolutely Free.mp3"
+Feb 14 20:30 : player: played "Homeshake - Midnight Snack/01 What Did He Look Like_.mp3"
+Feb 14 20:33 : player: played "Homeshake - Midnight Snack/10 Give It To Me.mp3"
+Feb 14 20:33 : player: played "Homeshake - Midnight Snack/02 Heat.mp3"
+Feb 14 20:37 : player: played "Ken Nordine - Next!/03. Bury-It-Yourself Time Capsules.mp3"
+Feb 14 20:40 : player: played "Ken Nordine - Next!/06. A Whistler.mp3"
+Feb 14 20:42 : player: played "Ken Nordine - Next!/02. Smerd.mp3"
+Feb 14 20:45 : client: [30] closed
+Feb 14 20:45 : client: [31] opened from 127.0.0.1:57418
+Feb 14 20:45 : client: [31] closed
+Feb 14 20:45 : vorbis: Failed to open Ogg Vorbis stream: not vorbis stream
+Feb 14 20:45 : audiofile: unrecognized audio file format
+Feb 14 20:45 : vorbis: Failed to open Ogg Vorbis stream: not vorbis stream
+Feb 14 20:45 : vorbis: Failed to open Ogg Vorbis stream: not vorbis stream
+Feb 14 20:45 : client: [32] opened from 127.0.0.1:57420
+Feb 14 20:45 : ffmpeg/mp3: decoding for stream 0 failed
+Feb 14 20:45 : ffmpeg/mp3: Could not find codec parameters for stream 0 (Audio: mp3, 0 channels, s16p): unspecified frame size
+Consider increasing the value for the 'analyzeduration' and 'probesize' options
+Feb 14 20:58 : player: played "Ken Nordine - Next!/04. Faces in the Jazzmatazz.mp3"
+Feb 14 22:27 : client: [0] opened from 127.0.0.1:58476
+Feb 14 22:27 : vorbis: Failed to open Ogg Vorbis stream: not vorbis stream
+Feb 14 22:27 : audiofile: unrecognized audio file format
+Feb 14 22:27 : vorbis: Failed to open Ogg Vorbis stream: not vorbis stream
+Feb 14 22:27 : vorbis: Failed to open Ogg Vorbis stream: not vorbis stream
+Feb 14 22:27 : client: [0] closed
+Feb 14 22:27 : client: [1] opened from 127.0.0.1:58478
+Feb 14 22:27 : ffmpeg/mp3: decoding for stream 0 failed
+Feb 14 22:27 : ffmpeg/mp3: Could not find codec parameters for stream 0 (Audio: mp3, 0 channels, s16p): unspecified frame size
+Consider increasing the value for the 'analyzeduration' and 'probesize' options
+Feb 14 22:27 : avahi: Service 'Music Player' successfully established.
+Feb 14 22:27 : player: played "Ken Nordine - Next!/04. Faces in the Jazzmatazz.mp3"
+Feb 14 22:28 : player: played "lee asano+ryuhei)/lee (asano+ryuhei) - 2013 - ---noname--- [FLAC]/1.01. lee (asano+ryuhei) - zensai.flac"
+Feb 14 22:28 : player: played "lee asano+ryuhei)/lee (asano+ryuhei) - 2013 - ---noname--- [FLAC]/1.16. lee (asano+ryuhei) - computer against life.flac"
+Feb 14 22:28 : client: [1] closed
+Feb 14 22:28 : client: [2] opened from 127.0.0.1:58480
+Feb 14 22:30 : player: played "lee asano+ryuhei)/lee(asano+ryuhei) - 55555/lee (asano+ryuhei) - 55555 - 01 05. 5000yen.mp3"
+Feb 14 22:32 : player: played "lee asano+ryuhei)/lee(asano+ryuhei) - 55555/lee (asano+ryuhei) - 55555 - 02 05. 5-5.mp3"
+Feb 14 22:36 : player: played "lee asano+ryuhei)/lee(asano+ryuhei) - 55555/lee (asano+ryuhei) - 55555 - 03 05. 50g.mp3"
+Feb 14 22:42 : player: played "lee asano+ryuhei)/lee(asano+ryuhei) - 55555/lee (asano+ryuhei) - 55555 - 04 05. 55555.mp3"
+Feb 14 22:45 : player: played "lee asano+ryuhei)/lee(asano+ryuhei) - 55555/lee (asano+ryuhei) - 55555 - 05 05. 05up.mp3"
+Feb 14 22:47 : player: played "lee asano+ryuhei)/lee (asano+ryuhei) - 2014 - shine [MP3]/1.01. lee (asano+ryuhei) - shine..mp3"
+Feb 14 22:47 : player: played "lee asano+ryuhei)/lee (asano+ryuhei) - 2014 - shine [MP3]/1.01. lee (asano+ryuhei) - shine..mp3"
+Feb 14 22:51 : player: played "lee asano+ryuhei)/lee (asano+ryuhei) - 2014 - shine [MP3]/1.01. lee (asano+ryuhei) - shine..mp3"
+Feb 14 22:52 : player: played "lee asano+ryuhei)/lee (asano+ryuhei) - 2014 - shine [MP3]/1.02. lee (asano+ryuhei) - brg..mp3"
+Feb 14 22:53 : player: played "Homeshake - Midnight Snack/01 What Did He Look Like_.mp3"
+Feb 14 22:56 : player: played "Homeshake - Midnight Snack/02 Heat.mp3"
+Feb 14 23:00 : player: played "Homeshake - Midnight Snack/10 Give It To Me.mp3"
+Feb 14 23:02 : player: played "Homeshake - Midnight Snack/11 Midnight.mp3"
+Feb 14 23:04 : player: played "Homeshake - Midnight Snack/12 Good Night.mp3"
+Feb 14 23:08 : player: played "lee asano+ryuhei)/lee (asano+ryuhei) - 2014 - shine [MP3]/1.02. lee (asano+ryuhei) - brg..mp3"
+Feb 14 23:10 : player: played "lee asano+ryuhei)/lee (asano+ryuhei) - 2014 - shine [MP3]/1.03. lee (asano+ryuhei) - f (ly) (a) w (ay)..mp3"
+Feb 14 23:12 : player: played "lee asano+ryuhei)/lee (asano+ryuhei) - 2014 - shine [MP3]/1.04. lee (asano+ryuhei) - young girl..mp3"
+Feb 14 23:14 : player: played "lee asano+ryuhei)/lee (asano+ryuhei) - 2014 - shine [MP3]/1.05. lee (asano+ryuhei) - bkk night..mp3"
+Feb 14 23:16 : player: played "lee asano+ryuhei)/lee (asano+ryuhei) - 2014 - shine [MP3]/1.06. lee (asano+ryuhei) - dubud..mp3"
+Feb 14 23:18 : player: played "lee asano+ryuhei)/lee (asano+ryuhei) - 2014 - shine [MP3]/1.07. lee (asano+ryuhei) - i love you dubby. (more than porgy).mp3"
+Feb 14 23:20 : player: played "lee asano+ryuhei)/lee (asano+ryuhei) - 2014 - shine [MP3]/1.08. lee (asano+ryuhei) - p.000..mp3"
+Feb 14 23:22 : player: played "lee asano+ryuhei)/lee (asano+ryuhei) - 2014 - shine [MP3]/1.09. lee (asano+ryuhei) - some day..mp3"
+Feb 14 23:23 : client: [2] closed
+Feb 14 23:23 : client: [3] opened from 127.0.0.1:33968
+Feb 14 23:23 : client: [3] closed
+Feb 14 23:23 : vorbis: Failed to open Ogg Vorbis stream: not vorbis stream
+Feb 14 23:23 : audiofile: unrecognized audio file format
+Feb 14 23:23 : vorbis: Failed to open Ogg Vorbis stream: not vorbis stream
+Feb 14 23:23 : vorbis: Failed to open Ogg Vorbis stream: not vorbis stream
+Feb 14 23:23 : client: [4] opened from 127.0.0.1:33970
+Feb 14 23:23 : ffmpeg/mp3: decoding for stream 0 failed
+Feb 14 23:23 : ffmpeg/mp3: Could not find codec parameters for stream 0 (Audio: mp3, 0 channels, s16p): unspecified frame size
+Consider increasing the value for the 'analyzeduration' and 'probesize' options
+Feb 14 23:23 : client: [4] closed
+Feb 14 23:23 : client: [5] opened from 127.0.0.1:33972
+Feb 14 23:24 : client: [5] closed
+Feb 14 23:24 : client: [6] opened from 127.0.0.1:34078
+Feb 14 23:24 : client: [6] closed
+Feb 14 23:24 : client: [7] opened from 127.0.0.1:34080
+Feb 14 23:25 : player: played "lee asano+ryuhei)/lee (asano+ryuhei) - 2014 - shine [MP3]/1.10. lee (asano+ryuhei) - hvn n s..mp3"
+Feb 14 23:30 : player: played "lee asano+ryuhei)/lee (asano+ryuhei) - 2014 - shine [MP3]/1.11. lee (asano+ryuhei) - melt down. (r.i.p kiyoshiro).mp3"
+Feb 14 23:32 : player: played "lee asano+ryuhei)/lee (asano+ryuhei) - 2014 - shine [MP3]/1.12. lee (asano+ryuhei) - g roo v..mp3"
+Feb 14 23:34 : player: played "lee asano+ryuhei)/lee (asano+ryuhei) - 2014 - shine [MP3]/1.13. lee (asano+ryuhei) - ntw..mp3"
+Feb 14 23:36 : player: played "lee asano+ryuhei)/lee (asano+ryuhei) - 2014 - shine [MP3]/1.14. lee (asano+ryuhei) - ibk. (+ ArÊ-2 +ILL da T).mp3"
+Feb 14 23:38 : player: played "lee asano+ryuhei)/lee (asano+ryuhei) - 2014 - shine [MP3]/1.15. lee (asano+ryuhei) - stn..mp3"
+Feb 14 23:43 : player: played "lee asano+ryuhei)/lee (asano+ryuhei) - 2014 - shine [MP3]/1.16. lee (asano+ryuhei) - if u..mp3"
+Feb 14 23:44 : player: played "lee asano+ryuhei)/lee (asano+ryuhei) - 2014 - shine [MP3]/1.17. lee (asano+ryuhei) - 1998..mp3"
+Feb 14 23:47 : player: played "lee asano+ryuhei)/lee (asano+ryuhei) - 2014 - shine [MP3]/1.18. lee (asano+ryuhei) - msm..mp3"
+Feb 14 23:49 : player: played "lee asano+ryuhei)/lee (asano+ryuhei) - 2014 - shine [MP3]/1.19. lee (asano+ryuhei) - ever..mp3"
+Feb 14 23:50 : player: played "lee asano+ryuhei)/lee (asano+ryuhei) - 2014 - shine [MP3]/1.20. lee (asano+ryuhei) - kansya..mp3"
+Feb 15 09:30 : avahi: Service 'Music Player' successfully established.
+Feb 15 09:30 : client: [0] opened from 127.0.0.1:54268
+Feb 15 09:30 : client: [0] closed
+Feb 15 09:30 : client: [1] opened from 127.0.0.1:54270
+Feb 15 09:30 : vorbis: Failed to open Ogg Vorbis stream: not vorbis stream
+Feb 15 09:30 : audiofile: unrecognized audio file format
+Feb 15 09:30 : vorbis: Failed to open Ogg Vorbis stream: not vorbis stream
+Feb 15 09:30 : vorbis: Failed to open Ogg Vorbis stream: not vorbis stream
+Feb 15 09:30 : ffmpeg/mp3: decoding for stream 0 failed
+Feb 15 09:30 : ffmpeg/mp3: Could not find codec parameters for stream 0 (Audio: mp3, 0 channels, s16p): unspecified frame size
+Consider increasing the value for the 'analyzeduration' and 'probesize' options
+Feb 15 09:30 : client: [1] closed
+Feb 15 09:31 : client: [2] opened from 127.0.0.1:54272
+Feb 15 09:31 : player: played "lee asano+ryuhei)/lee (asano+ryuhei) - 2014 - shine [MP3]/1.21. lee (asano+ryuhei) - yuragi..mp3"
+Feb 15 09:31 : player: played "Aphex Twin/2005 06 13 - AFX - Analord 11/05 - AFX - Not Disturbing Mammoth 1 (Mono).mp3"
+Feb 15 09:31 : player: played "Aphex Twin/2003 03 24 - Aphex Twin - 26 Mixes For Cash/205 - Nine Inch Nails - At The Heart Of It All (Created By Aphex Twin).mp3"
+Feb 15 09:31 : player: played "Aphex Twin/2003 03 24 - Aphex Twin - 26 Mixes For Cash/206 - 808 State - Flow Coma (AFX Remix).mp3"
+Feb 15 09:33 : player: played "Aphex Twin/2003 03 24 - Aphex Twin - 26 Mixes For Cash/207 - Aphex Twin - Windowlicker (Acid Edit).mp3"
+Feb 15 09:33 : player: played "Aphex Twin/2003 03 24 - Aphex Twin - 26 Mixes For Cash/101 - Seefeel - Time To Find Me (AFX Fast Mix).mp3"
+Feb 15 09:33 : player: played "Aphex Twin/2005 08 31 - AFX - Hangable Auto Bulb (CD)/01 - AFX - Children Talking.mp3"
+Feb 15 09:33 : player: played "Aphex Twin/2005 02 21 - AFX - Analord 04/04 - AFX - Breath March.mp3"
+Feb 15 09:33 : player: played "Aphex Twin/2005 02 21 - AFX - Analord 04/03 - AFX - Halibut Acid.mp3"
+Feb 15 09:33 : player: played "Aphex Twin/2005 02 21 - AFX - Analord 04/06 - AFX - In The Maze Park.mp3"
+Feb 15 09:33 : player: played "Aphex Twin/2005 02 21 - AFX - Analord 04/04 - AFX - Breath March.mp3"
+Feb 15 09:35 : player: played "Aphex Twin/2005 02 21 - AFX - Analord 04/01 - AFX - Crying In Your Face.mp3"
+Feb 15 09:39 : player: played "MF - PC/01. Surface Patterns.mp3"
+Feb 15 09:39 : player: played "Bluebeard/01 untitled.mp3"
+Feb 15 09:43 : player: played "Body Riddle/01 Herr Bar.mp3"
+Feb 15 09:44 : player: played "Body Riddle/02 Frau Wav.mp3"
+Feb 15 09:44 : player: played "Body Riddle/03 Springtime Epigram.mp3"
+Feb 15 09:58 : player: played "Body Riddle/04 Herzog.mp3"
+Feb 15 09:58 : player: played "Body Riddle/05 Ted.mp3"
+Feb 15 09:59 : player: played "Pretty Hate Machine/01 Head Like A Hole.mp3"
+Feb 15 10:02 : player: played "Body Riddle/06 Roulette Thrift Run.mp3"
+Feb 15 10:03 : player: played "Body Riddle/07 Vengeance Drools.mp3"
+Feb 15 10:03 : player: played "Body Riddle/08 Dew on the Mouth.mp3"
+Feb 15 10:06 : player: played "Body Riddle/10 Night Knuckles.mp3"
+Feb 15 10:08 : player: played "Body Riddle/08 Dew on the Mouth.mp3"
+Feb 15 10:16 : player: played "Body Riddle/11 The Autumnal Crush.mp3"
+Feb 15 10:19 : player: played "Body Riddle/07 Vengeance Drools.mp3"
+Feb 15 10:20 : player: played "Hot Rats/01 - Peaches En Regalia.mp3"
+Feb 15 10:20 : player: played "Body Riddle/07 Vengeance Drools.mp3"
+Feb 15 10:20 : player: played "late night tales - nils frahm/1-01 4'33_.mp3"
+Feb 15 10:21 : player: played "late night tales - nils frahm/1-09 Flight of the Bumblebee.mp3"
+Feb 15 10:25 : player: played "Body Riddle/10 Night Knuckles.mp3"
+Feb 15 10:31 : player: played "Body Riddle/11 The Autumnal Crush.mp3"
+Feb 15 10:32 : player: played "late night tales - nils frahm/1-04 0181 (excerpt).mp3"
+Feb 15 10:32 : player: played "late night tales - nils frahm/1-10 Concierto de Aranjuez (Adagio).mp3"
+Feb 15 10:37 : player: played "late night tales - nils frahm/1-09 Flight of the Bumblebee.mp3"
+Feb 15 10:38 : player: played "late night tales - nils frahm/1-09 Flight of the Bumblebee.mp3"
+Feb 15 10:40 : player: played "late night tales - nils frahm/1-09 Flight of the Bumblebee.mp3"
+Feb 15 10:43 : player: played "late night tales - nils frahm/1-15 O Herr Bleibet Meine Freunde, BWV 147.mp3"
+Feb 15 10:44 : update: added Eliot Lipp - Tacoma Mockingbird/10 Sex Tape.mp3
+Feb 15 10:44 : update: added Eliot Lipp - Tacoma Mockingbird/05 Times Four.mp3
+Feb 15 10:44 : update: added Eliot Lipp - Tacoma Mockingbird/09 The People.mp3
+Feb 15 10:44 : update: added Eliot Lipp - Tacoma Mockingbird/02 Tic Tac.mp3
+Feb 15 10:44 : update: added Eliot Lipp - Tacoma Mockingbird/04 Brand New.mp3
+Feb 15 10:44 : update: added Eliot Lipp - Tacoma Mockingbird/08 Rhyme War.mp3
+Feb 15 10:44 : update: added Eliot Lipp - Tacoma Mockingbird/01 Glasspipe.mp3
+Feb 15 10:44 : update: added Eliot Lipp - Tacoma Mockingbird/13 Vallejo.mp3
+Feb 15 10:44 : update: added Eliot Lipp - Tacoma Mockingbird/12 Spit Rap.mp3
+Feb 15 10:44 : update: added Eliot Lipp - Tacoma Mockingbird/03 Rap Tight.mp3
+Feb 15 10:44 : update: added Eliot Lipp - Tacoma Mockingbird/06 Last Night.mp3
+Feb 15 10:44 : update: added Eliot Lipp - Tacoma Mockingbird/11 Mashin' On Em.mp3
+Feb 15 10:44 : update: added Eliot Lipp - Tacoma Mockingbird/07 Check Weight.mp3
+Feb 15 10:44 : update: added The Marriage of True Minds/08 - Aetheric Vehicle.mp3
+Feb 15 10:44 : update: added The Marriage of True Minds/07 - In Search of a Lost Faculty.mp3
+Feb 15 10:44 : update: added The Marriage of True Minds/03 - Mental Radio.mp3
+Feb 15 10:44 : update: added The Marriage of True Minds/06 - Tunnel.mp3
+Feb 15 10:44 : update: added The Marriage of True Minds/04 - Ross Transcript.mp3
+Feb 15 10:44 : update: added The Marriage of True Minds/09 - ESP.mp3
+Feb 15 10:44 : update: added The Marriage of True Minds/01 - You.mp3
+Feb 15 10:44 : update: added The Marriage of True Minds/02 - Very Large Green Triangles.mp3
+Feb 15 10:44 : update: added The Marriage of True Minds/05 - Teen Paranormal Romance.mp3
+Feb 15 10:44 : vorbis: Failed to open Ogg Vorbis stream: not vorbis stream
+Feb 15 10:44 : audiofile: unrecognized audio file format
+Feb 15 10:44 : vorbis: Failed to open Ogg Vorbis stream: not vorbis stream
+Feb 15 10:44 : vorbis: Failed to open Ogg Vorbis stream: not vorbis stream
+Feb 15 10:44 : ffmpeg/mp3: decoding for stream 0 failed
+Feb 15 10:44 : ffmpeg/mp3: Could not find codec parameters for stream 0 (Audio: mp3, 0 channels, s16p): unspecified frame size
+Consider increasing the value for the 'analyzeduration' and 'probesize' options
+Feb 15 10:44 : player: played "Body Riddle/10 Night Knuckles.mp3"
+Feb 15 10:45 : client: [2] closed
+Feb 15 10:45 : client: [3] opened from 127.0.0.1:57916
+Feb 15 10:45 : client: [3] closed
+Feb 15 10:45 : vorbis: Failed to open Ogg Vorbis stream: not vorbis stream
+Feb 15 10:45 : audiofile: unrecognized audio file format
+Feb 15 10:45 : vorbis: Failed to open Ogg Vorbis stream: not vorbis stream
+Feb 15 10:45 : vorbis: Failed to open Ogg Vorbis stream: not vorbis stream
+Feb 15 10:45 : client: [4] opened from 127.0.0.1:57918
+Feb 15 10:45 : ffmpeg/mp3: decoding for stream 0 failed
+Feb 15 10:45 : ffmpeg/mp3: Could not find codec parameters for stream 0 (Audio: mp3, 0 channels, s16p): unspecified frame size
+Consider increasing the value for the 'analyzeduration' and 'probesize' options
+Feb 15 10:46 : client: [4] closed
+Feb 15 10:46 : client: [5] opened from 127.0.0.1:57922
+Feb 15 10:46 : client: [5] closed
+Feb 15 10:46 : vorbis: Failed to open Ogg Vorbis stream: not vorbis stream
+Feb 15 10:46 : audiofile: unrecognized audio file format
+Feb 15 10:46 : vorbis: Failed to open Ogg Vorbis stream: not vorbis stream
+Feb 15 10:46 : vorbis: Failed to open Ogg Vorbis stream: not vorbis stream
+Feb 15 10:46 : client: [6] opened from 127.0.0.1:57924
+Feb 15 10:46 : ffmpeg/mp3: decoding for stream 0 failed
+Feb 15 10:46 : ffmpeg/mp3: Could not find codec parameters for stream 0 (Audio: mp3, 0 channels, s16p): unspecified frame size
+Consider increasing the value for the 'analyzeduration' and 'probesize' options
+Feb 15 10:46 : player: played "The Marriage of True Minds/02 - Very Large Green Triangles.mp3"
+Feb 15 10:47 : update: updating Eliot Lipp - Tacoma Mockingbird/10 Sex Tape.mp3
+Feb 15 10:47 : update: updating Eliot Lipp - Tacoma Mockingbird/05 Times Four.mp3
+Feb 15 10:47 : update: updating Eliot Lipp - Tacoma Mockingbird/09 The People.mp3
+Feb 15 10:47 : update: updating Eliot Lipp - Tacoma Mockingbird/02 Tic Tac.mp3
+Feb 15 10:47 : update: updating Eliot Lipp - Tacoma Mockingbird/04 Brand New.mp3
+Feb 15 10:47 : update: updating Eliot Lipp - Tacoma Mockingbird/08 Rhyme War.mp3
+Feb 15 10:47 : update: updating Eliot Lipp - Tacoma Mockingbird/01 Glasspipe.mp3
+Feb 15 10:47 : update: updating Eliot Lipp - Tacoma Mockingbird/13 Vallejo.mp3
+Feb 15 10:47 : update: updating Eliot Lipp - Tacoma Mockingbird/12 Spit Rap.mp3
+Feb 15 10:47 : update: updating Eliot Lipp - Tacoma Mockingbird/03 Rap Tight.mp3
+Feb 15 10:47 : update: updating Eliot Lipp - Tacoma Mockingbird/06 Last Night.mp3
+Feb 15 10:47 : update: updating Eliot Lipp - Tacoma Mockingbird/11 Mashin' On Em.mp3
+Feb 15 10:47 : update: updating Eliot Lipp - Tacoma Mockingbird/07 Check Weight.mp3
+Feb 15 10:47 : vorbis: Failed to open Ogg Vorbis stream: not vorbis stream
+Feb 15 10:47 : audiofile: unrecognized audio file format
+Feb 15 10:47 : vorbis: Failed to open Ogg Vorbis stream: not vorbis stream
+Feb 15 10:47 : vorbis: Failed to open Ogg Vorbis stream: not vorbis stream
+Feb 15 10:47 : ffmpeg/mp3: decoding for stream 0 failed
+Feb 15 10:47 : ffmpeg/mp3: Could not find codec parameters for stream 0 (Audio: mp3, 0 channels, s16p): unspecified frame size
+Consider increasing the value for the 'analyzeduration' and 'probesize' options
+Feb 15 10:47 : client: [6] closed
+Feb 15 10:47 : client: [7] opened from 127.0.0.1:57928
+Feb 15 10:48 : player: played "Eliot Lipp - Tacoma Mockingbird/01 Glasspipe.mp3"
+Feb 15 10:48 : player: played "Eliot Lipp - Tacoma Mockingbird/02 Tic Tac.mp3"
+Feb 15 10:54 : player: played "Eliot Lipp - Tacoma Mockingbird/03 Rap Tight.mp3"
+Feb 15 10:55 : player: played "Body Riddle/08 Dew on the Mouth.mp3"
+Feb 15 10:55 : player: played "Body Riddle/10 Night Knuckles.mp3"
+Feb 15 10:55 : player: played "Body Riddle/11 The Autumnal Crush.mp3"
+Feb 15 10:55 : player: played "Body Riddle/07 Vengeance Drools.mp3"
+Feb 15 10:55 : player: played "late night tales - nils frahm/1-01 4'33_.mp3"
+Feb 15 10:55 : player: played "late night tales - nils frahm/1-09 Flight of the Bumblebee.mp3"
+Feb 15 10:55 : player: played "late night tales - nils frahm/1-04 0181 (excerpt).mp3"
+Feb 15 10:55 : player: played "late night tales - nils frahm/1-15 O Herr Bleibet Meine Freunde, BWV 147.mp3"
+Feb 15 10:59 : player: played "Body Riddle/10 Night Knuckles.mp3"
+Feb 15 11:03 : player: played "Body Riddle/07 Vengeance Drools.mp3"
+Feb 15 11:04 : player: played "late night tales - nils frahm/1-09 Flight of the Bumblebee.mp3"
+Feb 15 11:05 : player: played "late night tales - nils frahm/1-04 0181 (excerpt).mp3"
+Feb 15 11:09 : player: played "late night tales - nils frahm/1-15 O Herr Bleibet Meine Freunde, BWV 147.mp3"
+Feb 15 11:17 : player: played "The Marriage of True Minds/02 - Very Large Green Triangles.mp3"
+Feb 15 11:22 : player: played "Eliot Lipp - Tacoma Mockingbird/01 Glasspipe.mp3"
+Feb 15 11:25 : player: played "Eliot Lipp - Tacoma Mockingbird/02 Tic Tac.mp3"
+Feb 15 11:29 : player: played "Eliot Lipp - Tacoma Mockingbird/03 Rap Tight.mp3"
+Feb 15 11:33 : player: played "Body Riddle/10 Night Knuckles.mp3"
+Feb 15 11:36 : player: played "Body Riddle/07 Vengeance Drools.mp3"
+Feb 15 11:40 : player: played "Aphex Twin/2005 02 21 - AFX - Analord 04/01 - AFX - Crying In Your Face.mp3"
+Feb 15 11:49 : player: played "Aphex Twin/2005 02 21 - AFX - Analord 04/04 - AFX - Breath March.mp3"
+Feb 15 11:50 : player: played "the BEATNIKS - (1993) EXITENTIALISM/01 La Sang du Poete.mp3"
+Feb 15 12:01 : player: played "Aphex Twin/2005 02 21 - AFX - Analord 04/04 - AFX - Breath March.mp3"
+Feb 15 12:33 : player: played "Aphex Twin/1997 08 06 - Aphex Twin - Come To Daddy/01 - Aphex Twin - Come To Daddy (Pappy Mix).mp3"
+Feb 15 12:33 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Feb 15 12:33 : ffmpeg/mjpeg: Changeing bps to 8
+Feb 15 13:40 : client: [7] closed
+Feb 15 13:40 : client: [8] opened from 127.0.0.1:58616
+Feb 15 13:40 : client: [8] closed
+Feb 15 13:40 : vorbis: Failed to open Ogg Vorbis stream: not vorbis stream
+Feb 15 13:40 : audiofile: unrecognized audio file format
+Feb 15 13:40 : vorbis: Failed to open Ogg Vorbis stream: not vorbis stream
+Feb 15 13:40 : vorbis: Failed to open Ogg Vorbis stream: not vorbis stream
+Feb 15 13:40 : client: [9] opened from 127.0.0.1:58618
+Feb 15 13:40 : ffmpeg/mp3: decoding for stream 0 failed
+Feb 15 13:40 : ffmpeg/mp3: Could not find codec parameters for stream 0 (Audio: mp3, 0 channels, s16p): unspecified frame size
+Consider increasing the value for the 'analyzeduration' and 'probesize' options
+Feb 15 13:41 : client: [9] closed
+Feb 15 13:41 : client: [10] opened from 127.0.0.1:58620
+Feb 15 13:41 : player: played "Whiplash (Original Motion Picture Soundt/08 Practicing.m4a"
+Feb 15 13:41 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Feb 15 13:41 : ffmpeg/mjpeg: Changeing bps to 8
+Feb 15 13:41 : player: played "Whiplash (Original Motion Picture Soundt/08 Practicing.m4a"
+Feb 15 13:42 : player: played "Body Riddle/07 Vengeance Drools.mp3"
+Feb 15 13:44 : client: [0] opened from 127.0.0.1:35780
+Feb 15 13:44 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Feb 15 13:44 : client: [0] closed
+Feb 15 13:44 : ffmpeg/mjpeg: Changeing bps to 8
+Feb 15 13:44 : client: [1] opened from 127.0.0.1:35782
+Feb 15 13:44 : vorbis: Failed to open Ogg Vorbis stream: not vorbis stream
+Feb 15 13:44 : audiofile: unrecognized audio file format
+Feb 15 13:44 : vorbis: Failed to open Ogg Vorbis stream: not vorbis stream
+Feb 15 13:44 : vorbis: Failed to open Ogg Vorbis stream: not vorbis stream
+Feb 15 13:44 : avahi: Service 'Music Player' successfully established.
+Feb 15 13:44 : ffmpeg/mp3: decoding for stream 0 failed
+Feb 15 13:44 : ffmpeg/mp3: Could not find codec parameters for stream 0 (Audio: mp3, 0 channels, s16p): unspecified frame size
+Consider increasing the value for the 'analyzeduration' and 'probesize' options
+Feb 15 13:44 : player: played "Whiplash (Original Motion Picture Soundt/08 Practicing.m4a"
+Feb 15 13:44 : client: [1] closed
+Feb 15 13:44 : client: [2] opened from 127.0.0.1:35784
+Feb 15 13:44 : client: [2] closed
+Feb 15 13:44 : client: [3] opened from 127.0.0.1:35786
+Feb 15 13:50 : client: [0] opened from 127.0.0.1:39134
+Feb 15 13:50 : client: [0] closed
+Feb 15 13:50 : client: [1] opened from 127.0.0.1:39136
+Feb 15 13:50 : vorbis: Failed to open Ogg Vorbis stream: not vorbis stream
+Feb 15 13:50 : audiofile: unrecognized audio file format
+Feb 15 13:50 : vorbis: Failed to open Ogg Vorbis stream: not vorbis stream
+Feb 15 13:50 : vorbis: Failed to open Ogg Vorbis stream: not vorbis stream
+Feb 15 13:50 : ffmpeg/mp3: decoding for stream 0 failed
+Feb 15 13:50 : ffmpeg/mp3: Could not find codec parameters for stream 0 (Audio: mp3, 0 channels, s16p): unspecified frame size
+Consider increasing the value for the 'analyzeduration' and 'probesize' options
+Feb 15 13:50 : avahi: Service 'Music Player' successfully established.
+Feb 15 13:50 : client: [1] closed
+Feb 15 13:50 : client: [2] opened from 127.0.0.1:39138
+Feb 15 13:51 : player: played "Eliot Lipp - Tacoma Mockingbird/03 Rap Tight.mp3"
+Feb 15 13:52 : client: [2] closed
+Feb 15 13:54 : client: [3] opened from 127.0.0.1:39196
+Feb 15 13:54 : player: played "Body Riddle/10 Night Knuckles.mp3"
+Feb 15 13:59 : player: played "Eliot Lipp - Tacoma Mockingbird/03 Rap Tight.mp3"
+Feb 15 14:04 : player: played "Eliot Lipp - Tacoma Mockingbird/03 Rap Tight.mp3"
+Feb 15 14:07 : player: played "Body Riddle/10 Night Knuckles.mp3"
+Feb 15 14:18 : player: played "Eliot Lipp - Tacoma Mockingbird/03 Rap Tight.mp3"
+Feb 15 14:22 : player: played "Body Riddle/10 Night Knuckles.mp3"
+Feb 15 14:27 : player: played "Eliot Lipp - Tacoma Mockingbird/03 Rap Tight.mp3"
+Feb 15 14:30 : player: played "Body Riddle/10 Night Knuckles.mp3"
+Feb 15 14:34 : client: [3] closed
+Feb 15 14:34 : client: [4] opened from 127.0.0.1:39744
+Feb 15 14:38 : player: played "Eliot Lipp - Tacoma Mockingbird/03 Rap Tight.mp3"
+Feb 15 14:41 : player: played "Body Riddle/10 Night Knuckles.mp3"
+Feb 15 14:45 : vorbis: Failed to open Ogg Vorbis stream: not vorbis stream
+Feb 15 14:45 : audiofile: unrecognized audio file format
+Feb 15 14:45 : vorbis: Failed to open Ogg Vorbis stream: not vorbis stream
+Feb 15 14:45 : vorbis: Failed to open Ogg Vorbis stream: not vorbis stream
+Feb 15 14:45 : ffmpeg/mp3: decoding for stream 0 failed
+Feb 15 14:45 : ffmpeg/mp3: Could not find codec parameters for stream 0 (Audio: mp3, 0 channels, s16p): unspecified frame size
+Consider increasing the value for the 'analyzeduration' and 'probesize' options
+Feb 15 14:45 : update: added weak science/Weak Science - Relish - 08 Smoke Break.mp3
+Feb 15 14:45 : update: added weak science/Weak Science - Relish - 06 Psoriasis.mp3
+Feb 15 14:45 : update: added weak science/Weak Science - Relish - 03 Flaquitos.mp3
+Feb 15 14:45 : update: added weak science/Weak Science - Relish - 10 Stay With Me (Sam Smith).mp3
+Feb 15 14:45 : update: added weak science/Weak Science - Relish - 09 Tropic Lightning.mp3
+Feb 15 14:45 : update: added weak science/Weak Science - Relish - 01 Introduction.mp3
+Feb 15 14:45 : update: added weak science/Weak Science - Relish - 02 Good to Be (In Love).mp3
+Feb 15 14:45 : update: added weak science/Weak Science - Relish - 07 PNL.mp3
+Feb 15 14:45 : update: added weak science/Weak Science - Relish - 05 Problem (Ariana Grande).mp3
+Feb 15 14:45 : update: added weak science/Weak Science - Relish - 04 Summertime Chilling With the Bros.mp3
+Feb 15 14:46 : player: played "Eliot Lipp - Tacoma Mockingbird/03 Rap Tight.mp3"
+Feb 15 14:49 : client: [4] closed
+Feb 15 14:51 : client: [5] opened from 127.0.0.1:40562
+Feb 15 14:55 : player: played "Body Riddle/10 Night Knuckles.mp3"
+Feb 15 15:53 : player: played "Aphex Twin/2005 02 21 - AFX - Analord 04/01 - AFX - Crying In Your Face.mp3"
+Feb 15 15:53 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Feb 15 15:53 : ffmpeg/mjpeg: Changeing bps to 8
+Feb 15 15:53 : client: [5] closed
+Feb 15 15:53 : client: [6] opened from 127.0.0.1:40926
+Feb 15 16:14 : client: [6] closed
+Feb 15 16:15 : client: [7] opened from 127.0.0.1:41700
+Feb 15 16:19 : client: [7] closed
+Feb 15 16:29 : client: [8] opened from 127.0.0.1:41826
+Feb 15 16:29 : player: played "Whiplash (Original Motion Picture Soundt/06 Caravan.m4a"
+Feb 15 16:29 : player: played "Body Riddle/10 Night Knuckles.mp3"
+Feb 15 16:37 : client: [8] closed
+Feb 15 16:37 : client: [9] opened from 127.0.0.1:42066
+                                  Feb 15 16:44 : client: [0] opened from 127.0.0.1:57050
+Feb 15 16:44 : client: [0] closed
+Feb 15 16:44 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Feb 15 16:44 : client: [1] opened from 127.0.0.1:57054
+Feb 15 16:44 : update: added Don't Shoot Me Orange/15 Track 15.m4a
+Feb 15 16:44 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Feb 15 16:44 : update: added Don't Shoot Me Orange/04 Track 04.m4a
+Feb 15 16:44 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Feb 15 16:44 : update: added Don't Shoot Me Orange/07 Track 07.m4a
+Feb 15 16:44 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Feb 15 16:44 : update: added Don't Shoot Me Orange/05 Track 05.m4a
+Feb 15 16:44 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Feb 15 16:44 : update: added Don't Shoot Me Orange/03 Track 03.m4a
+Feb 15 16:44 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Feb 15 16:44 : update: added Don't Shoot Me Orange/13 Track 13.m4a
+Feb 15 16:44 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Feb 15 16:44 : update: added Don't Shoot Me Orange/16 Track 16.m4a
+Feb 15 16:44 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Feb 15 16:44 : update: added Don't Shoot Me Orange/06 Track 06.m4a
+Feb 15 16:44 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Feb 15 16:44 : update: added Don't Shoot Me Orange/10 Track 10.m4a
+Feb 15 16:44 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Feb 15 16:44 : update: added Don't Shoot Me Orange/02 Track 02.m4a
+Feb 15 16:44 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Feb 15 16:44 : update: added Don't Shoot Me Orange/09 Track 09.m4a
+Feb 15 16:44 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Feb 15 16:44 : update: added Don't Shoot Me Orange/08 Track 08.m4a
+Feb 15 16:44 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Feb 15 16:44 : update: added Don't Shoot Me Orange/11 Track 11.m4a
+Feb 15 16:44 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Feb 15 16:44 : update: added Don't Shoot Me Orange/01 Track 01.m4a
+Feb 15 16:44 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Feb 15 16:44 : update: added Don't Shoot Me Orange/12 Track 12.m4a
+Feb 15 16:44 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Feb 15 16:44 : update: added Don't Shoot Me Orange/14 Track 14.m4a
+Feb 15 16:44 : vorbis: Failed to open Ogg Vorbis stream: not vorbis stream
+Feb 15 16:44 : audiofile: unrecognized audio file format
+Feb 15 16:44 : vorbis: Failed to open Ogg Vorbis stream: not vorbis stream
+Feb 15 16:44 : vorbis: Failed to open Ogg Vorbis stream: not vorbis stream
+Feb 15 16:44 : update: added (2014) Împământenit/06 - Exit Oz - Marele Magician.mp3
+Feb 15 16:44 : update: added (2014) Împământenit/04 - Exit Oz - Zurobara Spre Orient.mp3
+Feb 15 16:44 : update: added (2014) Împământenit/05 - Exit Oz - Cornul Abundentei.mp3
+Feb 15 16:44 : update: added (2014) Împământenit/01 - Exit Oz - Enter Oz.mp3
+Feb 15 16:44 : update: added (2014) Împământenit/02 - Exit Oz - Colt De Rai.mp3
+Feb 15 16:44 : update: added (2014) Împământenit/07 - Exit Oz - Colt De Rai (In Marasm).mp3
+Feb 15 16:44 : update: added (2014) Împământenit/08 - Exit Oz - Limbile De Ceas_ La Porti.mp3
+Feb 15 16:44 : update: added (2014) Împământenit/03 - Exit Oz - Limbile De Ceas_ Intre Ciocan Si Nicovala.mp3
+Feb 15 16:44 : avahi: Service 'Music Player' successfully established.
+Feb 15 16:44 : ffmpeg/mp3: decoding for stream 0 failed
+Feb 15 16:44 : ffmpeg/mp3: Could not find codec parameters for stream 0 (Audio: mp3, 0 channels, s16p): unspecified frame size
+Consider increasing the value for the 'analyzeduration' and 'probesize' options
+Feb 15 16:44 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 15 16:44 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 15 16:44 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 15 16:44 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 15 16:44 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 15 16:44 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 15 16:44 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 15 16:44 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 15 16:44 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 15 16:44 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 15 16:44 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 15 16:44 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 15 16:44 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 15 16:44 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 15 16:44 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 15 16:44 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 15 16:44 : update: added ktv/03 The Vultures.mp3
+Feb 15 16:44 : update: added ktv/05 Good intentions.mp3
+Feb 15 16:44 : update: added ktv/01 Lovin' You Dangerous.mp3
+Feb 15 16:44 : update: added ktv/02 Hidden Signals.mp3
+Feb 15 16:44 : update: added ktv/06 Sick Days Are Upon Us.mp3
+Feb 15 16:44 : update: added ktv/07 Beasts Of Burden.mp3
+Feb 15 16:44 : update: added ktv/08 Howl n' Heal.mp3
+Feb 15 16:44 : update: added ktv/09 Behind These Eyes.mp3
+Feb 15 16:44 : update: added ktv/04 7-8-9.mp3
+Feb 15 16:44 : update: added (2015) Fleuve/09. FLEUVE iii.mp3
+Feb 15 16:44 : update: added (2015) Fleuve/01. FLEUVE i.mp3
+Feb 15 16:44 : update: added (2015) Fleuve/03. FILLE TANNE.mp3
+Feb 15 16:44 : update: added (2015) Fleuve/08. BOUE.mp3
+Feb 15 16:44 : update: added (2015) Fleuve/04. BOUE-FLEUVE ii.mp3
+Feb 15 16:44 : update: added (2015) Fleuve/07. TRANSCANADIENNE.mp3
+Feb 15 16:44 : update: added (2015) Fleuve/05. VOIE MARITIME.mp3
+Feb 15 16:44 : update: added (2015) Fleuve/02. RIVE-SUD.mp3
+Feb 15 16:44 : update: added (2015) Fleuve/06. GRAND SEC-ALUNISSAGE.mp3
+Feb 15 16:44 : update: added (2010) Down In The Hole/02. Suddenly.mp3
+Feb 15 16:44 : update: added (2010) Down In The Hole/06. Trace of the Slightest Sense.mp3
+Feb 15 16:44 : update: added (2010) Down In The Hole/10. The Town.mp3
+Feb 15 16:44 : update: added (2010) Down In The Hole/03. People.mp3
+Feb 15 16:44 : update: added (2010) Down In The Hole/01. Down In the Hole.mp3
+Feb 15 16:44 : update: added (2010) Down In The Hole/05. Frogs.mp3
+Feb 15 16:44 : update: added (2010) Down In The Hole/08. Just In Time.mp3
+Feb 15 16:44 : update: added (2010) Down In The Hole/09. When It Came to the End.mp3
+Feb 15 16:44 : update: added (2010) Down In The Hole/07. Gone.mp3
+Feb 15 16:44 : update: added (2010) Down In The Hole/04. Blue Drapes.mp3
+Feb 15 16:46 : client: [1] closed
+Feb 15 16:46 : client: [2] opened from 127.0.0.1:57104
+Feb 15 16:46 : player: played "Eliot Lipp - Tacoma Mockingbird/03 Rap Tight.mp3"
+Feb 15 16:47 : client: [2] closed
+Feb 15 16:47 : client: [3] opened from 127.0.0.1:57126
+Feb 15 16:47 : client: [3] closed
+Feb 15 16:47 : vorbis: Failed to open Ogg Vorbis stream: not vorbis stream
+Feb 15 16:47 : audiofile: unrecognized audio file format
+Feb 15 16:47 : vorbis: Failed to open Ogg Vorbis stream: not vorbis stream
+Feb 15 16:47 : vorbis: Failed to open Ogg Vorbis stream: not vorbis stream
+Feb 15 16:47 : client: [4] opened from 127.0.0.1:57128
+Feb 15 16:47 : ffmpeg/mp3: decoding for stream 0 failed
+Feb 15 16:47 : ffmpeg/mp3: Could not find codec parameters for stream 0 (Audio: mp3, 0 channels, s16p): unspecified frame size
+Consider increasing the value for the 'analyzeduration' and 'probesize' options
+Feb 15 16:47 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 15 16:47 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 15 16:47 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 15 16:47 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 15 16:47 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 15 16:47 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 15 16:47 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 15 16:47 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 15 16:47 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 15 16:47 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 15 16:47 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 15 16:47 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 15 16:47 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 15 16:47 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 15 16:47 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 15 16:47 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 15 16:47 : client: [4] closed
+Feb 15 16:47 : player: played "Pretty Hate Machine/01 Head Like A Hole.mp3"
+Feb 15 16:49 : client: [0] opened from 127.0.0.1:57132
+Feb 15 16:49 : vorbis: Failed to open Ogg Vorbis stream: not vorbis stream
+Feb 15 16:49 : audiofile: unrecognized audio file format
+Feb 15 16:49 : vorbis: Failed to open Ogg Vorbis stream: not vorbis stream
+Feb 15 16:49 : client: [0] closed
+Feb 15 16:49 : vorbis: Failed to open Ogg Vorbis stream: not vorbis stream
+Feb 15 16:49 : client: [1] opened from 127.0.0.1:57134
+Feb 15 16:49 : ffmpeg/mp3: decoding for stream 0 failed
+Feb 15 16:49 : ffmpeg/mp3: Could not find codec parameters for stream 0 (Audio: mp3, 0 channels, s16p): unspecified frame size
+Consider increasing the value for the 'analyzeduration' and 'probesize' options
+Feb 15 16:49 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 15 16:49 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 15 16:49 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 15 16:49 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 15 16:49 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 15 16:49 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 15 16:49 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 15 16:49 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 15 16:49 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 15 16:49 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 15 16:49 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 15 16:49 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 15 16:49 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 15 16:49 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 15 16:49 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 15 16:49 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 15 16:49 : player: played "Pretty Hate Machine/01 Head Like A Hole.mp3"
+Feb 15 16:49 : avahi: Service 'Music Player' successfully established.
+Feb 15 16:49 : client: [1] closed
+Feb 15 16:49 : client: [2] opened from 127.0.0.1:57136
+Feb 15 17:01 : player: played "Pretty Hate Machine/01 Head Like A Hole.mp3"
+Feb 15 17:03 : player: played "Pretty Hate Machine/01 Head Like A Hole.mp3"
+Feb 15 17:16 : player: played "Pretty Hate Machine/01 Head Like A Hole.mp3"
+Feb 15 17:18 : vorbis: Failed to open Ogg Vorbis stream: not vorbis stream
+Feb 15 17:18 : audiofile: unrecognized audio file format
+Feb 15 17:18 : vorbis: Failed to open Ogg Vorbis stream: not vorbis stream
+Feb 15 17:18 : vorbis: Failed to open Ogg Vorbis stream: not vorbis stream
+Feb 15 17:18 : ffmpeg/mp3: decoding for stream 0 failed
+Feb 15 17:18 : ffmpeg/mp3: Could not find codec parameters for stream 0 (Audio: mp3, 0 channels, s16p): unspecified frame size
+Consider increasing the value for the 'analyzeduration' and 'probesize' options
+Feb 15 17:18 : update: added (2015) Before Nostromo/06 - stephan mathieu - stasis 6 (jonesey the ship catÅ“s dream).mp3
+Feb 15 17:18 : update: added (2015) Before Nostromo/08 - stephan mathieu - stasis 8 (kaneÅ“s dream).mp3
+Feb 15 17:18 : update: added (2015) Before Nostromo/07 - stephan mathieu - stasis 7 (ash the androidÅ“s dream).mp3
+Feb 15 17:18 : update: added (2015) Before Nostromo/02 - stephan mathieu - stasis 2 (parkerÅ“s dream).mp3
+Feb 15 17:18 : update: added (2015) Before Nostromo/05 - stephan mathieu - stasis 5 (ripleyÅ“s dream).mp3
+Feb 15 17:18 : update: added (2015) Before Nostromo/03 - stephan mathieu - stasis 3 (lambertÅ“s dream).mp3
+Feb 15 17:18 : update: added (2015) Before Nostromo/04 - stephan mathieu - stasis 4 (brettÅ“s dream).mp3
+Feb 15 17:18 : update: added (2015) Before Nostromo/09 - stephan mathieu - anamorphosis.mp3
+Feb 15 17:18 : update: added (2015) Before Nostromo/01 - stephan mathieu - stasis 1 (dallasÅ“ dream).mp3
+Feb 15 17:18 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 15 17:18 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 15 17:18 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 15 17:18 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 15 17:18 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 15 17:18 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 15 17:18 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 15 17:18 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 15 17:18 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 15 17:18 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 15 17:18 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 15 17:18 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 15 17:18 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 15 17:18 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 15 17:18 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 15 17:18 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 15 17:36 : client: [2] closed
+Feb 15 18:48 : avahi: Client Disconnected, will reconnect shortly
+Feb 15 18:48 : avahi: Could not reconnect: An unexpected D-Bus error occurred
+Feb 15 18:48 : player: played "(2015) Fleuve/01. FLEUVE i.mp3"
+Feb 15 19:20 : client: [0] opened from 127.0.0.1:41188
+Feb 15 19:20 : client: [0] closed
+Feb 15 19:20 : vorbis: Failed to open Ogg Vorbis stream: not vorbis stream
+Feb 15 19:20 : audiofile: unrecognized audio file format
+Feb 15 19:20 : vorbis: Failed to open Ogg Vorbis stream: not vorbis stream
+Feb 15 19:20 : vorbis: Failed to open Ogg Vorbis stream: not vorbis stream
+Feb 15 19:20 : update: added (2011) Carapace/06 emptyshout.mp3
+Feb 15 19:20 : client: [1] opened from 127.0.0.1:41190
+Feb 15 19:20 : update: added (2011) Carapace/08 hum.mp3
+Feb 15 19:20 : update: added (2011) Carapace/04 splash.mp3
+Feb 15 19:20 : update: added (2011) Carapace/03 rythm.mp3
+Feb 15 19:20 : update: added (2011) Carapace/01 coda.mp3
+Feb 15 19:20 : update: added (2011) Carapace/07 face.mp3
+Feb 15 19:20 : update: added (2011) Carapace/05 shadow.mp3
+Feb 15 19:20 : update: added (2011) Carapace/02 shortcircuit.mp3
+Feb 15 19:20 : ffmpeg/mp3: decoding for stream 0 failed
+Feb 15 19:20 : ffmpeg/mp3: Could not find codec parameters for stream 0 (Audio: mp3, 0 channels, s16p): unspecified frame size
+Consider increasing the value for the 'analyzeduration' and 'probesize' options
+Feb 15 19:20 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 15 19:20 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 15 19:20 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 15 19:20 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 15 19:20 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 15 19:20 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 15 19:20 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 15 19:20 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 15 19:20 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 15 19:20 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 15 19:20 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 15 19:20 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 15 19:20 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 15 19:20 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 15 19:20 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 15 19:20 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Feb 15 19:20 : update: added [2015] Ghost Is Dead/07 - Iris.mp3
+Feb 15 19:20 : update: added [2015] Ghost Is Dead/03 - Ghost in a Closet.mp3
+Feb 15 19:20 : update: added [2015] Ghost Is Dead/09 - Anthology of Time.mp3
+Feb 15 19:20 : update: added [2015] Ghost Is Dead/01 - Azure.mp3
+Feb 15 19:20 : update: added [2015] Ghost Is Dead/02 - Echoes of S.mp3
+Feb 15 19:20 : update: added [2015] Ghost Is Dead/10 - Constellation.mp3
+Feb 15 19:20 : update: added [2015] Ghost Is Dead/08 - Evoke.mp3
+Feb 15 19:20 : update: added [2015] Ghost Is Dead/06 - Dawn Draw Near.mp3
+Feb 15 19:20 : update: added [2015] Ghost Is Dead/04 - Escort & Landing.mp3
+Feb 15 19:20 : update: added [2015] Ghost Is Dead/11 - Sogna.mp3
+Feb 15 19:20 : update: added [2015] Ghost Is Dead/05 - Feel Uneasy.mp3
+Feb 15 19:20 : avahi: Service 'Music Player' successfully established.
+Feb 15 19:20 : client: [1] closed
+Feb 15 19:20 : client: [2] opened from 127.0.0.1:41192
+Feb 15 19:20 : player: played "(2015) Fleuve/01. FLEUVE i.mp3"
+Feb 15 19:25 : player: played "Pretty Hate Machine/01 Head Like A Hole.mp3"
+Feb 15 19:34 : player: played "Pretty Hate Machine/01 Head Like A Hole.mp3"
+Feb 15 19:35 : player: played "(2015) Fleuve/01. FLEUVE i.mp3"
+Feb 15 19:42 : player: played "Pretty Hate Machine/01 Head Like A Hole.mp3"
+Feb 15 19:42 : player: played "(2015) Fleuve/01. FLEUVE i.mp3"
+Feb 15 19:44 : client: [3] opened from 127.0.0.1:41384
+Feb 15 19:44 : client: [3] closed
+Feb 15 19:44 : client: [4] opened from 127.0.0.1:41388
+Feb 15 19:44 : client: [4] closed
+Feb 15 19:44 : client: [5] opened from 127.0.0.1:41392
+Feb 15 19:44 : client: [5] closed
+Feb 15 19:47 : player: played "Pretty Hate Machine/01 Head Like A Hole.mp3"
+Feb 15 19:56 : player: played "Pretty Hate Machine/01 Head Like A Hole.mp3"
+Feb 15 20:00 : player: played "Pretty Hate Machine/01 Head Like A Hole.mp3"
+Feb 15 20:04 : player: played "Random/01-buckethead-jordan-fkk.mp3"
+Feb 15 20:09 : player: played "Pretty Hate Machine/01 Head Like A Hole.mp3"
+Feb 15 20:12 : player: played "Pretty Hate Machine/01 Head Like A Hole.mp3"
+Feb 15 20:22 : player: played "Random/01-buckethead-jordan-fkk.mp3"
+Feb 15 20:25 : player: played "Pretty Hate Machine/01 Head Like A Hole.mp3"
+Feb 15 20:31 : avahi: Service 'Music Player' successfully established.
+Feb 15 20:31 : client: [0] opened from 127.0.0.1:44108
+Feb 15 20:33 : player: played "Pretty Hate Machine/01 Head Like A Hole.mp3"
+Feb 15 20:38 : player: played "Pretty Hate Machine/01 Head Like A Hole.mp3"
+Feb 15 20:45 : player: played "Pretty Hate Machine/01 Head Like A Hole.mp3"
+Feb 15 20:49 : player: played "Random/01-buckethead-jordan-fkk.mp3"
+Feb 15 20:53 : player: played "Random/01-buckethead-jordan-fkk.mp3"
+Feb 15 20:54 : player: played "Random/hachikuji dance 1h mix.mp3"
+Feb 15 20:54 : player: played "Random/WhenTheLeveeBreaks .mp3"
+Feb 15 20:54 : player: played "Random/jordan.mp3"
+Feb 15 21:16 : player: played "Body Riddle/10 Night Knuckles.mp3"
+Feb 15 21:20 : player: played "Body Riddle/10 Night Knuckles.mp3"
+Feb 15 21:46 : client: [0] closed
+Feb 15 21:48 : client: [1] opened from 127.0.0.1:44656
+Feb 15 21:48 : player: played "Body Riddle/10 Night Knuckles.mp3"
+Feb 15 21:48 : player: played "Body Riddle/10 Night Knuckles.mp3"
+Feb 15 21:48 : player: played "(2015) Before Nostromo/01 - stephan mathieu - stasis 1 (dallasÅ“ dream).mp3"
+Feb 15 21:48 : player: played "(2015) Before Nostromo/06 - stephan mathieu - stasis 6 (jonesey the ship catÅ“s dream).mp3"
+Feb 15 21:48 : player: played "(2015) Before Nostromo/05 - stephan mathieu - stasis 5 (ripleyÅ“s dream).mp3"

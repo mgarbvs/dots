@@ -1,0 +1,2152 @@
+2016-02-04 18:39:48	 @	irc: connecting to server irc.rizon.net/6667...
+2016-02-04 18:39:48	 @	irc: connected to irc.rizon.net/6667 (23.251.154.162)
+2016-02-04 18:39:48	 @	irc.rizon.sexy: *** Looking up your hostname...
+2016-02-04 18:39:48	 @	irc.rizon.sexy: *** Checking Ident
+2016-02-04 18:39:48	 @	irc.rizon.sexy: *** Found your hostname
+2016-02-04 18:39:49	 @	irc.rizon.sexy: *** No Ident response
+2016-02-04 18:39:49	 @	irc.rizon.sexy: *** Your host is masked (Rizon-71E5EF26.ph.ph.cox.net)
+2016-02-04 18:39:49	 @	Welcome to the Rizon Internet Relay Chat Network michael
+2016-02-04 18:39:49	 @	Your host is irc.rizon.sexy, running version plexus-4(hybrid-8.1.20)
+2016-02-04 18:39:49	 @	This server was created Jan 23 2016 at 01:29:46
+2016-02-04 18:39:49	 @	irc.rizon.sexy plexus-4(hybrid-8.1.20) CDGNRSUWagilopqrswxyz BCIMNORSabcehiklmnopqstvz Iabehkloqv
+2016-02-04 18:39:49	 @	CALLERID CASEMAPPING=rfc1459 DEAF=D KICKLEN=180 MODES=4 PREFIX=(qaohv)~&@%+ STATUSMSG=~&@%+ EXCEPTS=e INVEX=I NICKLEN=30 NETWORK=Rizon MAXLIST=beI:250 MAXTARGETS=4 :are supported by this server
+2016-02-04 18:39:49	 @	CHANTYPES=# CHANLIMIT=#:500 CHANNELLEN=50 TOPICLEN=390 CHANMODES=beI,k,l,BCMNORScimnpstz AWAYLEN=180 WATCH=60 NAMESX UHNAMES KNOCK ELIST=CMNTU SAFELIST :are supported by this server
+2016-02-04 18:39:49	 @	There are 30 users and 22147 invisible on 13 servers
+2016-02-04 18:39:49	 @	59 :IRC Operators online
+2016-02-04 18:39:49	 @	34 :unknown connection(s)
+2016-02-04 18:39:49	 @	20474 :channels formed
+2016-02-04 18:39:49	 @	I have 22177 clients and 13 servers
+2016-02-04 18:39:49	 @	Current local users: 22177  Max: 26088
+2016-02-04 18:39:49	 @	Current global users: 22177  Max: 26088
+2016-02-04 18:39:49	 @	- irc.rizon.sexy Message of the Day -
+2016-02-04 18:39:49	 @	-          oo                            
+2016-02-04 18:39:49	 @	-
+2016-02-04 18:39:49	 @	- 88d888b. dP d888888b .d8888b. 88d888b. 
+2016-02-04 18:39:49	 @	- 88'  `88 88    .d8P' 88'  `88 88'  `88 
+2016-02-04 18:39:49	 @	- 88       88  .Y8P    88.  .88 88    88 
+2016-02-04 18:39:49	 @	- dP       dP d888888P `88888P' dP    dP
+2016-02-04 18:39:49	 @	-
+2016-02-04 18:39:49	 @	- Rizon Chat Network -- http://rizon.net
+2016-02-04 18:39:49	 @	-
+2016-02-04 18:39:49	 @	- Listening on ports: 6660 - 6669, 7000. SSL: 6697, 9999
+2016-02-04 18:39:49	 @	-
+2016-02-04 18:39:49	 @	- Rules:
+2016-02-04 18:39:49	 @	- o No spamming or flooding
+2016-02-04 18:39:49	 @	- o No clones or malicious bots
+2016-02-04 18:39:49	 @	- o No takeovers
+2016-02-04 18:39:49	 @	- o No distribution of child pornography
+2016-02-04 18:39:49	 @	- o Clients must respond to VERSION requests
+2016-02-04 18:39:49	 @	- o Rizon staff may disconnect clients for any or no reason
+2016-02-04 18:39:49	 @	-
+2016-02-04 18:39:49	 @	- First steps:
+2016-02-04 18:39:49	 @	- o To register your nick: /msg NickServ HELP
+2016-02-04 18:39:49	 @	- o To register your channel: /msg ChanServ HELP
+2016-02-04 18:39:49	 @	- o To get a vHost: /msg HostServ HELP REQUEST
+2016-02-04 18:39:49	 @	- o For other help with Rizon: /join #help
+2016-02-04 18:39:49	 @	-
+2016-02-04 18:39:49	 @	- Usage of this network is a privilege, not a right. Rizon is a
+2016-02-04 18:39:49	 @	- transit provider, therefore no person or entity involved with
+2016-02-04 18:39:49	 @	- *.rizon.net or irc.rizon.sexy takes any responsibility for
+2016-02-04 18:39:49	 @	- users' actions. Absolutely no warranty is expressed or implied.
+2016-02-04 18:39:49	 @	End of /MOTD command.
+2016-02-04 18:39:49	 @	User mode [+ix] by michael
+2016-02-04 18:39:49	 @	CTCP requested by py-ctcp: VERSION
+2016-02-04 18:39:49	 @	CTCP reply to py-ctcp: VERSION WeeChat 1.4 (Feb  2 2016)
+2016-02-04 18:39:49	 @	Global (service@rizon.net): [Logon News - May 21 2011] First time on Rizon? Be sure to read the FAQ! http://s.rizon.net/FAQ
+2016-02-04 18:39:49	 @	Global (service@rizon.net): [Logon News - Dec 16 2013] Own a large/active channel or plan to get one going? Please read http://s.rizon.net/authline
+2016-02-04 18:39:49	 @	Global (service@rizon.net): [Logon News - Dec 21 2015] Ready for a Rizon style Christmas decoration? Read http://s.rizon.net/xmas
+2016-02-04 18:39:49	 @	Global (service@rizon.net): [Random News - May 07 2013] Looking for a quotes, trivia, or other extra bots? /msg funserv help
+2016-02-04 18:39:49	 @	NickServ (service@rizon.net): This nickname is registered and protected. If it is your
+2016-02-04 18:39:49	 @	NickServ (service@rizon.net): nick, type /msg NickServ IDENTIFY password. Otherwise,
+2016-02-04 18:39:49	 @	NickServ (service@rizon.net): please choose a different nick.
+2016-02-04 18:39:49	 @	NickServ (service@rizon.net): If you do not change within 20 seconds, I will change your nick.
+2016-02-04 18:39:49	 @	peer (service@rizon.net): For network safety, your client is being scanned for open proxies by scanner.rizon.net (80.65.51.221). This scan will not harm your computer.
+2016-02-04 18:40:10	 @	NickServ (service@rizon.net): Your nickname is now being changed to Guest2606
+2016-02-04 18:40:10	 @	You are now known as Guest2606
+2016-02-04 18:40:35	 @	You are now known as testname
+2016-02-04 18:40:39	 @	#rice: You need to login to services to join or speak in that channel.
+2016-02-04 18:40:47	 @	You are now known as trumpster
+2016-02-04 18:40:47	 @	NickServ (service@rizon.net): This nickname is registered and protected. If it is your
+2016-02-04 18:40:47	 @	NickServ (service@rizon.net): nick, type /msg NickServ IDENTIFY password. Otherwise,
+2016-02-04 18:40:47	 @	NickServ (service@rizon.net): please choose a different nick.
+2016-02-04 18:40:52	 @	MSG(NickServ): IDENTIFY *********
+2016-02-04 18:40:52	 @	NickServ (service@rizon.net): Password incorrect.
+2016-02-04 18:40:58	 @	MSG(NickServ): IDENTIFY ********
+2016-02-04 18:40:58	 @	User mode [+r] by trumpster
+2016-02-04 18:40:58	 @	NickServ (service@rizon.net): Password accepted - you are now recognized.
+2016-02-06 22:32:53	 @	irc: connecting to server irc.rizon.net/6667...
+2016-02-06 22:32:53	 @	irc: connected to irc.rizon.net/6667 (208.100.38.65)
+2016-02-06 22:32:53	 @	* :Please wait while we process your connection.
+2016-02-06 22:32:53	 @	irc.sxci.net: *** Looking up your hostname...
+2016-02-06 22:32:53	 @	irc.sxci.net: *** Checking Ident
+2016-02-06 22:32:53	 @	irc.sxci.net: *** Found your hostname
+2016-02-06 22:32:54	 @	irc.sxci.net: *** No Ident response
+2016-02-06 22:32:54	 @	irc.sxci.net: *** Your host is masked (Rizon-71E5EF26.ph.ph.cox.net)
+2016-02-06 22:32:54	 @	Welcome to the Rizon Internet Relay Chat Network michael
+2016-02-06 22:32:54	 @	Your host is irc.sxci.net, running version hybrid-7.2.3+plexus-3.1.0(20151005_0-546)
+2016-02-06 22:32:54	 @	This server was created Oct 20 2015 at 17:55:25
+2016-02-06 22:32:54	 @	irc.sxci.net hybrid-7.2.3+plexus-3.1.0(20151005_0-546) CDFGNRSUWXabcdfgijklnopqrsuwxyz BIMNORSabcehiklmnopqstvz Iabehkloqv
+2016-02-06 22:32:54	 @	CALLERID CASEMAPPING=rfc1459 DEAF=D KICKLEN=160 MODES=4 NICKLEN=30 TOPICLEN=390 PREFIX=(qaohv)~&@%+ STATUSMSG=~&@%+ NETWORK=Rizon MAXLIST=beI:250 TARGMAX=ACCEPT:,KICK:1,LIST:1,NAMES:1,NOTICE:4,PRIVMSG:4,WHOIS:1 CHANTYPES=# :are supported by this server
+2016-02-06 22:32:54	 @	CHANLIMIT=#:75 CHANNELLEN=50 CHANMODES=beI,k,l,BCMNORScimnpstz FNC ELIST=CMNTU SAFELIST NAMESX UHNAMES AWAYLEN=160 KNOCK EXCEPTS=e INVEX=I :are supported by this server
+2016-02-06 22:32:54	 @	08CAAK9PU :your unique ID
+2016-02-06 22:32:54	 @	There are 32 users and 21943 invisible on 13 servers
+2016-02-06 22:32:54	 @	59 :IRC Operators online
+2016-02-06 22:32:54	 @	12 :unknown connection(s)
+2016-02-06 22:32:54	 @	20476 :channels formed
+2016-02-06 22:32:54	 @	I have 21975 clients and 13 servers
+2016-02-06 22:32:54	 @	21975 25058 :Current local users 21975, max 25058
+2016-02-06 22:32:54	 @	21975 25058 :Current global users 21975, max 25058
+2016-02-06 22:32:54	 @	- irc.sxci.net Message of the Day -
+2016-02-06 22:32:54	 @	-          oo                            
+2016-02-06 22:32:54	 @	-
+2016-02-06 22:32:54	 @	- 88d888b. dP d888888b .d8888b. 88d888b. 
+2016-02-06 22:32:54	 @	- 88'  `88 88    .d8P' 88'  `88 88'  `88 
+2016-02-06 22:32:54	 @	- 88       88  .Y8P    88.  .88 88    88 
+2016-02-06 22:32:54	 @	- dP       dP d888888P `88888P' dP    dP
+2016-02-06 22:32:54	 @	-
+2016-02-06 22:32:54	 @	- Rizon Chat Network -- http://rizon.net
+2016-02-06 22:32:54	 @	-
+2016-02-06 22:32:54	 @	- Listening on ports: 6660 - 6669, 7000. SSL: 6697, 9999
+2016-02-06 22:32:54	 @	-
+2016-02-06 22:32:54	 @	- Rules:
+2016-02-06 22:32:54	 @	- o No spamming or flooding
+2016-02-06 22:32:54	 @	- o No clones or malicious bots
+2016-02-06 22:32:54	 @	- o No takeovers
+2016-02-06 22:32:54	 @	- o No distribution of child pornography
+2016-02-06 22:32:54	 @	- o Clients must respond to VERSION requests
+2016-02-06 22:32:54	 @	- o Rizon staff may disconnect clients for any or no reason
+2016-02-06 22:32:54	 @	-
+2016-02-06 22:32:54	 @	- First steps:
+2016-02-06 22:32:54	 @	- o To register your nick: /msg NickServ HELP
+2016-02-06 22:32:54	 @	- o To register your channel: /msg ChanServ HELP
+2016-02-06 22:32:54	 @	- o To get a vHost: /msg HostServ HELP REQUEST
+2016-02-06 22:32:54	 @	- o For other help with Rizon: /join #help
+2016-02-06 22:32:54	 @	-
+2016-02-06 22:32:54	 @	- Usage of this network is a privilege, not a right. Rizon is a
+2016-02-06 22:32:54	 @	- transit provider, therefore no person or entity involved with
+2016-02-06 22:32:54	 @	- *.rizon.net or irc.sxci.net takes any responsibility for
+2016-02-06 22:32:54	 @	- users' actions. Absolutely no warranty is expressed or implied.
+2016-02-06 22:32:54	 @	End of /MOTD command.
+2016-02-06 22:32:54	 @	User mode [+ix] by michael
+2016-02-06 22:32:55	 @	CTCP requested by py-ctcp: VERSION
+2016-02-06 22:32:55	 @	CTCP reply to py-ctcp: VERSION WeeChat 1.4 (Feb  2 2016)
+2016-02-06 22:32:55	 @	Global (service@rizon.net): [Logon News - May 21 2011] First time on Rizon? Be sure to read the FAQ! http://s.rizon.net/FAQ
+2016-02-06 22:32:55	 @	Global (service@rizon.net): [Logon News - Dec 16 2013] Own a large/active channel or plan to get one going? Please read http://s.rizon.net/authline
+2016-02-06 22:32:55	 @	Global (service@rizon.net): [Logon News - Dec 21 2015] Ready for a Rizon style Christmas decoration? Read http://s.rizon.net/xmas
+2016-02-06 22:32:55	 @	Global (service@rizon.net): [Random News - May 07 2013] Looking for a quotes, trivia, or other extra bots? /msg funserv help
+2016-02-06 22:32:55	 @	NickServ (service@rizon.net): This nickname is registered and protected. If it is your
+2016-02-06 22:32:55	 @	NickServ (service@rizon.net): nick, type /msg NickServ IDENTIFY password. Otherwise,
+2016-02-06 22:32:55	 @	NickServ (service@rizon.net): please choose a different nick.
+2016-02-06 22:32:55	 @	NickServ (service@rizon.net): If you do not change within 20 seconds, I will change your nick.
+2016-02-06 22:32:55	 @	peer (service@rizon.net): For network safety, your client is being scanned for open proxies by scanner.rizon.net (80.65.51.219). This scan will not harm your computer.
+2016-02-06 22:33:15	 @	NickServ (service@rizon.net): Your nickname is now being changed to Guest18202
+2016-02-06 22:33:15	 @	You are now known as Guest18202
+2016-02-06 22:33:20	 @	You are now known as mgarbvs
+2016-02-07 14:13:39	 @	irc: connecting to server irc.rizon.net/6667...
+2016-02-07 14:13:39	 @	irc: connected to irc.rizon.net/6667 (80.65.57.18)
+2016-02-07 14:13:40	 @	* :Please wait while we process your connection.
+2016-02-07 14:13:40	 @	irc.rizon.no: *** Looking up your hostname...
+2016-02-07 14:13:40	 @	irc.rizon.no: *** Checking Ident
+2016-02-07 14:13:40	 @	irc.rizon.no: *** Found your hostname
+2016-02-07 14:13:41	 @	irc.rizon.no: *** No Ident response
+2016-02-07 14:13:41	 @	irc.rizon.no: *** Your host is masked (Rizon-71E5EF26.ph.ph.cox.net)
+2016-02-07 14:13:41	 @	Welcome to the Rizon Internet Relay Chat Network michael
+2016-02-07 14:13:41	 @	Your host is irc.rizon.no, running version hybrid-7.2.3+plexus-3.1.0(20141225_0-545)
+2016-02-07 14:13:41	 @	This server was created Jun 25 2015 at 17:38:48
+2016-02-07 14:13:41	 @	irc.rizon.no hybrid-7.2.3+plexus-3.1.0(20141225_0-545) CDFGNRSUWXabcdfgijklnopqrsuwxyz BIMNORSabcehiklmnopqstvz Iabehkloqv
+2016-02-07 14:13:41	 @	CALLERID CASEMAPPING=rfc1459 DEAF=D KICKLEN=160 MODES=4 NICKLEN=30 TOPICLEN=390 PREFIX=(qaohv)~&@%+ STATUSMSG=~&@%+ NETWORK=Rizon MAXLIST=beI:250 TARGMAX=ACCEPT:,KICK:1,LIST:1,NAMES:1,NOTICE:4,PRIVMSG:4,WHOIS:1 CHANTYPES=# :are supported by this server
+2016-02-07 14:13:41	 @	CHANLIMIT=#:250 CHANNELLEN=50 CHANMODES=beI,k,l,BCMNORScimnpstz KNOCK ELIST=CMNTU SAFELIST NAMESX UHNAMES FNC AWAYLEN=160 EXCEPTS=e INVEX=I :are supported by this server
+2016-02-07 14:13:41	 @	06CAA002C :your unique ID
+2016-02-07 14:13:41	 @	There are 28 users and 23420 invisible on 15 servers
+2016-02-07 14:13:41	 @	58 :IRC Operators online
+2016-02-07 14:13:41	 @	1123 :unknown connection(s)
+2016-02-07 14:13:41	 @	20733 :channels formed
+2016-02-07 14:13:41	 @	I have 23448 clients and 15 servers
+2016-02-07 14:13:41	 @	23448 25636 :Current local users 23448, max 25636
+2016-02-07 14:13:41	 @	23448 25636 :Current global users 23448, max 25636
+2016-02-07 14:13:41	 @	- irc.rizon.no Message of the Day -
+2016-02-07 14:13:41	 @	-          oo                            
+2016-02-07 14:13:41	 @	-
+2016-02-07 14:13:41	 @	- 88d888b. dP d888888b .d8888b. 88d888b. 
+2016-02-07 14:13:41	 @	- 88'  `88 88    .d8P' 88'  `88 88'  `88 
+2016-02-07 14:13:41	 @	- 88       88  .Y8P    88.  .88 88    88 
+2016-02-07 14:13:41	 @	- dP       dP d888888P `88888P' dP    dP
+2016-02-07 14:13:41	 @	-
+2016-02-07 14:13:41	 @	- Rizon Chat Network -- http://rizon.net
+2016-02-07 14:13:41	 @	-
+2016-02-07 14:13:41	 @	- Listening on ports: 6660 - 6669, 7000. SSL: 6697, 9999
+2016-02-07 14:13:41	 @	-
+2016-02-07 14:13:41	 @	- Rules:
+2016-02-07 14:13:41	 @	- o No spamming or flooding
+2016-02-07 14:13:41	 @	- o No clones or malicious bots
+2016-02-07 14:13:41	 @	- o No takeovers
+2016-02-07 14:13:41	 @	- o No distribution of child pornography
+2016-02-07 14:13:41	 @	- o Clients must respond to VERSION requests
+2016-02-07 14:13:41	 @	- o Rizon staff may disconnect clients for any or no reason
+2016-02-07 14:13:41	 @	-
+2016-02-07 14:13:41	 @	- First steps:
+2016-02-07 14:13:41	 @	- o To register your nick: /msg NickServ HELP
+2016-02-07 14:13:41	 @	- o To register your channel: /msg ChanServ HELP
+2016-02-07 14:13:41	 @	- o To get a vHost: /msg HostServ HELP REQUEST
+2016-02-07 14:13:41	 @	- o For other help with Rizon: /join #help
+2016-02-07 14:13:41	 @	-
+2016-02-07 14:13:41	 @	- Usage of this network is a privilege, not a right. Rizon is a
+2016-02-07 14:13:41	 @	- transit provider, therefore no person or entity involved with
+2016-02-07 14:13:41	 @	- *.rizon.net or irc.rizon.no takes any responsibility for
+2016-02-07 14:13:41	 @	- users' actions. Absolutely no warranty is expressed or implied.
+2016-02-07 14:13:41	 @	End of /MOTD command.
+2016-02-07 14:13:41	 @	User mode [+ix] by michael
+2016-02-07 14:13:41	 @	Global (service@rizon.net): [Logon News - May 21 2011] First time on Rizon? Be sure to read the FAQ! http://s.rizon.net/FAQ
+2016-02-07 14:13:41	 @	Global (service@rizon.net): [Logon News - Dec 16 2013] Own a large/active channel or plan to get one going? Please read http://s.rizon.net/authline
+2016-02-07 14:13:41	 @	Global (service@rizon.net): [Logon News - Dec 21 2015] Ready for a Rizon style Christmas decoration? Read http://s.rizon.net/xmas
+2016-02-07 14:13:41	 @	Global (service@rizon.net): [Random News - Mar 20 2009] Idle on Rizon a lot? Why not play our idlerpg game, you can check it out at #RizonIRPG for more information visit the website http://idlerpg.rizon.net -Rizon Staff
+2016-02-07 14:13:41	 @	NickServ (service@rizon.net): This nickname is registered and protected. If it is your
+2016-02-07 14:13:41	 @	NickServ (service@rizon.net): nick, type /msg NickServ IDENTIFY password. Otherwise,
+2016-02-07 14:13:41	 @	NickServ (service@rizon.net): please choose a different nick.
+2016-02-07 14:13:41	 @	NickServ (service@rizon.net): If you do not change within 20 seconds, I will change your nick.
+2016-02-07 14:13:41	 @	CTCP requested by py-ctcp: VERSION
+2016-02-07 14:13:41	 @	CTCP reply to py-ctcp: VERSION WeeChat 1.4 (Feb  2 2016)
+2016-02-07 14:13:41	 @	peer (service@rizon.net): For network safety, your client is being scanned for open proxies by scanner.rizon.net (80.65.51.219). This scan will not harm your computer.
+2016-02-07 14:13:43	 @	#rice: You need to identify to a registered nick to join that channel. Check /msg nickserv help register
+2016-02-07 14:13:53	 @	MSG(nickserv): help register
+2016-02-07 14:13:54	 @	NickServ (service@rizon.net): Syntax: REGISTER password [email]
+2016-02-07 14:13:54	 @	NickServ (service@rizon.net):  
+2016-02-07 14:13:54	 @	NickServ (service@rizon.net): Registers your nickname in the NickServ database.  Once
+2016-02-07 14:13:54	 @	NickServ (service@rizon.net): your nick is registered, you can use the SET and ACCESS
+2016-02-07 14:13:54	 @	NickServ (service@rizon.net): commands to configure your nick's settings as you like
+2016-02-07 14:13:54	 @	NickServ (service@rizon.net): them.  Make sure you remember the password you use when
+2016-02-07 14:13:54	 @	NickServ (service@rizon.net): registering - you'll need it to make changes to your nick
+2016-02-07 14:13:54	 @	NickServ (service@rizon.net): later.  (Note that case matters!  ANOPE, Anope, and
+2016-02-07 14:13:54	 @	NickServ (service@rizon.net): anope are all different passwords!)
+2016-02-07 14:13:54	 @	NickServ (service@rizon.net):  
+2016-02-07 14:13:54	 @	NickServ (service@rizon.net): Guidelines on choosing passwords:
+2016-02-07 14:13:54	 @	NickServ (service@rizon.net):  
+2016-02-07 14:13:54	 @	NickServ (service@rizon.net): Passwords should not be easily guessable.  For example,
+2016-02-07 14:13:54	 @	NickServ (service@rizon.net): using your real name as a password is a bad idea.  Using
+2016-02-07 14:13:54	 @	NickServ (service@rizon.net): your nickname as a password is a much worse idea ;) and,
+2016-02-07 14:13:54	 @	NickServ (service@rizon.net): in fact, NickServ will not allow it.  Also, short
+2016-02-07 14:13:54	 @	NickServ (service@rizon.net): passwords are vulnerable to trial-and-error searches, so
+2016-02-07 14:13:54	 @	NickServ (service@rizon.net): you should choose a password at least 5 characters long.
+2016-02-07 14:13:54	 @	NickServ (service@rizon.net): Finally, the space character cannot be used in passwords.
+2016-02-07 14:13:54	 @	NickServ (service@rizon.net):  
+2016-02-07 14:13:54	 @	NickServ (service@rizon.net): The parameter email is not optional on this
+2016-02-07 14:13:54	 @	NickServ (service@rizon.net): network and is used to verify that you are who you
+2016-02-07 14:13:54	 @	NickServ (service@rizon.net): say you are through a simple confirmation e-mail.
+2016-02-07 14:13:54	 @	NickServ (service@rizon.net):  
+2016-02-07 14:13:54	 @	NickServ (service@rizon.net): Your privacy is respected; this e-mail won't be given to
+2016-02-07 14:13:54	 @	NickServ (service@rizon.net): any third-party person.
+2016-02-07 14:13:54	 @	NickServ (service@rizon.net):  
+2016-02-07 14:13:54	 @	NickServ (service@rizon.net): This command also creates a new group for your nickname,
+2016-02-07 14:13:54	 @	NickServ (service@rizon.net): that will allow you to register other nicks later sharing
+2016-02-07 14:13:54	 @	NickServ (service@rizon.net): the same configuration, the same set of memos and the
+2016-02-07 14:13:54	 @	NickServ (service@rizon.net): same channel privileges. For more information on this
+2016-02-07 14:13:54	 @	NickServ (service@rizon.net): feature, type /msg NickServ HELP GROUP.
+2016-02-07 14:13:54	 @	NickServ (service@rizon.net):  
+2016-02-07 14:13:54	 @	NickServ (service@rizon.net): Nicknames that are not identified to for 90 days automatically
+2016-02-07 14:13:54	 @	NickServ (service@rizon.net): expire and are dropped from services.
+2016-02-07 14:14:01	 @	NickServ (service@rizon.net): Your nickname is now being changed to Guest33955
+2016-02-07 14:14:01	 @	You are now known as Guest33955
+2016-02-07 14:14:58	 @	MSG(NickServ): REGISTER ****************************
+2016-02-07 14:14:58	 @	NickServ (service@rizon.net): The given email address has reached its usage limit of 1 user.
+2016-02-07 14:15:44	 @	You are now known as bernman
+2016-02-07 14:15:47	 @	MSG(NickServ): CONFIRM Hmwo8rMyb
+2016-02-07 14:15:47	 @	NickServ (service@rizon.net): Registration step 1 may have expired, please use "/msg NickServ register <password> <email>" first.
+2016-02-07 14:16:01	 @	#rice: You need to identify to a registered nick to join that channel. Check /msg nickserv help register
+2016-02-07 14:16:33	 @	MSG(NickServ): register ****************************
+2016-02-07 14:16:33	 @	NickServ (service@rizon.net): The given email address has reached its usage limit of 1 user.
+2016-02-07 14:16:49	 @	MSG(NickServ): identify ********
+2016-02-07 14:16:49	 @	NickServ (service@rizon.net): Your nick isn't registered.
+2016-02-07 14:17:07	 @	You are now known as bernma
+2016-02-07 14:17:13	 @	irc: connecting to server irc.rizon.net/6667...
+2016-02-07 14:17:13	 @	irc: connected to irc.rizon.net/6667 (192.161.191.29)
+2016-02-07 14:17:13	 @	* :Please wait while we process your connection.
+2016-02-07 14:17:13	 @	irc.rizon.io: *** Looking up your hostname...
+2016-02-07 14:17:13	 @	irc.rizon.io: *** Checking Ident
+2016-02-07 14:17:13	 @	irc.rizon.io: *** Found your hostname
+2016-02-07 14:17:15	 @	irc.rizon.io: *** No Ident response
+2016-02-07 14:17:15	 @	irc.rizon.io: *** Your host is masked (Rizon-71E5EF26.ph.ph.cox.net)
+2016-02-07 14:17:15	 @	Welcome to the Rizon Internet Relay Chat Network michael
+2016-02-07 14:17:15	 @	Your host is irc.rizon.io, running version hybrid-7.2.3+plexus-3.1.0(20151005_0-546)
+2016-02-07 14:17:15	 @	This server was created Oct 23 2015 at 15:30:46
+2016-02-07 14:17:15	 @	irc.rizon.io hybrid-7.2.3+plexus-3.1.0(20151005_0-546) CDFGNRSUWXabcdfgijklnopqrsuwxyz BIMNORSabcehiklmnopqstvz Iabehkloqv
+2016-02-07 14:17:15	 @	CALLERID CASEMAPPING=rfc1459 DEAF=D KICKLEN=160 MODES=4 NICKLEN=30 TOPICLEN=390 PREFIX=(qaohv)~&@%+ STATUSMSG=~&@%+ NETWORK=Rizon MAXLIST=beI:250 TARGMAX=ACCEPT:,KICK:1,LIST:1,NAMES:1,NOTICE:4,PRIVMSG:4,WHOIS:1 CHANTYPES=# :are supported by this server
+2016-02-07 14:17:15	 @	CHANLIMIT=#:75 CHANNELLEN=50 CHANMODES=beI,k,l,BCMNORScimnpstz ELIST=CMNTU SAFELIST AWAYLEN=160 KNOCK FNC NAMESX UHNAMES EXCEPTS=e INVEX=I :are supported by this server
+2016-02-07 14:17:15	 @	89CAANL88 :your unique ID
+2016-02-07 14:17:15	 @	There are 28 users and 23413 invisible on 15 servers
+2016-02-07 14:17:15	 @	58 :IRC Operators online
+2016-02-07 14:17:15	 @	13 :unknown connection(s)
+2016-02-07 14:17:15	 @	20739 :channels formed
+2016-02-07 14:17:15	 @	I have 23441 clients and 15 servers
+2016-02-07 14:17:15	 @	23441 25636 :Current local users 23441, max 25636
+2016-02-07 14:17:15	 @	23441 25636 :Current global users 23441, max 25636
+2016-02-07 14:17:15	 @	- irc.rizon.io Message of the Day -
+2016-02-07 14:17:15	 @	-          oo                            
+2016-02-07 14:17:15	 @	-
+2016-02-07 14:17:15	 @	- 88d888b. dP d888888b .d8888b. 88d888b. 
+2016-02-07 14:17:15	 @	- 88'  `88 88    .d8P' 88'  `88 88'  `88 
+2016-02-07 14:17:15	 @	- 88       88  .Y8P    88.  .88 88    88 
+2016-02-07 14:17:15	 @	- dP       dP d888888P `88888P' dP    dP
+2016-02-07 14:17:15	 @	-
+2016-02-07 14:17:15	 @	- Rizon Chat Network -- http://rizon.net
+2016-02-07 14:17:15	 @	-
+2016-02-07 14:17:15	 @	- Listening on ports: 6660 - 6669, 7000. SSL: 6697, 9999
+2016-02-07 14:17:15	 @	-
+2016-02-07 14:17:15	 @	- Rules:
+2016-02-07 14:17:15	 @	- o No spamming or flooding
+2016-02-07 14:17:15	 @	- o No clones or malicious bots
+2016-02-07 14:17:15	 @	- o No takeovers
+2016-02-07 14:17:15	 @	- o No distribution of child pornography
+2016-02-07 14:17:15	 @	- o Clients must respond to VERSION requests
+2016-02-07 14:17:15	 @	- o Rizon staff may disconnect clients for any or no reason
+2016-02-07 14:17:15	 @	-
+2016-02-07 14:17:15	 @	- First steps:
+2016-02-07 14:17:15	 @	- o To register your nick: /msg NickServ HELP
+2016-02-07 14:17:15	 @	- o To register your channel: /msg ChanServ HELP
+2016-02-07 14:17:15	 @	- o To get a vHost: /msg HostServ HELP REQUEST
+2016-02-07 14:17:15	 @	- o For other help with Rizon: /join #help
+2016-02-07 14:17:15	 @	-
+2016-02-07 14:17:15	 @	- Usage of this network is a privilege, not a right. Rizon is a
+2016-02-07 14:17:15	 @	- transit provider, therefore no person or entity involved with
+2016-02-07 14:17:15	 @	- *.rizon.net or irc.rizon.io takes any responsibility for
+2016-02-07 14:17:15	 @	- users' actions. Absolutely no warranty is expressed or implied.
+2016-02-07 14:17:15	 @	End of /MOTD command.
+2016-02-07 14:17:15	 @	User mode [+ix] by michael
+2016-02-07 14:17:15	 @	CTCP requested by py-ctcp: VERSION
+2016-02-07 14:17:15	 @	CTCP reply to py-ctcp: VERSION WeeChat 1.4 (Feb  2 2016)
+2016-02-07 14:17:15	 @	Global (service@rizon.net): [Logon News - May 21 2011] First time on Rizon? Be sure to read the FAQ! http://s.rizon.net/FAQ
+2016-02-07 14:17:15	 @	Global (service@rizon.net): [Logon News - Dec 16 2013] Own a large/active channel or plan to get one going? Please read http://s.rizon.net/authline
+2016-02-07 14:17:15	 @	Global (service@rizon.net): [Logon News - Dec 21 2015] Ready for a Rizon style Christmas decoration? Read http://s.rizon.net/xmas
+2016-02-07 14:17:15	 @	Global (service@rizon.net): [Random News - Mar 20 2009] Idle on Rizon a lot? Why not play our idlerpg game, you can check it out at #RizonIRPG for more information visit the website http://idlerpg.rizon.net -Rizon Staff
+2016-02-07 14:17:15	 @	NickServ (service@rizon.net): This nickname is registered and protected. If it is your
+2016-02-07 14:17:15	 @	NickServ (service@rizon.net): nick, type /msg NickServ IDENTIFY password. Otherwise,
+2016-02-07 14:17:15	 @	NickServ (service@rizon.net): please choose a different nick.
+2016-02-07 14:17:15	 @	NickServ (service@rizon.net): If you do not change within 20 seconds, I will change your nick.
+2016-02-07 14:17:15	 @	peer (service@rizon.net): For network safety, your client is being scanned for open proxies by scanner.rizon.net (80.65.51.221). This scan will not harm your computer.
+2016-02-07 14:17:19	 @	You are now known as bernman
+2016-02-07 14:17:37	 @	MSG(NickServ): IDENTIFY ********
+2016-02-07 14:17:38	 @	NickServ (service@rizon.net): Your nick isn't registered.
+2016-02-07 14:18:08	 @	You are now known as trumpster
+2016-02-07 14:18:08	 @	NickServ (service@rizon.net): This nickname is registered and protected. If it is your
+2016-02-07 14:18:08	 @	NickServ (service@rizon.net): nick, type /msg NickServ IDENTIFY password. Otherwise,
+2016-02-07 14:18:08	 @	NickServ (service@rizon.net): please choose a different nick.
+2016-02-07 14:18:11	 @	MSG(NickServ): confirm 8BfmnPItV
+2016-02-07 14:18:11	 @	NickServ (service@rizon.net): Registration step 1 may have expired, please use "/msg NickServ register <password> <email>" first.
+2016-02-07 14:18:21	 @	MSG(NickServ): IDENTIFY ********
+2016-02-07 14:18:21	 @	User mode [+r] by trumpster
+2016-02-07 14:18:21	 @	NickServ (service@rizon.net): Password accepted - you are now recognized.
+2016-02-07 14:20:38	 @	[bixxx] (bixxx@Happy.New.Year.bixxx): bixxx
+2016-02-07 14:20:38	 @	[bixxx] %#homescreen @#dprk &#plez #stew #lovefort #degeneracy #/w/alls +#rice #< +#xmas
+2016-02-07 14:20:38	 @	[bixxx] *.rizon.net (Where are you?)
+2016-02-07 14:20:38	 @	[bixxx] has identified for this nick
+2016-02-07 14:20:38	 @	[bixxx] is using a secure connection
+2016-02-07 14:20:38	 @	bixxx :is a CGI:IRC client
+2016-02-07 14:20:38	 @	[bixxx] End of /WHOIS list.
+2016-02-07 14:20:41	 @	[trumpster] (~michael@Rizon-71E5EF26.ph.ph.cox.net): michael
+2016-02-07 14:20:41	 @	[trumpster] #rice
+2016-02-07 14:20:41	 @	[trumpster] irc.rizon.io (Rizon Client Server)
+2016-02-07 14:20:41	 @	[trumpster] has identified for trumpster
+2016-02-07 14:20:41	 @	[trumpster] is using modes +irx authflags: [none]
+2016-02-07 14:20:41	 @	[trumpster] actually ~michael@ip68-3-11-156.ph.ph.cox.net [68.3.11.156] :is
+2016-02-07 14:20:41	 @	[trumpster] idle: 00 hours 00 minutes 32 seconds, signon at: Sun, 07 Feb 2016 14:17:40
+2016-02-07 14:20:41	 @	[trumpster] End of /WHOIS list.
+2016-02-07 17:48:17	 @	irc: connecting to server irc.rizon.net/6667...
+2016-02-07 17:48:18	 @	irc: connected to irc.rizon.net/6667 (23.251.154.162)
+2016-02-07 17:48:18	 @	irc.rizon.sexy: *** Looking up your hostname...
+2016-02-07 17:48:18	 @	irc.rizon.sexy: *** Checking Ident
+2016-02-07 17:48:18	 @	irc.rizon.sexy: *** Found your hostname
+2016-02-07 17:48:19	 @	irc.rizon.sexy: *** No Ident response
+2016-02-07 17:48:20	 @	irc.rizon.sexy: *** Your host is masked (Rizon-71E5EF26.ph.ph.cox.net)
+2016-02-07 17:48:20	 @	Welcome to the Rizon Internet Relay Chat Network michael
+2016-02-07 17:48:20	 @	Your host is irc.rizon.sexy, running version plexus-4(hybrid-8.1.20)
+2016-02-07 17:48:20	 @	This server was created Jan 23 2016 at 01:29:46
+2016-02-07 17:48:20	 @	irc.rizon.sexy plexus-4(hybrid-8.1.20) CDGNRSUWagilopqrswxyz BCIMNORSabcehiklmnopqstvz Iabehkloqv
+2016-02-07 17:48:20	 @	CALLERID CASEMAPPING=rfc1459 DEAF=D KICKLEN=180 MODES=4 PREFIX=(qaohv)~&@%+ STATUSMSG=~&@%+ EXCEPTS=e INVEX=I NICKLEN=30 NETWORK=Rizon MAXLIST=beI:250 MAXTARGETS=4 :are supported by this server
+2016-02-07 17:48:20	 @	CHANTYPES=# CHANLIMIT=#:500 CHANNELLEN=50 TOPICLEN=390 CHANMODES=beI,k,l,BCMNORScimnpstz AWAYLEN=180 WATCH=60 NAMESX UHNAMES KNOCK ELIST=CMNTU SAFELIST :are supported by this server
+2016-02-07 17:48:20	 @	There are 29 users and 22374 invisible on 15 servers
+2016-02-07 17:48:20	 @	58 :IRC Operators online
+2016-02-07 17:48:20	 @	1 :unknown connection(s)
+2016-02-07 17:48:20	 @	20618 :channels formed
+2016-02-07 17:48:20	 @	I have 22403 clients and 15 servers
+2016-02-07 17:48:20	 @	Current local users: 22403  Max: 26088
+2016-02-07 17:48:20	 @	Current global users: 22403  Max: 26088
+2016-02-07 17:48:20	 @	- irc.rizon.sexy Message of the Day -
+2016-02-07 17:48:20	 @	-          oo                            
+2016-02-07 17:48:20	 @	-
+2016-02-07 17:48:20	 @	- 88d888b. dP d888888b .d8888b. 88d888b. 
+2016-02-07 17:48:20	 @	- 88'  `88 88    .d8P' 88'  `88 88'  `88 
+2016-02-07 17:48:20	 @	- 88       88  .Y8P    88.  .88 88    88 
+2016-02-07 17:48:20	 @	- dP       dP d888888P `88888P' dP    dP
+2016-02-07 17:48:20	 @	-
+2016-02-07 17:48:20	 @	- Rizon Chat Network -- http://rizon.net
+2016-02-07 17:48:20	 @	-
+2016-02-07 17:48:20	 @	- Listening on ports: 6660 - 6669, 7000. SSL: 6697, 9999
+2016-02-07 17:48:20	 @	-
+2016-02-07 17:48:20	 @	- Rules:
+2016-02-07 17:48:20	 @	- o No spamming or flooding
+2016-02-07 17:48:20	 @	- o No clones or malicious bots
+2016-02-07 17:48:20	 @	- o No takeovers
+2016-02-07 17:48:20	 @	- o No distribution of child pornography
+2016-02-07 17:48:20	 @	- o Clients must respond to VERSION requests
+2016-02-07 17:48:20	 @	- o Rizon staff may disconnect clients for any or no reason
+2016-02-07 17:48:20	 @	-
+2016-02-07 17:48:20	 @	- First steps:
+2016-02-07 17:48:20	 @	- o To register your nick: /msg NickServ HELP
+2016-02-07 17:48:20	 @	- o To register your channel: /msg ChanServ HELP
+2016-02-07 17:48:20	 @	- o To get a vHost: /msg HostServ HELP REQUEST
+2016-02-07 17:48:20	 @	- o For other help with Rizon: /join #help
+2016-02-07 17:48:20	 @	-
+2016-02-07 17:48:20	 @	- Usage of this network is a privilege, not a right. Rizon is a
+2016-02-07 17:48:20	 @	- transit provider, therefore no person or entity involved with
+2016-02-07 17:48:20	 @	- *.rizon.net or irc.rizon.sexy takes any responsibility for
+2016-02-07 17:48:20	 @	- users' actions. Absolutely no warranty is expressed or implied.
+2016-02-07 17:48:20	 @	End of /MOTD command.
+2016-02-07 17:48:20	 @	User mode [+ix] by michael
+2016-02-07 17:48:20	 @	CTCP requested by py-ctcp: VERSION
+2016-02-07 17:48:20	 @	CTCP reply to py-ctcp: VERSION WeeChat 1.4 (Feb  2 2016)
+2016-02-07 17:48:20	 @	Global (service@rizon.net): [Logon News - May 21 2011] First time on Rizon? Be sure to read the FAQ! http://s.rizon.net/FAQ
+2016-02-07 17:48:20	 @	Global (service@rizon.net): [Logon News - Dec 16 2013] Own a large/active channel or plan to get one going? Please read http://s.rizon.net/authline
+2016-02-07 17:48:20	 @	Global (service@rizon.net): [Logon News - Dec 21 2015] Ready for a Rizon style Christmas decoration? Read http://s.rizon.net/xmas
+2016-02-07 17:48:20	 @	Global (service@rizon.net): [Random News - May 07 2013] Looking for a quotes, trivia, or other extra bots? /msg funserv help
+2016-02-07 17:48:20	 @	NickServ (service@rizon.net): This nickname is registered and protected. If it is your
+2016-02-07 17:48:20	 @	NickServ (service@rizon.net): nick, type /msg NickServ IDENTIFY password. Otherwise,
+2016-02-07 17:48:20	 @	NickServ (service@rizon.net): please choose a different nick.
+2016-02-07 17:48:20	 @	NickServ (service@rizon.net): If you do not change within 20 seconds, I will change your nick.
+2016-02-07 17:48:20	 @	peer (service@rizon.net): For network safety, your client is being scanned for open proxies by scanner.rizon.net (80.65.51.221). This scan will not harm your computer.
+2016-02-07 17:48:39	 @	NickServ (service@rizon.net): Your nickname is now being changed to Guest53796
+2016-02-07 17:48:39	 @	You are now known as Guest53796
+2016-02-07 17:48:56	 @	You are now known as trumpster
+2016-02-07 17:48:56	 @	NickServ (service@rizon.net): This nickname is registered and protected. If it is your
+2016-02-07 17:48:56	 @	NickServ (service@rizon.net): nick, type /msg NickServ IDENTIFY password. Otherwise,
+2016-02-07 17:48:56	 @	NickServ (service@rizon.net): please choose a different nick.
+2016-02-07 17:49:05	 @	MSG(NickServ): IDENTIFY ********
+2016-02-07 17:49:05	 @	User mode [+r] by trumpster
+2016-02-07 17:49:05	 @	NickServ (service@rizon.net): Password accepted - you are now recognized.
+2016-02-07 17:55:03	 @	3 :Illegal channel name
+2016-02-07 23:06:01	 @	irc: connecting to server irc.rizon.net/6667...
+2016-02-07 23:07:01	 !	irc: timeout
+2016-02-07 23:07:01	 @	irc: reconnecting to server in 10 seconds
+2016-02-07 23:07:11	 @	irc: reconnecting to server...
+2016-02-07 23:07:11	 @	irc: connecting to server irc.rizon.net/6667...
+2016-02-07 23:07:11	 @	irc: connected to irc.rizon.net/6667 (23.251.154.162)
+2016-02-07 23:07:12	 @	irc.rizon.sexy: *** Looking up your hostname...
+2016-02-07 23:07:12	 @	irc.rizon.sexy: *** Checking Ident
+2016-02-07 23:07:12	 @	irc.rizon.sexy: *** Found your hostname
+2016-02-07 23:07:13	 @	irc.rizon.sexy: *** No Ident response
+2016-02-07 23:07:13	 @	irc.rizon.sexy: *** Your host is masked (Rizon-71E5EF26.ph.ph.cox.net)
+2016-02-07 23:07:13	 @	Welcome to the Rizon Internet Relay Chat Network berningman
+2016-02-07 23:07:13	 @	Your host is irc.rizon.sexy, running version plexus-4(hybrid-8.1.20)
+2016-02-07 23:07:13	 @	This server was created Jan 23 2016 at 01:29:46
+2016-02-07 23:07:13	 @	irc.rizon.sexy plexus-4(hybrid-8.1.20) CDGNRSUWagilopqrswxyz BCIMNORSabcehiklmnopqstvz Iabehkloqv
+2016-02-07 23:07:13	 @	CALLERID CASEMAPPING=rfc1459 DEAF=D KICKLEN=180 MODES=4 PREFIX=(qaohv)~&@%+ STATUSMSG=~&@%+ EXCEPTS=e INVEX=I NICKLEN=30 NETWORK=Rizon MAXLIST=beI:250 MAXTARGETS=4 :are supported by this server
+2016-02-07 23:07:13	 @	CHANTYPES=# CHANLIMIT=#:500 CHANNELLEN=50 TOPICLEN=390 CHANMODES=beI,k,l,BCMNORScimnpstz AWAYLEN=180 WATCH=60 NAMESX UHNAMES KNOCK ELIST=CMNTU SAFELIST :are supported by this server
+2016-02-07 23:07:13	 @	There are 29 users and 20895 invisible on 15 servers
+2016-02-07 23:07:13	 @	58 :IRC Operators online
+2016-02-07 23:07:13	 @	1 :unknown connection(s)
+2016-02-07 23:07:14	 @	20520 :channels formed
+2016-02-07 23:07:14	 @	I have 20924 clients and 15 servers
+2016-02-07 23:07:14	 @	Current local users: 20924  Max: 26088
+2016-02-07 23:07:14	 @	Current global users: 20924  Max: 26088
+2016-02-07 23:07:14	 @	- irc.rizon.sexy Message of the Day -
+2016-02-07 23:07:14	 @	-          oo                            
+2016-02-07 23:07:14	 @	-
+2016-02-07 23:07:14	 @	- 88d888b. dP d888888b .d8888b. 88d888b. 
+2016-02-07 23:07:14	 @	- 88'  `88 88    .d8P' 88'  `88 88'  `88 
+2016-02-07 23:07:14	 @	- 88       88  .Y8P    88.  .88 88    88 
+2016-02-07 23:07:14	 @	- dP       dP d888888P `88888P' dP    dP
+2016-02-07 23:07:14	 @	-
+2016-02-07 23:07:14	 @	- Rizon Chat Network -- http://rizon.net
+2016-02-07 23:07:14	 @	-
+2016-02-07 23:07:14	 @	- Listening on ports: 6660 - 6669, 7000. SSL: 6697, 9999
+2016-02-07 23:07:14	 @	-
+2016-02-07 23:07:14	 @	- Rules:
+2016-02-07 23:07:14	 @	- o No spamming or flooding
+2016-02-07 23:07:14	 @	- o No clones or malicious bots
+2016-02-07 23:07:14	 @	- o No takeovers
+2016-02-07 23:07:14	 @	- o No distribution of child pornography
+2016-02-07 23:07:14	 @	- o Clients must respond to VERSION requests
+2016-02-07 23:07:14	 @	- o Rizon staff may disconnect clients for any or no reason
+2016-02-07 23:07:14	 @	-
+2016-02-07 23:07:14	 @	- First steps:
+2016-02-07 23:07:14	 @	- o To register your nick: /msg NickServ HELP
+2016-02-07 23:07:14	 @	- o To register your channel: /msg ChanServ HELP
+2016-02-07 23:07:14	 @	- o To get a vHost: /msg HostServ HELP REQUEST
+2016-02-07 23:07:14	 @	- o For other help with Rizon: /join #help
+2016-02-07 23:07:14	 @	-
+2016-02-07 23:07:14	 @	- Usage of this network is a privilege, not a right. Rizon is a
+2016-02-07 23:07:14	 @	- transit provider, therefore no person or entity involved with
+2016-02-07 23:07:14	 @	- *.rizon.net or irc.rizon.sexy takes any responsibility for
+2016-02-07 23:07:14	 @	- users' actions. Absolutely no warranty is expressed or implied.
+2016-02-07 23:07:14	 @	End of /MOTD command.
+2016-02-07 23:07:14	 @	User mode [+ix] by berningman
+2016-02-07 23:07:14	 @	CTCP requested by py-ctcp: VERSION
+2016-02-07 23:07:14	 @	CTCP reply to py-ctcp: VERSION WeeChat 1.4 (Feb  2 2016)
+2016-02-07 23:07:14	 @	Global (service@rizon.net): [Logon News - May 21 2011] First time on Rizon? Be sure to read the FAQ! http://s.rizon.net/FAQ
+2016-02-07 23:07:14	 @	Global (service@rizon.net): [Logon News - Dec 16 2013] Own a large/active channel or plan to get one going? Please read http://s.rizon.net/authline
+2016-02-07 23:07:14	 @	Global (service@rizon.net): [Logon News - Dec 21 2015] Ready for a Rizon style Christmas decoration? Read http://s.rizon.net/xmas
+2016-02-07 23:07:14	 @	Global (service@rizon.net): [Random News - Mar 20 2009] Idle on Rizon a lot? Why not play our idlerpg game, you can check it out at #RizonIRPG for more information visit the website http://idlerpg.rizon.net -Rizon Staff
+2016-02-07 23:07:14	 @	peer (service@rizon.net): For network safety, your client is being scanned for open proxies by scanner.rizon.net (80.65.51.221). This scan will not harm your computer.
+2016-02-07 23:08:14	 @	#4chan: You need to login to services to join or speak in that channel.
+2016-02-07 23:08:22	 @	You are now known as trumpster
+2016-02-07 23:08:22	 @	NickServ (service@rizon.net): This nickname is registered and protected. If it is your
+2016-02-07 23:08:22	 @	NickServ (service@rizon.net): nick, type /msg NickServ IDENTIFY password. Otherwise,
+2016-02-07 23:08:22	 @	NickServ (service@rizon.net): please choose a different nick.
+2016-02-07 23:08:37	 @	MSG(NickServ): IDENTIFY ********
+2016-02-07 23:08:37	 @	User mode [+r] by trumpster
+2016-02-07 23:08:37	 @	NickServ (service@rizon.net): Password accepted - you are now recognized.
+2016-02-08 16:58:57	 @	irc: connecting to server irc.rizon.net/6667...
+2016-02-08 16:58:57	 @	irc: connected to irc.rizon.net/6667 (208.100.38.65)
+2016-02-08 16:58:58	 @	* :Please wait while we process your connection.
+2016-02-08 16:58:58	 @	irc.sxci.net: *** Looking up your hostname...
+2016-02-08 16:58:58	 @	irc.sxci.net: *** Checking Ident
+2016-02-08 16:58:58	 @	irc.sxci.net: *** Found your hostname
+2016-02-08 16:58:59	 @	irc.sxci.net: *** No Ident response
+2016-02-08 16:58:59	 @	irc.sxci.net: *** Your host is masked (Rizon-71E5EF26.ph.ph.cox.net)
+2016-02-08 16:58:59	 @	Welcome to the Rizon Internet Relay Chat Network michael
+2016-02-08 16:58:59	 @	Your host is irc.sxci.net, running version hybrid-7.2.3+plexus-3.1.0(20151005_0-546)
+2016-02-08 16:58:59	 @	This server was created Oct 20 2015 at 17:55:25
+2016-02-08 16:58:59	 @	irc.sxci.net hybrid-7.2.3+plexus-3.1.0(20151005_0-546) CDFGNRSUWXabcdfgijklnopqrsuwxyz BIMNORSabcehiklmnopqstvz Iabehkloqv
+2016-02-08 16:58:59	 @	CALLERID CASEMAPPING=rfc1459 DEAF=D KICKLEN=160 MODES=4 NICKLEN=30 TOPICLEN=390 PREFIX=(qaohv)~&@%+ STATUSMSG=~&@%+ NETWORK=Rizon MAXLIST=beI:250 TARGMAX=ACCEPT:,KICK:1,LIST:1,NAMES:1,NOTICE:4,PRIVMSG:4,WHOIS:1 CHANTYPES=# :are supported by this server
+2016-02-08 16:58:59	 @	CHANLIMIT=#:75 CHANNELLEN=50 CHANMODES=beI,k,l,BCMNORScimnpstz FNC ELIST=CMNTU SAFELIST NAMESX UHNAMES AWAYLEN=160 KNOCK EXCEPTS=e INVEX=I :are supported by this server
+2016-02-08 16:58:59	 @	08CAALJRF :your unique ID
+2016-02-08 16:58:59	 @	There are 27 users and 22308 invisible on 13 servers
+2016-02-08 16:58:59	 @	58 :IRC Operators online
+2016-02-08 16:58:59	 @	4 :unknown connection(s)
+2016-02-08 16:58:59	 @	20689 :channels formed
+2016-02-08 16:58:59	 @	I have 22335 clients and 13 servers
+2016-02-08 16:58:59	 @	22335 25058 :Current local users 22335, max 25058
+2016-02-08 16:58:59	 @	22335 25058 :Current global users 22335, max 25058
+2016-02-08 16:58:59	 @	- irc.sxci.net Message of the Day -
+2016-02-08 16:58:59	 @	-          oo                            
+2016-02-08 16:58:59	 @	-
+2016-02-08 16:58:59	 @	- 88d888b. dP d888888b .d8888b. 88d888b. 
+2016-02-08 16:58:59	 @	- 88'  `88 88    .d8P' 88'  `88 88'  `88 
+2016-02-08 16:58:59	 @	- 88       88  .Y8P    88.  .88 88    88 
+2016-02-08 16:58:59	 @	- dP       dP d888888P `88888P' dP    dP
+2016-02-08 16:58:59	 @	-
+2016-02-08 16:58:59	 @	- Rizon Chat Network -- http://rizon.net
+2016-02-08 16:58:59	 @	-
+2016-02-08 16:58:59	 @	- Listening on ports: 6660 - 6669, 7000. SSL: 6697, 9999
+2016-02-08 16:58:59	 @	-
+2016-02-08 16:58:59	 @	- Rules:
+2016-02-08 16:58:59	 @	- o No spamming or flooding
+2016-02-08 16:58:59	 @	- o No clones or malicious bots
+2016-02-08 16:58:59	 @	- o No takeovers
+2016-02-08 16:58:59	 @	- o No distribution of child pornography
+2016-02-08 16:58:59	 @	- o Clients must respond to VERSION requests
+2016-02-08 16:58:59	 @	- o Rizon staff may disconnect clients for any or no reason
+2016-02-08 16:58:59	 @	-
+2016-02-08 16:58:59	 @	- First steps:
+2016-02-08 16:58:59	 @	- o To register your nick: /msg NickServ HELP
+2016-02-08 16:58:59	 @	- o To register your channel: /msg ChanServ HELP
+2016-02-08 16:58:59	 @	- o To get a vHost: /msg HostServ HELP REQUEST
+2016-02-08 16:58:59	 @	- o For other help with Rizon: /join #help
+2016-02-08 16:58:59	 @	-
+2016-02-08 16:58:59	 @	- Usage of this network is a privilege, not a right. Rizon is a
+2016-02-08 16:58:59	 @	- transit provider, therefore no person or entity involved with
+2016-02-08 16:58:59	 @	- *.rizon.net or irc.sxci.net takes any responsibility for
+2016-02-08 16:58:59	 @	- users' actions. Absolutely no warranty is expressed or implied.
+2016-02-08 16:58:59	 @	End of /MOTD command.
+2016-02-08 16:58:59	 @	User mode [+ix] by michael
+2016-02-08 16:58:59	 @	CTCP requested by py-ctcp: VERSION
+2016-02-08 16:58:59	 @	CTCP reply to py-ctcp: VERSION WeeChat 1.4 (Feb  2 2016)
+2016-02-08 16:58:59	 @	Global (service@rizon.net): [Logon News - May 21 2011] First time on Rizon? Be sure to read the FAQ! http://s.rizon.net/FAQ
+2016-02-08 16:58:59	 @	Global (service@rizon.net): [Logon News - Dec 16 2013] Own a large/active channel or plan to get one going? Please read http://s.rizon.net/authline
+2016-02-08 16:58:59	 @	Global (service@rizon.net): [Logon News - Dec 21 2015] Ready for a Rizon style Christmas decoration? Read http://s.rizon.net/xmas
+2016-02-08 16:58:59	 @	Global (service@rizon.net): [Random News - Nov 29 2013] Want to make your vhost shiny by adding colors to it? Try your luck in #VIzon
+2016-02-08 16:58:59	 @	NickServ (service@rizon.net): This nickname is registered and protected. If it is your
+2016-02-08 16:58:59	 @	NickServ (service@rizon.net): nick, type /msg NickServ IDENTIFY password. Otherwise,
+2016-02-08 16:58:59	 @	NickServ (service@rizon.net): please choose a different nick.
+2016-02-08 16:58:59	 @	NickServ (service@rizon.net): If you do not change within 20 seconds, I will change your nick.
+2016-02-08 16:58:59	 @	peer (service@rizon.net): For network safety, your client is being scanned for open proxies by scanner.rizon.net (80.65.51.219). This scan will not harm your computer.
+2016-02-08 16:59:20	 @	NickServ (service@rizon.net): Your nickname is now being changed to Guest61313
+2016-02-08 16:59:20	 @	You are now known as Guest61313
+2016-02-08 17:22:13	 @	irc: connecting to server irc.rizon.net/6667...
+2016-02-08 17:22:13	 @	irc: connected to irc.rizon.net/6667 (208.100.38.65)
+2016-02-08 17:22:13	 @	* :Please wait while we process your connection.
+2016-02-08 17:22:13	 @	irc.sxci.net: *** Looking up your hostname...
+2016-02-08 17:22:13	 @	irc.sxci.net: *** Checking Ident
+2016-02-08 17:22:13	 @	irc.sxci.net: *** Found your hostname
+2016-02-08 17:22:15	 @	irc.sxci.net: *** No Ident response
+2016-02-08 17:22:15	 @	irc.sxci.net: *** Your host is masked (Rizon-71E5EF26.ph.ph.cox.net)
+2016-02-08 17:22:15	 @	Welcome to the Rizon Internet Relay Chat Network michael
+2016-02-08 17:22:15	 @	Your host is irc.sxci.net, running version hybrid-7.2.3+plexus-3.1.0(20151005_0-546)
+2016-02-08 17:22:15	 @	This server was created Oct 20 2015 at 17:55:25
+2016-02-08 17:22:15	 @	irc.sxci.net hybrid-7.2.3+plexus-3.1.0(20151005_0-546) CDFGNRSUWXabcdfgijklnopqrsuwxyz BIMNORSabcehiklmnopqstvz Iabehkloqv
+2016-02-08 17:22:15	 @	CALLERID CASEMAPPING=rfc1459 DEAF=D KICKLEN=160 MODES=4 NICKLEN=30 TOPICLEN=390 PREFIX=(qaohv)~&@%+ STATUSMSG=~&@%+ NETWORK=Rizon MAXLIST=beI:250 TARGMAX=ACCEPT:,KICK:1,LIST:1,NAMES:1,NOTICE:4,PRIVMSG:4,WHOIS:1 CHANTYPES=# :are supported by this server
+2016-02-08 17:22:15	 @	CHANLIMIT=#:75 CHANNELLEN=50 CHANMODES=beI,k,l,BCMNORScimnpstz FNC ELIST=CMNTU SAFELIST NAMESX UHNAMES AWAYLEN=160 KNOCK EXCEPTS=e INVEX=I :are supported by this server
+2016-02-08 17:22:15	 @	08CAALJVZ :your unique ID
+2016-02-08 17:22:15	 @	There are 27 users and 22264 invisible on 13 servers
+2016-02-08 17:22:15	 @	58 :IRC Operators online
+2016-02-08 17:22:15	 @	6 :unknown connection(s)
+2016-02-08 17:22:15	 @	20636 :channels formed
+2016-02-08 17:22:15	 @	I have 22291 clients and 13 servers
+2016-02-08 17:22:15	 @	22291 25058 :Current local users 22291, max 25058
+2016-02-08 17:22:15	 @	22291 25058 :Current global users 22291, max 25058
+2016-02-08 17:22:15	 @	- irc.sxci.net Message of the Day -
+2016-02-08 17:22:15	 @	-          oo                            
+2016-02-08 17:22:15	 @	-
+2016-02-08 17:22:15	 @	- 88d888b. dP d888888b .d8888b. 88d888b. 
+2016-02-08 17:22:15	 @	- 88'  `88 88    .d8P' 88'  `88 88'  `88 
+2016-02-08 17:22:15	 @	- 88       88  .Y8P    88.  .88 88    88 
+2016-02-08 17:22:15	 @	- dP       dP d888888P `88888P' dP    dP
+2016-02-08 17:22:15	 @	-
+2016-02-08 17:22:15	 @	- Rizon Chat Network -- http://rizon.net
+2016-02-08 17:22:15	 @	-
+2016-02-08 17:22:15	 @	- Listening on ports: 6660 - 6669, 7000. SSL: 6697, 9999
+2016-02-08 17:22:15	 @	-
+2016-02-08 17:22:15	 @	- Rules:
+2016-02-08 17:22:15	 @	- o No spamming or flooding
+2016-02-08 17:22:15	 @	- o No clones or malicious bots
+2016-02-08 17:22:15	 @	- o No takeovers
+2016-02-08 17:22:15	 @	- o No distribution of child pornography
+2016-02-08 17:22:15	 @	- o Clients must respond to VERSION requests
+2016-02-08 17:22:15	 @	- o Rizon staff may disconnect clients for any or no reason
+2016-02-08 17:22:15	 @	-
+2016-02-08 17:22:15	 @	- First steps:
+2016-02-08 17:22:15	 @	- o To register your nick: /msg NickServ HELP
+2016-02-08 17:22:15	 @	- o To register your channel: /msg ChanServ HELP
+2016-02-08 17:22:15	 @	- o To get a vHost: /msg HostServ HELP REQUEST
+2016-02-08 17:22:15	 @	- o For other help with Rizon: /join #help
+2016-02-08 17:22:15	 @	-
+2016-02-08 17:22:15	 @	- Usage of this network is a privilege, not a right. Rizon is a
+2016-02-08 17:22:15	 @	- transit provider, therefore no person or entity involved with
+2016-02-08 17:22:15	 @	- *.rizon.net or irc.sxci.net takes any responsibility for
+2016-02-08 17:22:15	 @	- users' actions. Absolutely no warranty is expressed or implied.
+2016-02-08 17:22:15	 @	End of /MOTD command.
+2016-02-08 17:22:15	 @	User mode [+ix] by michael
+2016-02-08 17:22:15	 @	CTCP requested by py-ctcp: VERSION
+2016-02-08 17:22:15	 @	CTCP reply to py-ctcp: VERSION WeeChat 1.4 (Feb  2 2016)
+2016-02-08 17:22:15	 @	Global (service@rizon.net): [Logon News - May 21 2011] First time on Rizon? Be sure to read the FAQ! http://s.rizon.net/FAQ
+2016-02-08 17:22:15	 @	Global (service@rizon.net): [Logon News - Dec 16 2013] Own a large/active channel or plan to get one going? Please read http://s.rizon.net/authline
+2016-02-08 17:22:15	 @	Global (service@rizon.net): [Logon News - Dec 21 2015] Ready for a Rizon style Christmas decoration? Read http://s.rizon.net/xmas
+2016-02-08 17:22:20	 @	Global (service@rizon.net): [Random News - May 07 2013] Looking for a quotes, trivia, or other extra bots? /msg funserv help
+2016-02-08 17:22:20	 @	NickServ (service@rizon.net): This nickname is registered and protected. If it is your
+2016-02-08 17:22:20	 @	NickServ (service@rizon.net): nick, type /msg NickServ IDENTIFY password. Otherwise,
+2016-02-08 17:22:20	 @	NickServ (service@rizon.net): please choose a different nick.
+2016-02-08 17:22:20	 @	NickServ (service@rizon.net): If you do not change within 20 seconds, I will change your nick.
+2016-02-08 17:22:20	 @	peer (service@rizon.net): For network safety, your client is being scanned for open proxies by scanner.rizon.net (80.65.51.219). This scan will not harm your computer.
+2016-02-08 17:22:35	 @	NickServ (service@rizon.net): Your nickname is now being changed to Guest46456
+2016-02-08 17:22:35	 @	You are now known as Guest46456
+2016-02-08 17:22:51	 @	You are now known as trumpster
+2016-02-08 17:22:51	 @	NickServ (service@rizon.net): This nickname is registered and protected. If it is your
+2016-02-08 17:22:51	 @	NickServ (service@rizon.net): nick, type /msg NickServ IDENTIFY password. Otherwise,
+2016-02-08 17:22:51	 @	NickServ (service@rizon.net): please choose a different nick.
+2016-02-08 17:23:04	 @	MSG(NickServ): IDENTIFY ********
+2016-02-08 17:23:04	 @	User mode [+r] by trumpster
+2016-02-08 17:23:04	 @	NickServ (service@rizon.net): Password accepted - you are now recognized.
+2016-02-12 18:53:35	 @	irc: connecting to server irc.rizon.net/6667...
+2016-02-12 18:53:35	 @	irc: connected to irc.rizon.net/6667 (23.251.154.162)
+2016-02-12 18:53:35	 @	irc.rizon.sexy: *** Looking up your hostname...
+2016-02-12 18:53:35	 @	irc.rizon.sexy: *** Checking Ident
+2016-02-12 18:53:35	 @	irc.rizon.sexy: *** Found your hostname
+2016-02-12 18:53:36	 @	irc.rizon.sexy: *** No Ident response
+2016-02-12 18:53:36	 @	irc.rizon.sexy: *** Your host is masked (Rizon-71E5EF26.ph.ph.cox.net)
+2016-02-12 18:53:36	 @	Welcome to the Rizon Internet Relay Chat Network michael
+2016-02-12 18:53:36	 @	Your host is irc.rizon.sexy, running version plexus-4(hybrid-8.1.20)
+2016-02-12 18:53:36	 @	This server was created Feb  9 2016 at 01:06:06
+2016-02-12 18:53:36	 @	irc.rizon.sexy plexus-4(hybrid-8.1.20) CDGNRSUWagilopqrswxyz BCIMNORSabcehiklmnopqstvz Iabehkloqv
+2016-02-12 18:53:36	 @	CALLERID CASEMAPPING=rfc1459 DEAF=D KICKLEN=180 MODES=4 PREFIX=(qaohv)~&@%+ STATUSMSG=~&@%+ EXCEPTS=e INVEX=I NICKLEN=30 NETWORK=Rizon MAXLIST=beI:250 MAXTARGETS=4 :are supported by this server
+2016-02-12 18:53:36	 @	CHANTYPES=# CHANLIMIT=#:500 CHANNELLEN=50 TOPICLEN=390 CHANMODES=beI,k,l,BCMNORScimnpstz AWAYLEN=180 WATCH=60 NAMESX UHNAMES KNOCK ELIST=CMNTU SAFELIST :are supported by this server
+2016-02-12 18:53:36	 @	There are 22 users and 22059 invisible on 13 servers
+2016-02-12 18:53:36	 @	59 :IRC Operators online
+2016-02-12 18:53:36	 @	20579 :channels formed
+2016-02-12 18:53:36	 @	I have 22081 clients and 13 servers
+2016-02-12 18:53:36	 @	Current local users: 22081  Max: 23243
+2016-02-12 18:53:36	 @	Current global users: 22081  Max: 23243
+2016-02-12 18:53:36	 @	- irc.rizon.sexy Message of the Day -
+2016-02-12 18:53:36	 @	-          oo                            
+2016-02-12 18:53:36	 @	-
+2016-02-12 18:53:36	 @	- 88d888b. dP d888888b .d8888b. 88d888b. 
+2016-02-12 18:53:36	 @	- 88'  `88 88    .d8P' 88'  `88 88'  `88 
+2016-02-12 18:53:36	 @	- 88       88  .Y8P    88.  .88 88    88 
+2016-02-12 18:53:36	 @	- dP       dP d888888P `88888P' dP    dP
+2016-02-12 18:53:36	 @	-
+2016-02-12 18:53:36	 @	- Rizon Chat Network -- http://rizon.net
+2016-02-12 18:53:36	 @	-
+2016-02-12 18:53:36	 @	- Listening on ports: 6660 - 6669, 7000. SSL: 6697, 9999
+2016-02-12 18:53:36	 @	-
+2016-02-12 18:53:36	 @	- Rules:
+2016-02-12 18:53:36	 @	- o No spamming or flooding
+2016-02-12 18:53:36	 @	- o No clones or malicious bots
+2016-02-12 18:53:36	 @	- o No takeovers
+2016-02-12 18:53:36	 @	- o No distribution of child pornography
+2016-02-12 18:53:36	 @	- o Clients must respond to VERSION requests
+2016-02-12 18:53:36	 @	- o Rizon staff may disconnect clients for any or no reason
+2016-02-12 18:53:36	 @	-
+2016-02-12 18:53:36	 @	- First steps:
+2016-02-12 18:53:36	 @	- o To register your nick: /msg NickServ HELP
+2016-02-12 18:53:36	 @	- o To register your channel: /msg ChanServ HELP
+2016-02-12 18:53:36	 @	- o To get a vHost: /msg HostServ HELP REQUEST
+2016-02-12 18:53:36	 @	- o For other help with Rizon: /join #help
+2016-02-12 18:53:36	 @	-
+2016-02-12 18:53:36	 @	- Usage of this network is a privilege, not a right. Rizon is a
+2016-02-12 18:53:36	 @	- transit provider, therefore no person or entity involved with
+2016-02-12 18:53:36	 @	- *.rizon.net or irc.rizon.sexy takes any responsibility for
+2016-02-12 18:53:36	 @	- users' actions. Absolutely no warranty is expressed or implied.
+2016-02-12 18:53:36	 @	End of /MOTD command.
+2016-02-12 18:53:36	 @	User mode [+ix] by michael
+2016-02-12 18:53:36	 @	peer (service@rizon.net): For network safety, your client is being scanned for open proxies by scanner.rizon.net (80.65.51.221). This scan will not harm your computer.
+2016-02-12 18:54:22	 @	CTCP requested by py-ctcp: VERSION
+2016-02-12 18:54:22	 @	CTCP reply to py-ctcp: VERSION WeeChat 1.4 (Feb  2 2016)
+2016-02-12 18:54:50	 @	Global (service@rizon.net): [Logon News - May 21 2011] First time on Rizon? Be sure to read the FAQ! http://s.rizon.net/FAQ
+2016-02-12 18:54:50	 @	Global (service@rizon.net): [Logon News - Dec 16 2013] Own a large/active channel or plan to get one going? Please read http://s.rizon.net/authline
+2016-02-12 18:54:50	 @	Global (service@rizon.net): [Logon News - Dec 21 2015] Ready for a Rizon style Christmas decoration? Read http://s.rizon.net/xmas
+2016-02-12 18:54:50	 @	Global (service@rizon.net): [Random News - May 07 2013] Looking for a quotes, trivia, or other extra bots? /msg funserv help
+2016-02-12 18:54:50	 @	NickServ (service@rizon.net): This nickname is registered and protected. If it is your
+2016-02-12 18:54:50	 @	NickServ (service@rizon.net): nick, type /msg NickServ IDENTIFY password. Otherwise,
+2016-02-12 18:54:50	 @	NickServ (service@rizon.net): please choose a different nick.
+2016-02-12 18:54:50	 @	NickServ (service@rizon.net): If you do not change within 20 seconds, I will change your nick.
+2016-02-12 18:55:11	 @	NickServ (service@rizon.net): Your nickname is now being changed to Guest36672
+2016-02-12 18:55:11	 @	You are now known as Guest36672
+2016-02-12 18:56:47	 @	MSG(NickServ): IDENTIFY ********
+2016-02-12 18:56:47	 @	NickServ (service@rizon.net): Your nick isn't registered.
+2016-02-12 18:56:51	 @	You are now known as trumpster
+2016-02-12 18:56:51	 @	NickServ (service@rizon.net): This nickname is registered and protected. If it is your
+2016-02-12 18:56:51	 @	NickServ (service@rizon.net): nick, type /msg NickServ IDENTIFY password. Otherwise,
+2016-02-12 18:56:51	 @	NickServ (service@rizon.net): please choose a different nick.
+2016-02-12 18:56:53	 @	MSG(NickServ): IDENTIFY ********
+2016-02-12 18:56:53	 @	NickServ (service@rizon.net): Password incorrect.
+2016-02-12 18:57:07	 @	MSG(NickServ): IDENTIFY ********
+2016-02-12 18:57:08	 @	User mode [+r] by trumpster
+2016-02-12 18:57:08	 @	NickServ (service@rizon.net): Password accepted - you are now recognized.
+2016-02-12 19:13:14	 @	irc: connecting to server irc.rizon.net/6667...
+2016-02-12 19:13:14	 @	irc: connected to irc.rizon.net/6667 (54.238.49.245)
+2016-02-12 19:13:14	 @	* :Please wait while we process your connection.
+2016-02-12 19:13:14	 @	irc.losslessone.com: *** Looking up your hostname...
+2016-02-12 19:13:14	 @	irc.losslessone.com: *** Checking Ident
+2016-02-12 19:13:14	 @	irc.losslessone.com: *** Found your hostname
+2016-02-12 19:13:16	 @	irc.losslessone.com: *** No Ident response
+2016-02-12 19:13:16	 @	irc.losslessone.com: *** Your host is masked (Rizon-71E5EF26.ph.ph.cox.net)
+2016-02-12 19:13:16	 @	Welcome to the Rizon Internet Relay Chat Network michael
+2016-02-12 19:13:16	 @	Your host is irc.losslessone.com, running version hybrid-7.2.3+plexus-3.1.0(20151005_0-546)
+2016-02-12 19:13:16	 @	This server was created Oct 13 2015 at 12:04:49
+2016-02-12 19:13:16	 @	irc.losslessone.com hybrid-7.2.3+plexus-3.1.0(20151005_0-546) CDFGNRSUWXabcdfgijklnopqrsuwxyz BIMNORSabcehiklmnopqstvz Iabehkloqv
+2016-02-12 19:13:16	 @	CALLERID CASEMAPPING=rfc1459 DEAF=D KICKLEN=160 MODES=4 NICKLEN=30 TOPICLEN=390 PREFIX=(qaohv)~&@%+ STATUSMSG=~&@%+ NETWORK=Rizon MAXLIST=beI:250 TARGMAX=ACCEPT:,KICK:1,LIST:1,NAMES:1,NOTICE:4,PRIVMSG:4,WHOIS:1 CHANTYPES=# :are supported by this server
+2016-02-12 19:13:16	 @	CHANLIMIT=#:75 CHANNELLEN=50 CHANMODES=beI,k,l,BCMNORScimnpstz KNOCK AWAYLEN=160 ELIST=CMNTU SAFELIST FNC NAMESX UHNAMES EXCEPTS=e INVEX=I :are supported by this server
+2016-02-12 19:13:16	 @	32CAAKRZ4 :your unique ID
+2016-02-12 19:13:16	 @	There are 23 users and 22029 invisible on 13 servers
+2016-02-12 19:13:16	 @	59 :IRC Operators online
+2016-02-12 19:13:16	 @	8 :unknown connection(s)
+2016-02-12 19:13:16	 @	20591 :channels formed
+2016-02-12 19:13:16	 @	I have 22052 clients and 13 servers
+2016-02-12 19:13:16	 @	22052 25635 :Current local users 22052, max 25635
+2016-02-12 19:13:16	 @	22052 25635 :Current global users 22052, max 25635
+2016-02-12 19:13:16	 @	- irc.losslessone.com Message of the Day -
+2016-02-12 19:13:16	 @	-          oo                            
+2016-02-12 19:13:16	 @	-
+2016-02-12 19:13:16	 @	- 88d888b. dP d888888b .d8888b. 88d888b. 
+2016-02-12 19:13:16	 @	- 88'  `88 88    .d8P' 88'  `88 88'  `88 
+2016-02-12 19:13:16	 @	- 88       88  .Y8P    88.  .88 88    88 
+2016-02-12 19:13:16	 @	- dP       dP d888888P `88888P' dP    dP
+2016-02-12 19:13:16	 @	-
+2016-02-12 19:13:16	 @	- Rizon Chat Network -- http://rizon.net
+2016-02-12 19:13:16	 @	-
+2016-02-12 19:13:16	 @	- Listening on ports: 6660 - 6669, 7000. SSL: 6697, 9999
+2016-02-12 19:13:16	 @	-
+2016-02-12 19:13:16	 @	- Rules:
+2016-02-12 19:13:16	 @	- o No spamming or flooding
+2016-02-12 19:13:16	 @	- o No clones or malicious bots
+2016-02-12 19:13:16	 @	- o No takeovers
+2016-02-12 19:13:16	 @	- o No distribution of child pornography
+2016-02-12 19:13:16	 @	- o Clients must respond to VERSION requests
+2016-02-12 19:13:16	 @	- o Rizon staff may disconnect clients for any or no reason
+2016-02-12 19:13:16	 @	-
+2016-02-12 19:13:16	 @	- First steps:
+2016-02-12 19:13:16	 @	- o To register your nick: /msg NickServ HELP
+2016-02-12 19:13:16	 @	- o To register your channel: /msg ChanServ HELP
+2016-02-12 19:13:16	 @	- o To get a vHost: /msg HostServ HELP REQUEST
+2016-02-12 19:13:16	 @	- o For other help with Rizon: /join #help
+2016-02-12 19:13:16	 @	-
+2016-02-12 19:13:16	 @	- Usage of this network is a privilege, not a right. Rizon is a
+2016-02-12 19:13:16	 @	- transit provider, therefore no person or entity involved with
+2016-02-12 19:13:16	 @	- *.rizon.net or irc.losslessone.com takes any responsibility for
+2016-02-12 19:13:16	 @	- users' actions. Absolutely no warranty is expressed or implied.
+2016-02-12 19:13:16	 @	End of /MOTD command.
+2016-02-12 19:13:16	 @	User mode [+ix] by michael
+2016-02-12 19:13:16	 @	Global (service@rizon.net): [Logon News - May 21 2011] First time on Rizon? Be sure to read the FAQ! http://s.rizon.net/FAQ
+2016-02-12 19:13:16	 @	Global (service@rizon.net): [Logon News - Dec 16 2013] Own a large/active channel or plan to get one going? Please read http://s.rizon.net/authline
+2016-02-12 19:13:16	 @	Global (service@rizon.net): [Logon News - Dec 21 2015] Ready for a Rizon style Christmas decoration? Read http://s.rizon.net/xmas
+2016-02-12 19:13:16	 @	Global (service@rizon.net): [Random News - Mar 20 2009] Idle on Rizon a lot? Why not play our idlerpg game, you can check it out at #RizonIRPG for more information visit the website http://idlerpg.rizon.net -Rizon Staff
+2016-02-12 19:13:16	 @	NickServ (service@rizon.net): This nickname is registered and protected. If it is your
+2016-02-12 19:13:16	 @	NickServ (service@rizon.net): nick, type /msg NickServ IDENTIFY password. Otherwise,
+2016-02-12 19:13:16	 @	NickServ (service@rizon.net): please choose a different nick.
+2016-02-12 19:13:16	 @	NickServ (service@rizon.net): If you do not change within 20 seconds, I will change your nick.
+2016-02-12 19:13:16	 @	peer (service@rizon.net): For network safety, your client is being scanned for open proxies by scanner.rizon.net (80.65.51.219). This scan will not harm your computer.
+2016-02-12 19:13:16	 @	CTCP requested by py-ctcp: VERSION
+2016-02-12 19:13:16	 @	CTCP reply to py-ctcp: VERSION WeeChat 1.4 (Feb  2 2016)
+2016-02-12 19:13:37	 @	NickServ (service@rizon.net): Your nickname is now being changed to Guest1451
+2016-02-12 19:13:37	 @	You are now known as Guest1451
+2016-02-12 19:37:53	 @	irc: connecting to server irc.rizon.net/6667...
+2016-02-12 19:37:53	 @	irc: connected to irc.rizon.net/6667 (192.161.191.29)
+2016-02-12 19:37:53	 @	* :Please wait while we process your connection.
+2016-02-12 19:37:53	 @	irc.rizon.io: *** Looking up your hostname...
+2016-02-12 19:37:53	 @	irc.rizon.io: *** Checking Ident
+2016-02-12 19:37:53	 @	irc.rizon.io: *** Found your hostname
+2016-02-12 19:37:55	 @	irc.rizon.io: *** No Ident response
+2016-02-12 19:37:55	 @	irc.rizon.io: *** Your host is masked (Rizon-71E5EF26.ph.ph.cox.net)
+2016-02-12 19:37:55	 @	Welcome to the Rizon Internet Relay Chat Network michael
+2016-02-12 19:37:55	 @	Your host is irc.rizon.io, running version hybrid-7.2.3+plexus-3.1.0(20151005_0-546)
+2016-02-12 19:37:55	 @	This server was created Oct 23 2015 at 15:30:46
+2016-02-12 19:37:55	 @	irc.rizon.io hybrid-7.2.3+plexus-3.1.0(20151005_0-546) CDFGNRSUWXabcdfgijklnopqrsuwxyz BIMNORSabcehiklmnopqstvz Iabehkloqv
+2016-02-12 19:37:55	 @	CALLERID CASEMAPPING=rfc1459 DEAF=D KICKLEN=160 MODES=4 NICKLEN=30 TOPICLEN=390 PREFIX=(qaohv)~&@%+ STATUSMSG=~&@%+ NETWORK=Rizon MAXLIST=beI:250 TARGMAX=ACCEPT:,KICK:1,LIST:1,NAMES:1,NOTICE:4,PRIVMSG:4,WHOIS:1 CHANTYPES=# :are supported by this server
+2016-02-12 19:37:55	 @	CHANLIMIT=#:75 CHANNELLEN=50 CHANMODES=beI,k,l,BCMNORScimnpstz ELIST=CMNTU SAFELIST AWAYLEN=160 KNOCK FNC NAMESX UHNAMES EXCEPTS=e INVEX=I :are supported by this server
+2016-02-12 19:37:55	 @	89CAAOBD9 :your unique ID
+2016-02-12 19:37:55	 @	There are 23 users and 21991 invisible on 13 servers
+2016-02-12 19:37:55	 @	59 :IRC Operators online
+2016-02-12 19:37:55	 @	12 :unknown connection(s)
+2016-02-12 19:37:55	 @	20583 :channels formed
+2016-02-12 19:37:55	 @	I have 22014 clients and 13 servers
+2016-02-12 19:37:55	 @	22014 25636 :Current local users 22014, max 25636
+2016-02-12 19:37:55	 @	22014 25636 :Current global users 22014, max 25636
+2016-02-12 19:37:55	 @	- irc.rizon.io Message of the Day -
+2016-02-12 19:37:55	 @	-          oo                            
+2016-02-12 19:37:55	 @	-
+2016-02-12 19:37:55	 @	- 88d888b. dP d888888b .d8888b. 88d888b. 
+2016-02-12 19:37:55	 @	- 88'  `88 88    .d8P' 88'  `88 88'  `88 
+2016-02-12 19:37:55	 @	- 88       88  .Y8P    88.  .88 88    88 
+2016-02-12 19:37:55	 @	- dP       dP d888888P `88888P' dP    dP
+2016-02-12 19:37:55	 @	-
+2016-02-12 19:37:55	 @	- Rizon Chat Network -- http://rizon.net
+2016-02-12 19:37:55	 @	-
+2016-02-12 19:37:55	 @	- Listening on ports: 6660 - 6669, 7000. SSL: 6697, 9999
+2016-02-12 19:37:55	 @	-
+2016-02-12 19:37:55	 @	- Rules:
+2016-02-12 19:37:55	 @	- o No spamming or flooding
+2016-02-12 19:37:55	 @	- o No clones or malicious bots
+2016-02-12 19:37:55	 @	- o No takeovers
+2016-02-12 19:37:55	 @	- o No distribution of child pornography
+2016-02-12 19:37:55	 @	- o Clients must respond to VERSION requests
+2016-02-12 19:37:55	 @	- o Rizon staff may disconnect clients for any or no reason
+2016-02-12 19:37:55	 @	-
+2016-02-12 19:37:55	 @	- First steps:
+2016-02-12 19:37:55	 @	- o To register your nick: /msg NickServ HELP
+2016-02-12 19:37:55	 @	- o To register your channel: /msg ChanServ HELP
+2016-02-12 19:37:55	 @	- o To get a vHost: /msg HostServ HELP REQUEST
+2016-02-12 19:37:55	 @	- o For other help with Rizon: /join #help
+2016-02-12 19:37:55	 @	-
+2016-02-12 19:37:55	 @	- Usage of this network is a privilege, not a right. Rizon is a
+2016-02-12 19:37:55	 @	- transit provider, therefore no person or entity involved with
+2016-02-12 19:37:55	 @	- *.rizon.net or irc.rizon.io takes any responsibility for
+2016-02-12 19:37:55	 @	- users' actions. Absolutely no warranty is expressed or implied.
+2016-02-12 19:37:55	 @	End of /MOTD command.
+2016-02-12 19:37:55	 @	User mode [+ix] by michael
+2016-02-12 19:37:55	 @	CTCP requested by py-ctcp: VERSION
+2016-02-12 19:37:55	 @	CTCP reply to py-ctcp: VERSION WeeChat 1.4 (Feb  2 2016)
+2016-02-12 19:37:55	 @	Global (service@rizon.net): [Logon News - May 21 2011] First time on Rizon? Be sure to read the FAQ! http://s.rizon.net/FAQ
+2016-02-12 19:37:55	 @	Global (service@rizon.net): [Logon News - Dec 16 2013] Own a large/active channel or plan to get one going? Please read http://s.rizon.net/authline
+2016-02-12 19:37:55	 @	Global (service@rizon.net): [Logon News - Dec 21 2015] Ready for a Rizon style Christmas decoration? Read http://s.rizon.net/xmas
+2016-02-12 19:37:55	 @	Global (service@rizon.net): [Random News - May 07 2013] Looking for a quotes, trivia, or other extra bots? /msg funserv help
+2016-02-12 19:37:55	 @	NickServ (service@rizon.net): This nickname is registered and protected. If it is your
+2016-02-12 19:37:55	 @	NickServ (service@rizon.net): nick, type /msg NickServ IDENTIFY password. Otherwise,
+2016-02-12 19:37:55	 @	NickServ (service@rizon.net): please choose a different nick.
+2016-02-12 19:37:55	 @	NickServ (service@rizon.net): If you do not change within 20 seconds, I will change your nick.
+2016-02-12 19:37:55	 @	peer (service@rizon.net): For network safety, your client is being scanned for open proxies by scanner.rizon.net (80.65.51.221). This scan will not harm your computer.
+2016-02-12 19:37:58	 @	You are now known as trumptster
+2016-02-12 19:38:10	 @	MSG(NickServ): IDENTIFY ********
+2016-02-12 19:38:10	 @	NickServ (service@rizon.net): Your nick isn't registered.
+2016-02-12 19:38:13	 @	MSG(NickServ): IDENTIFY ********
+2016-02-12 19:38:13	 @	NickServ (service@rizon.net): Your nick isn't registered.
+2016-02-12 19:38:18	 @	You are now known as trumpster
+2016-02-12 19:38:18	 @	NickServ (service@rizon.net): This nickname is registered and protected. If it is your
+2016-02-12 19:38:18	 @	NickServ (service@rizon.net): nick, type /msg NickServ IDENTIFY password. Otherwise,
+2016-02-12 19:38:18	 @	NickServ (service@rizon.net): please choose a different nick.
+2016-02-12 19:38:20	 @	MSG(NickServ): IDENTIFY ********
+2016-02-12 19:38:20	 @	NickServ (service@rizon.net): Password incorrect.
+2016-02-12 19:38:30	 @	MSG(NickServ): IDENTIFY ********
+2016-02-12 19:38:30	 @	User mode [+r] by trumpster
+2016-02-12 19:38:30	 @	NickServ (service@rizon.net): Password accepted - you are now recognized.
+2016-02-13 15:13:30	 @	irc: connecting to server irc.rizon.net/6667...
+2016-02-13 15:13:31	 @	irc: connected to irc.rizon.net/6667 (192.161.191.29)
+2016-02-13 15:13:31	 @	* :Please wait while we process your connection.
+2016-02-13 15:13:31	 @	irc.rizon.io: *** Looking up your hostname...
+2016-02-13 15:13:31	 @	irc.rizon.io: *** Checking Ident
+2016-02-13 15:13:31	 @	irc.rizon.io: *** Found your hostname
+2016-02-13 15:13:32	 @	irc.rizon.io: *** No Ident response
+2016-02-13 15:13:32	 @	irc.rizon.io: *** Your host is masked (Rizon-71E5EF26.ph.ph.cox.net)
+2016-02-13 15:13:32	 @	Welcome to the Rizon Internet Relay Chat Network michael
+2016-02-13 15:13:32	 @	Your host is irc.rizon.io, running version hybrid-7.2.3+plexus-3.1.0(20151005_0-546)
+2016-02-13 15:13:32	 @	This server was created Oct 23 2015 at 15:30:46
+2016-02-13 15:13:32	 @	irc.rizon.io hybrid-7.2.3+plexus-3.1.0(20151005_0-546) CDFGNRSUWXabcdfgijklnopqrsuwxyz BIMNORSabcehiklmnopqstvz Iabehkloqv
+2016-02-13 15:13:32	 @	CALLERID CASEMAPPING=rfc1459 DEAF=D KICKLEN=160 MODES=4 NICKLEN=30 TOPICLEN=390 PREFIX=(qaohv)~&@%+ STATUSMSG=~&@%+ NETWORK=Rizon MAXLIST=beI:250 TARGMAX=ACCEPT:,KICK:1,LIST:1,NAMES:1,NOTICE:4,PRIVMSG:4,WHOIS:1 CHANTYPES=# :are supported by this server
+2016-02-13 15:13:32	 @	CHANLIMIT=#:75 CHANNELLEN=50 CHANMODES=beI,k,l,BCMNORScimnpstz ELIST=CMNTU SAFELIST AWAYLEN=160 KNOCK FNC NAMESX UHNAMES EXCEPTS=e INVEX=I :are supported by this server
+2016-02-13 15:13:32	 @	89CAAOG5D :your unique ID
+2016-02-13 15:13:32	 @	There are 25 users and 23537 invisible on 13 servers
+2016-02-13 15:13:32	 @	58 :IRC Operators online
+2016-02-13 15:13:32	 @	2 :unknown connection(s)
+2016-02-13 15:13:32	 @	20739 :channels formed
+2016-02-13 15:13:32	 @	I have 23562 clients and 13 servers
+2016-02-13 15:13:32	 @	23562 25636 :Current local users 23562, max 25636
+2016-02-13 15:13:32	 @	23562 25636 :Current global users 23562, max 25636
+2016-02-13 15:13:32	 @	- irc.rizon.io Message of the Day -
+2016-02-13 15:13:32	 @	-          oo                            
+2016-02-13 15:13:32	 @	-
+2016-02-13 15:13:32	 @	- 88d888b. dP d888888b .d8888b. 88d888b. 
+2016-02-13 15:13:32	 @	- 88'  `88 88    .d8P' 88'  `88 88'  `88 
+2016-02-13 15:13:32	 @	- 88       88  .Y8P    88.  .88 88    88 
+2016-02-13 15:13:32	 @	- dP       dP d888888P `88888P' dP    dP
+2016-02-13 15:13:32	 @	-
+2016-02-13 15:13:32	 @	- Rizon Chat Network -- http://rizon.net
+2016-02-13 15:13:32	 @	-
+2016-02-13 15:13:32	 @	- Listening on ports: 6660 - 6669, 7000. SSL: 6697, 9999
+2016-02-13 15:13:32	 @	-
+2016-02-13 15:13:32	 @	- Rules:
+2016-02-13 15:13:32	 @	- o No spamming or flooding
+2016-02-13 15:13:32	 @	- o No clones or malicious bots
+2016-02-13 15:13:32	 @	- o No takeovers
+2016-02-13 15:13:32	 @	- o No distribution of child pornography
+2016-02-13 15:13:32	 @	- o Clients must respond to VERSION requests
+2016-02-13 15:13:32	 @	- o Rizon staff may disconnect clients for any or no reason
+2016-02-13 15:13:32	 @	-
+2016-02-13 15:13:32	 @	- First steps:
+2016-02-13 15:13:32	 @	- o To register your nick: /msg NickServ HELP
+2016-02-13 15:13:32	 @	- o To register your channel: /msg ChanServ HELP
+2016-02-13 15:13:32	 @	- o To get a vHost: /msg HostServ HELP REQUEST
+2016-02-13 15:13:32	 @	- o For other help with Rizon: /join #help
+2016-02-13 15:13:32	 @	-
+2016-02-13 15:13:32	 @	- Usage of this network is a privilege, not a right. Rizon is a
+2016-02-13 15:13:32	 @	- transit provider, therefore no person or entity involved with
+2016-02-13 15:13:32	 @	- *.rizon.net or irc.rizon.io takes any responsibility for
+2016-02-13 15:13:32	 @	- users' actions. Absolutely no warranty is expressed or implied.
+2016-02-13 15:13:32	 @	End of /MOTD command.
+2016-02-13 15:13:32	 @	User mode [+ix] by michael
+2016-02-13 15:13:32	 @	CTCP requested by py-ctcp: VERSION
+2016-02-13 15:13:32	 @	CTCP reply to py-ctcp: VERSION WeeChat 1.4 (Feb  2 2016)
+2016-02-13 15:13:32	 @	Global (service@rizon.net): [Logon News - May 21 2011] First time on Rizon? Be sure to read the FAQ! http://s.rizon.net/FAQ
+2016-02-13 15:13:32	 @	Global (service@rizon.net): [Logon News - Dec 16 2013] Own a large/active channel or plan to get one going? Please read http://s.rizon.net/authline
+2016-02-13 15:13:32	 @	Global (service@rizon.net): [Logon News - Dec 21 2015] Ready for a Rizon style Christmas decoration? Read http://s.rizon.net/xmas
+2016-02-13 15:13:32	 @	Global (service@rizon.net): [Random News - Nov 29 2013] Want to make your vhost shiny by adding colors to it? Try your luck in #VIzon
+2016-02-13 15:13:32	 @	NickServ (service@rizon.net): This nickname is registered and protected. If it is your
+2016-02-13 15:13:32	 @	NickServ (service@rizon.net): nick, type /msg NickServ IDENTIFY password. Otherwise,
+2016-02-13 15:13:32	 @	NickServ (service@rizon.net): please choose a different nick.
+2016-02-13 15:13:32	 @	NickServ (service@rizon.net): If you do not change within 20 seconds, I will change your nick.
+2016-02-13 15:13:32	 @	peer (service@rizon.net): For network safety, your client is being scanned for open proxies by scanner.rizon.net (80.65.51.220). This scan will not harm your computer.
+2016-02-13 15:13:52	 @	NickServ (service@rizon.net): Your nickname is now being changed to Guest23814
+2016-02-13 15:13:52	 @	You are now known as Guest23814
+2016-02-13 15:47:41	 @	irc: connecting to server irc.rizon.net/6667...
+2016-02-13 15:47:41	 @	irc: connected to irc.rizon.net/6667 (76.72.161.18)
+2016-02-13 15:47:41	 @	* :Please wait while we process your connection.
+2016-02-13 15:47:41	 @	irc.broke-it.com: *** Looking up your hostname...
+2016-02-13 15:47:41	 @	irc.broke-it.com: *** Checking Ident
+2016-02-13 15:47:41	 @	irc.broke-it.com: *** Found your hostname
+2016-02-13 15:47:43	 @	irc.broke-it.com: *** No Ident response
+2016-02-13 15:47:43	 @	irc.broke-it.com: *** Your host is masked (Rizon-71E5EF26.ph.ph.cox.net)
+2016-02-13 15:47:43	 @	Welcome to the Rizon Internet Relay Chat Network michael
+2016-02-13 15:47:43	 @	Your host is irc.broke-it.com, running version hybrid-7.2.3+plexus-3.1.0(20151028_0-547)
+2016-02-13 15:47:43	 @	This server was created Dec 12 2015 at 20:07:55
+2016-02-13 15:47:43	 @	irc.broke-it.com hybrid-7.2.3+plexus-3.1.0(20151028_0-547) CDFGNRSUWXabcdfgijklnopqrsuwxyz BIMNORSabcehiklmnopqstvz Iabehkloqv
+2016-02-13 15:47:43	 @	CALLERID CASEMAPPING=rfc1459 DEAF=D KICKLEN=160 MODES=4 NICKLEN=30 TOPICLEN=390 PREFIX=(qaohv)~&@%+ STATUSMSG=~&@%+ NETWORK=Rizon MAXLIST=beI:250 TARGMAX=ACCEPT:,KICK:1,LIST:1,NAMES:1,NOTICE:4,PRIVMSG:4,WHOIS:1 CHANTYPES=# :are supported by this server
+2016-02-13 15:47:43	 @	CHANLIMIT=#:75 CHANNELLEN=50 CHANMODES=beI,k,l,BCMNORScimnpstz AWAYLEN=160 KNOCK NAMESX UHNAMES ELIST=CMNTU SAFELIST FNC EXCEPTS=e INVEX=I :are supported by this server
+2016-02-13 15:47:43	 @	90CAAHN7S :your unique ID
+2016-02-13 15:47:43	 @	There are 25 users and 23469 invisible on 13 servers
+2016-02-13 15:47:43	 @	58 :IRC Operators online
+2016-02-13 15:47:43	 @	20696 :channels formed
+2016-02-13 15:47:43	 @	I have 23494 clients and 13 servers
+2016-02-13 15:47:43	 @	23494 25636 :Current local users 23494, max 25636
+2016-02-13 15:47:43	 @	23494 25636 :Current global users 23494, max 25636
+2016-02-13 15:47:43	 @	- irc.broke-it.com Message of the Day -
+2016-02-13 15:47:43	 @	-    Welcome to irc.broke-it.com
+2016-02-13 15:47:43	 @	-
+2016-02-13 15:47:43	 @	-         Now its time for **UPDATED** conversational spanish with grimlock
+2016-02-13 15:47:43	 @	-
+2016-02-13 15:47:43	 @	-    Las ardillas. Me persiguen. Quieren mis tuercas pero no pueden tenerlas.
+2016-02-13 15:47:43	 @	-
+2016-02-13 15:47:43	 @	-    no habla? the squirrels. they chase me. they want my nuts but they
+2016-02-13 15:47:43	 @	-    can not have them.
+2016-02-13 15:47:43	 @	-
+2016-02-13 15:47:43	 @	-    El gato en mi pantalones, quiere mi burrito. Pero el no puede
+2016-02-13 15:47:43	 @	-    tenerlo. No compartire con el.
+2016-02-13 15:47:43	 @	-
+2016-02-13 15:47:43	 @	-    Still no habla? the cat in my pants, he wants my burrito. But he can
+2016-02-13 15:47:43	 @	-    not have it. I will not share with him.
+2016-02-13 15:47:43	 @	-
+2016-02-13 15:47:43	 @	-    Por que el perro que lame mis bolas? Debo de haber banado en mantequilla
+2016-02-13 15:47:43	 @	-    de mani de nuevo ...
+2016-02-13 15:47:43	 @	-
+2016-02-13 15:47:43	 @	-    Really!?!? No habla?! You really need to work on your spanglish skills..
+2016-02-13 15:47:43	 @	-    Why is the dog licking my balls? I must have bathed in peanut butter
+2016-02-13 15:47:43	 @	-    again...
+2016-02-13 15:47:43	 @	-
+2016-02-13 15:47:43	 @	-    Cuando salgo de la peluqueria despues de tener mi espalda afeitado, me
+2016-02-13 15:47:43	 @	-    doy cuenta de que seria mucho mas barato tener un rebano de cabras.
+2016-02-13 15:47:43	 @	-
+2016-02-13 15:47:43	 @	-    You really need to sign up for my formal spanish lessons.  I can teach
+2016-02-13 15:47:43	 @	-    many more useful phrases phrases!  When I leave the barber after having
+2016-02-13 15:47:43	 @	-    my back shaved, I realize it would be much cheaper to own a herd of goats.
+2016-02-13 15:47:43	 @	-
+2016-02-13 15:47:43	 @	-    Usted dice que el tomate, digo que me gusta la leche con chocolate y
+2016-02-13 15:47:43	 @	-    panecillos. Has visto a mi cepillo de dientes?
+2016-02-13 15:47:43	 @	-
+2016-02-13 15:47:43	 @	-    My lesson rates are very reasonable!  I can teach you to splanglish like
+2016-02-13 15:47:43	 @	-    I do!  You say tomato, I say I like chocolate milk and bagels.  Have you
+2016-02-13 15:47:43	 @	-    seen my toothbrush?
+2016-02-13 15:47:43	 @	-
+2016-02-13 15:47:43	 @	-    mi escroto es como un helicóptero de dolor. no recibir un golpe en el oj
+2016-02-13 15:47:43	 @	-    o con esa mierda.
+2016-02-13 15:47:43	 @	-
+2016-02-13 15:47:43	 @	-    I am considering expanding my lessons to french.  Did you know I spoke
+2016-02-13 15:47:43	 @	-    french?  I speak it quite well.  My ball sack is like a helicopter of pain.
+2016-02-13 15:47:43	 @	-    Do not get hit in the eye with that shit.
+2016-02-13 15:47:43	 @	-
+2016-02-13 15:47:43	 @	-         This has been conversational spanish with grimlock, time for
+2016-02-13 15:47:43	 @	-         something more serious.
+2016-02-13 15:47:43	 @	-
+2016-02-13 15:47:43	 @	-          oo                            
+2016-02-13 15:47:43	 @	-
+2016-02-13 15:47:43	 @	- 88d888b. dP d888888b .d8888b. 88d888b. 
+2016-02-13 15:47:43	 @	- 88'  `88 88    .d8P' 88'  `88 88'  `88 
+2016-02-13 15:47:43	 @	- 88       88  .Y8P    88.  .88 88    88 
+2016-02-13 15:47:43	 @	- dP       dP d888888P `88888P' dP    dP
+2016-02-13 15:47:43	 @	-
+2016-02-13 15:47:43	 @	- Rizon Chat Network -- http://rizon.net
+2016-02-13 15:47:43	 @	-
+2016-02-13 15:47:43	 @	- Listening on ports: 6660 - 6669, 7000. SSL: 6697, 9999
+2016-02-13 15:47:43	 @	-
+2016-02-13 15:47:43	 @	- Rules:
+2016-02-13 15:47:43	 @	- o No spamming or flooding
+2016-02-13 15:47:43	 @	- o No clones or malicious bots
+2016-02-13 15:47:43	 @	- o No takeovers
+2016-02-13 15:47:43	 @	- o No distribution of child pornography
+2016-02-13 15:47:43	 @	- o Clients must respond to VERSION requests
+2016-02-13 15:47:43	 @	- o Rizon staff may disconnect clients for any or no reason
+2016-02-13 15:47:43	 @	-
+2016-02-13 15:47:43	 @	- First steps:
+2016-02-13 15:47:43	 @	- o To register your nick: /msg NickServ HELP
+2016-02-13 15:47:43	 @	- o To register your channel: /msg ChanServ HELP
+2016-02-13 15:47:43	 @	- o To get a vHost: /msg HostServ HELP REQUEST
+2016-02-13 15:47:43	 @	- o For other help with Rizon: /join #help
+2016-02-13 15:47:43	 @	-
+2016-02-13 15:47:43	 @	- Usage of this network is a privilege, not a right. Rizon is a
+2016-02-13 15:47:43	 @	- transit provider, therefore no person or entity involved with
+2016-02-13 15:47:43	 @	- *.rizon.net or irc.broke-it.com takes any responsibility for
+2016-02-13 15:47:43	 @	- users' actions. Absolutely no warranty is expressed or implied.
+2016-02-13 15:47:43	 @	End of /MOTD command.
+2016-02-13 15:47:43	 @	User mode [+ix] by michael
+2016-02-13 15:47:43	 @	CTCP requested by py-ctcp: VERSION
+2016-02-13 15:47:43	 @	CTCP reply to py-ctcp: VERSION WeeChat 1.4 (Feb  2 2016)
+2016-02-13 15:47:43	 @	Global (service@rizon.net): [Logon News - May 21 2011] First time on Rizon? Be sure to read the FAQ! http://s.rizon.net/FAQ
+2016-02-13 15:47:43	 @	Global (service@rizon.net): [Logon News - Dec 16 2013] Own a large/active channel or plan to get one going? Please read http://s.rizon.net/authline
+2016-02-13 15:47:43	 @	Global (service@rizon.net): [Logon News - Dec 21 2015] Ready for a Rizon style Christmas decoration? Read http://s.rizon.net/xmas
+2016-02-13 15:47:43	 @	Global (service@rizon.net): [Random News - Nov 29 2013] Want to make your vhost shiny by adding colors to it? Try your luck in #VIzon
+2016-02-13 15:47:43	 @	NickServ (service@rizon.net): This nickname is registered and protected. If it is your
+2016-02-13 15:47:43	 @	NickServ (service@rizon.net): nick, type /msg NickServ IDENTIFY password. Otherwise,
+2016-02-13 15:47:43	 @	NickServ (service@rizon.net): please choose a different nick.
+2016-02-13 15:47:43	 @	NickServ (service@rizon.net): If you do not change within 20 seconds, I will change your nick.
+2016-02-13 15:47:43	 @	peer (service@rizon.net): For network safety, your client is being scanned for open proxies by scanner.rizon.net (80.65.51.221). This scan will not harm your computer.
+2016-02-13 15:47:54	 @	You are now known as trumpster
+2016-02-13 15:47:54	 @	NickServ (service@rizon.net): This nickname is registered and protected. If it is your
+2016-02-13 15:47:54	 @	NickServ (service@rizon.net): nick, type /msg NickServ IDENTIFY password. Otherwise,
+2016-02-13 15:47:54	 @	NickServ (service@rizon.net): please choose a different nick.
+2016-02-13 15:47:59	 @	MSG(NickServ): IDENTIFY
+2016-02-13 15:47:59	 @	NickServ (service@rizon.net): Syntax: IDENTIFY password
+2016-02-13 15:47:59	 @	NickServ (service@rizon.net): /msg NickServ HELP IDENTIFY for more information.
+2016-02-13 15:48:22	 @	MSG(nickserv): IDENTIFY ********
+2016-02-13 15:48:22	 @	User mode [+r] by trumpster
+2016-02-13 15:48:22	 @	NickServ (service@rizon.net): Password accepted - you are now recognized.
+2016-02-13 15:49:02	 @	irc: connecting to server irc.rizon.net/6667...
+2016-02-13 15:49:02	 @	irc: connected to irc.rizon.net/6667 (76.72.161.18)
+2016-02-13 15:49:02	 @	* :Please wait while we process your connection.
+2016-02-13 15:49:02	 @	irc.broke-it.com: *** Found your hostname (cached)
+2016-02-13 15:49:02	 @	irc.broke-it.com: *** Checking Ident
+2016-02-13 15:49:04	 @	irc.broke-it.com: *** No Ident response
+2016-02-13 15:49:04	 @	irc.broke-it.com: *** Your host is masked (Rizon-71E5EF26.ph.ph.cox.net)
+2016-02-13 15:49:04	 @	Welcome to the Rizon Internet Relay Chat Network michael
+2016-02-13 15:49:04	 @	Your host is irc.broke-it.com, running version hybrid-7.2.3+plexus-3.1.0(20151028_0-547)
+2016-02-13 15:49:04	 @	This server was created Dec 12 2015 at 20:07:55
+2016-02-13 15:49:04	 @	irc.broke-it.com hybrid-7.2.3+plexus-3.1.0(20151028_0-547) CDFGNRSUWXabcdfgijklnopqrsuwxyz BIMNORSabcehiklmnopqstvz Iabehkloqv
+2016-02-13 15:49:04	 @	CALLERID CASEMAPPING=rfc1459 DEAF=D KICKLEN=160 MODES=4 NICKLEN=30 TOPICLEN=390 PREFIX=(qaohv)~&@%+ STATUSMSG=~&@%+ NETWORK=Rizon MAXLIST=beI:250 TARGMAX=ACCEPT:,KICK:1,LIST:1,NAMES:1,NOTICE:4,PRIVMSG:4,WHOIS:1 CHANTYPES=# :are supported by this server
+2016-02-13 15:49:04	 @	CHANLIMIT=#:75 CHANNELLEN=50 CHANMODES=beI,k,l,BCMNORScimnpstz AWAYLEN=160 KNOCK NAMESX UHNAMES ELIST=CMNTU SAFELIST FNC EXCEPTS=e INVEX=I :are supported by this server
+2016-02-13 15:49:04	 @	90CAAHN7Y :your unique ID
+2016-02-13 15:49:04	 @	There are 25 users and 23477 invisible on 13 servers
+2016-02-13 15:49:04	 @	58 :IRC Operators online
+2016-02-13 15:49:04	 @	20698 :channels formed
+2016-02-13 15:49:04	 @	I have 23502 clients and 13 servers
+2016-02-13 15:49:04	 @	23502 25636 :Current local users 23502, max 25636
+2016-02-13 15:49:04	 @	23502 25636 :Current global users 23502, max 25636
+2016-02-13 15:49:04	 @	- irc.broke-it.com Message of the Day -
+2016-02-13 15:49:04	 @	-    Welcome to irc.broke-it.com
+2016-02-13 15:49:04	 @	-
+2016-02-13 15:49:04	 @	-         Now its time for **UPDATED** conversational spanish with grimlock
+2016-02-13 15:49:04	 @	-
+2016-02-13 15:49:04	 @	-    Las ardillas. Me persiguen. Quieren mis tuercas pero no pueden tenerlas.
+2016-02-13 15:49:04	 @	-
+2016-02-13 15:49:04	 @	-    no habla? the squirrels. they chase me. they want my nuts but they
+2016-02-13 15:49:04	 @	-    can not have them.
+2016-02-13 15:49:04	 @	-
+2016-02-13 15:49:04	 @	-    El gato en mi pantalones, quiere mi burrito. Pero el no puede
+2016-02-13 15:49:04	 @	-    tenerlo. No compartire con el.
+2016-02-13 15:49:04	 @	-
+2016-02-13 15:49:04	 @	-    Still no habla? the cat in my pants, he wants my burrito. But he can
+2016-02-13 15:49:04	 @	-    not have it. I will not share with him.
+2016-02-13 15:49:04	 @	-
+2016-02-13 15:49:04	 @	-    Por que el perro que lame mis bolas? Debo de haber banado en mantequilla
+2016-02-13 15:49:04	 @	-    de mani de nuevo ...
+2016-02-13 15:49:04	 @	-
+2016-02-13 15:49:04	 @	-    Really!?!? No habla?! You really need to work on your spanglish skills..
+2016-02-13 15:49:04	 @	-    Why is the dog licking my balls? I must have bathed in peanut butter
+2016-02-13 15:49:04	 @	-    again...
+2016-02-13 15:49:04	 @	-
+2016-02-13 15:49:04	 @	-    Cuando salgo de la peluqueria despues de tener mi espalda afeitado, me
+2016-02-13 15:49:04	 @	-    doy cuenta de que seria mucho mas barato tener un rebano de cabras.
+2016-02-13 15:49:04	 @	-
+2016-02-13 15:49:04	 @	-    You really need to sign up for my formal spanish lessons.  I can teach
+2016-02-13 15:49:04	 @	-    many more useful phrases phrases!  When I leave the barber after having
+2016-02-13 15:49:04	 @	-    my back shaved, I realize it would be much cheaper to own a herd of goats.
+2016-02-13 15:49:04	 @	-
+2016-02-13 15:49:04	 @	-    Usted dice que el tomate, digo que me gusta la leche con chocolate y
+2016-02-13 15:49:04	 @	-    panecillos. Has visto a mi cepillo de dientes?
+2016-02-13 15:49:04	 @	-
+2016-02-13 15:49:04	 @	-    My lesson rates are very reasonable!  I can teach you to splanglish like
+2016-02-13 15:49:04	 @	-    I do!  You say tomato, I say I like chocolate milk and bagels.  Have you
+2016-02-13 15:49:04	 @	-    seen my toothbrush?
+2016-02-13 15:49:04	 @	-
+2016-02-13 15:49:04	 @	-    mi escroto es como un helicóptero de dolor. no recibir un golpe en el oj
+2016-02-13 15:49:04	 @	-    o con esa mierda.
+2016-02-13 15:49:04	 @	-
+2016-02-13 15:49:04	 @	-    I am considering expanding my lessons to french.  Did you know I spoke
+2016-02-13 15:49:04	 @	-    french?  I speak it quite well.  My ball sack is like a helicopter of pain.
+2016-02-13 15:49:04	 @	-    Do not get hit in the eye with that shit.
+2016-02-13 15:49:04	 @	-
+2016-02-13 15:49:04	 @	-         This has been conversational spanish with grimlock, time for
+2016-02-13 15:49:04	 @	-         something more serious.
+2016-02-13 15:49:04	 @	-
+2016-02-13 15:49:04	 @	-          oo                            
+2016-02-13 15:49:04	 @	-
+2016-02-13 15:49:04	 @	- 88d888b. dP d888888b .d8888b. 88d888b. 
+2016-02-13 15:49:04	 @	- 88'  `88 88    .d8P' 88'  `88 88'  `88 
+2016-02-13 15:49:04	 @	- 88       88  .Y8P    88.  .88 88    88 
+2016-02-13 15:49:04	 @	- dP       dP d888888P `88888P' dP    dP
+2016-02-13 15:49:04	 @	-
+2016-02-13 15:49:04	 @	- Rizon Chat Network -- http://rizon.net
+2016-02-13 15:49:04	 @	-
+2016-02-13 15:49:04	 @	- Listening on ports: 6660 - 6669, 7000. SSL: 6697, 9999
+2016-02-13 15:49:04	 @	-
+2016-02-13 15:49:04	 @	- Rules:
+2016-02-13 15:49:04	 @	- o No spamming or flooding
+2016-02-13 15:49:04	 @	- o No clones or malicious bots
+2016-02-13 15:49:04	 @	- o No takeovers
+2016-02-13 15:49:04	 @	- o No distribution of child pornography
+2016-02-13 15:49:04	 @	- o Clients must respond to VERSION requests
+2016-02-13 15:49:04	 @	- o Rizon staff may disconnect clients for any or no reason
+2016-02-13 15:49:04	 @	-
+2016-02-13 15:49:04	 @	- First steps:
+2016-02-13 15:49:04	 @	- o To register your nick: /msg NickServ HELP
+2016-02-13 15:49:04	 @	- o To register your channel: /msg ChanServ HELP
+2016-02-13 15:49:04	 @	- o To get a vHost: /msg HostServ HELP REQUEST
+2016-02-13 15:49:04	 @	- o For other help with Rizon: /join #help
+2016-02-13 15:49:04	 @	-
+2016-02-13 15:49:04	 @	- Usage of this network is a privilege, not a right. Rizon is a
+2016-02-13 15:49:04	 @	- transit provider, therefore no person or entity involved with
+2016-02-13 15:49:04	 @	- *.rizon.net or irc.broke-it.com takes any responsibility for
+2016-02-13 15:49:04	 @	- users' actions. Absolutely no warranty is expressed or implied.
+2016-02-13 15:49:04	 @	End of /MOTD command.
+2016-02-13 15:49:04	 @	User mode [+ix] by michael
+2016-02-13 15:49:04	 @	CTCP requested by py-ctcp: VERSION
+2016-02-13 15:49:04	 @	CTCP reply to py-ctcp: VERSION WeeChat 1.4 (Feb  2 2016)
+2016-02-13 15:49:04	 @	Global (service@rizon.net): [Logon News - May 21 2011] First time on Rizon? Be sure to read the FAQ! http://s.rizon.net/FAQ
+2016-02-13 15:49:04	 @	Global (service@rizon.net): [Logon News - Dec 16 2013] Own a large/active channel or plan to get one going? Please read http://s.rizon.net/authline
+2016-02-13 15:49:04	 @	Global (service@rizon.net): [Logon News - Dec 21 2015] Ready for a Rizon style Christmas decoration? Read http://s.rizon.net/xmas
+2016-02-13 15:49:04	 @	Global (service@rizon.net): [Random News - Nov 29 2013] Want to make your vhost shiny by adding colors to it? Try your luck in #VIzon
+2016-02-13 15:49:04	 @	NickServ (service@rizon.net): This nickname is registered and protected. If it is your
+2016-02-13 15:49:04	 @	NickServ (service@rizon.net): nick, type /msg NickServ IDENTIFY password. Otherwise,
+2016-02-13 15:49:04	 @	NickServ (service@rizon.net): please choose a different nick.
+2016-02-13 15:49:04	 @	NickServ (service@rizon.net): If you do not change within 20 seconds, I will change your nick.
+2016-02-13 15:49:04	 @	peer (service@rizon.net): For network safety, your client is being scanned for open proxies by scanner.rizon.net (80.65.51.219). This scan will not harm your computer.
+2016-02-13 15:49:24	 @	NickServ (service@rizon.net): Your nickname is now being changed to Guest12709
+2016-02-13 15:49:24	 @	You are now known as Guest12709
+2016-02-13 15:49:35	 @	You are now known as trumpster
+2016-02-13 15:49:36	 @	NickServ (service@rizon.net): This nickname is registered and protected. If it is your
+2016-02-13 15:49:36	 @	NickServ (service@rizon.net): nick, type /msg NickServ IDENTIFY password. Otherwise,
+2016-02-13 15:49:36	 @	NickServ (service@rizon.net): please choose a different nick.
+2016-02-13 15:49:43	 @	MSG(NickServ): IDENTIFY ********
+2016-02-13 15:49:43	 @	User mode [+r] by trumpster
+2016-02-13 15:49:43	 @	NickServ (service@rizon.net): Password accepted - you are now recognized.
+2016-02-13 18:24:41	 @	irc: connecting to server irc.rizon.net/6667...
+2016-02-13 18:24:41	 !	irc: address "irc.rizon.net" not found
+2016-02-13 18:24:41	 !	irc: error: Name or service not known
+2016-02-13 18:24:41	 @	irc: reconnecting to server in 10 seconds
+2016-02-13 18:24:51	 @	irc: reconnecting to server...
+2016-02-13 18:24:51	 @	irc: connecting to server irc.rizon.net/6667...
+2016-02-13 18:24:51	 !	irc: address "irc.rizon.net" not found
+2016-02-13 18:24:51	 !	irc: error: Name or service not known
+2016-02-13 18:24:51	 @	irc: reconnecting to server in 20 seconds
+2016-02-13 18:25:11	 @	irc: reconnecting to server...
+2016-02-13 18:25:11	 @	irc: connecting to server irc.rizon.net/6667...
+2016-02-13 18:25:11	 !	irc: address "irc.rizon.net" not found
+2016-02-13 18:25:11	 !	irc: error: Name or service not known
+2016-02-13 18:25:11	 @	irc: reconnecting to server in 40 seconds
+2016-02-13 18:25:51	 @	irc: reconnecting to server...
+2016-02-13 18:25:51	 @	irc: connecting to server irc.rizon.net/6667...
+2016-02-13 18:25:51	 @	irc: connected to irc.rizon.net/6667 (23.251.154.162)
+2016-02-13 18:25:51	 @	irc.rizon.sexy: *** Looking up your hostname...
+2016-02-13 18:25:51	 @	irc.rizon.sexy: *** Checking Ident
+2016-02-13 18:25:51	 @	irc.rizon.sexy: *** Found your hostname
+2016-02-13 18:25:53	 @	irc.rizon.sexy: *** No Ident response
+2016-02-13 18:25:53	 @	irc.rizon.sexy: *** Your host is masked (Rizon-71E5EF26.ph.ph.cox.net)
+2016-02-13 18:25:53	 @	Welcome to the Rizon Internet Relay Chat Network michael
+2016-02-13 18:25:53	 @	Your host is irc.rizon.sexy, running version plexus-4(hybrid-8.1.20)
+2016-02-13 18:25:53	 @	This server was created Feb  9 2016 at 01:06:06
+2016-02-13 18:25:53	 @	irc.rizon.sexy plexus-4(hybrid-8.1.20) CDGNRSUWagilopqrswxyz BCIMNORSabcehiklmnopqstvz Iabehkloqv
+2016-02-13 18:25:53	 @	CALLERID CASEMAPPING=rfc1459 DEAF=D KICKLEN=180 MODES=4 PREFIX=(qaohv)~&@%+ STATUSMSG=~&@%+ EXCEPTS=e INVEX=I NICKLEN=30 NETWORK=Rizon MAXLIST=beI:250 MAXTARGETS=4 :are supported by this server
+2016-02-13 18:25:53	 @	CHANTYPES=# CHANLIMIT=#:500 CHANNELLEN=50 TOPICLEN=390 CHANMODES=beI,k,l,BCMNORScimnpstz AWAYLEN=180 WATCH=60 NAMESX UHNAMES KNOCK ELIST=CMNTU SAFELIST :are supported by this server
+2016-02-13 18:25:53	 @	There are 23 users and 22543 invisible on 13 servers
+2016-02-13 18:25:53	 @	58 :IRC Operators online
+2016-02-13 18:25:53	 @	1 :unknown connection(s)
+2016-02-13 18:25:53	 @	20593 :channels formed
+2016-02-13 18:25:53	 @	I have 22566 clients and 13 servers
+2016-02-13 18:25:53	 @	Current local users: 22566  Max: 23778
+2016-02-13 18:25:53	 @	Current global users: 22566  Max: 23778
+2016-02-13 18:25:53	 @	- irc.rizon.sexy Message of the Day -
+2016-02-13 18:25:53	 @	-          oo                            
+2016-02-13 18:25:53	 @	-
+2016-02-13 18:25:53	 @	- 88d888b. dP d888888b .d8888b. 88d888b. 
+2016-02-13 18:25:53	 @	- 88'  `88 88    .d8P' 88'  `88 88'  `88 
+2016-02-13 18:25:53	 @	- 88       88  .Y8P    88.  .88 88    88 
+2016-02-13 18:25:53	 @	- dP       dP d888888P `88888P' dP    dP
+2016-02-13 18:25:53	 @	-
+2016-02-13 18:25:53	 @	- Rizon Chat Network -- http://rizon.net
+2016-02-13 18:25:53	 @	-
+2016-02-13 18:25:53	 @	- Listening on ports: 6660 - 6669, 7000. SSL: 6697, 9999
+2016-02-13 18:25:53	 @	-
+2016-02-13 18:25:53	 @	- Rules:
+2016-02-13 18:25:53	 @	- o No spamming or flooding
+2016-02-13 18:25:53	 @	- o No clones or malicious bots
+2016-02-13 18:25:53	 @	- o No takeovers
+2016-02-13 18:25:53	 @	- o No distribution of child pornography
+2016-02-13 18:25:53	 @	- o Clients must respond to VERSION requests
+2016-02-13 18:25:53	 @	- o Rizon staff may disconnect clients for any or no reason
+2016-02-13 18:25:53	 @	-
+2016-02-13 18:25:53	 @	- First steps:
+2016-02-13 18:25:53	 @	- o To register your nick: /msg NickServ HELP
+2016-02-13 18:25:53	 @	- o To register your channel: /msg ChanServ HELP
+2016-02-13 18:25:53	 @	- o To get a vHost: /msg HostServ HELP REQUEST
+2016-02-13 18:25:53	 @	- o For other help with Rizon: /join #help
+2016-02-13 18:25:53	 @	-
+2016-02-13 18:25:53	 @	- Usage of this network is a privilege, not a right. Rizon is a
+2016-02-13 18:25:53	 @	- transit provider, therefore no person or entity involved with
+2016-02-13 18:25:53	 @	- *.rizon.net or irc.rizon.sexy takes any responsibility for
+2016-02-13 18:25:53	 @	- users' actions. Absolutely no warranty is expressed or implied.
+2016-02-13 18:25:53	 @	End of /MOTD command.
+2016-02-13 18:25:53	 @	User mode [+ix] by michael
+2016-02-13 18:25:53	 @	Global (service@rizon.net): [Logon News - May 21 2011] First time on Rizon? Be sure to read the FAQ! http://s.rizon.net/FAQ
+2016-02-13 18:25:53	 @	Global (service@rizon.net): [Logon News - Dec 16 2013] Own a large/active channel or plan to get one going? Please read http://s.rizon.net/authline
+2016-02-13 18:25:53	 @	Global (service@rizon.net): [Logon News - Dec 21 2015] Ready for a Rizon style Christmas decoration? Read http://s.rizon.net/xmas
+2016-02-13 18:25:53	 @	Global (service@rizon.net): [Random News - Nov 29 2013] Want to make your vhost shiny by adding colors to it? Try your luck in #VIzon
+2016-02-13 18:25:53	 @	NickServ (service@rizon.net): This nickname is registered and protected. If it is your
+2016-02-13 18:25:53	 @	NickServ (service@rizon.net): nick, type /msg NickServ IDENTIFY password. Otherwise,
+2016-02-13 18:25:53	 @	NickServ (service@rizon.net): please choose a different nick.
+2016-02-13 18:25:53	 @	NickServ (service@rizon.net): If you do not change within 20 seconds, I will change your nick.
+2016-02-13 18:25:53	 @	peer (service@rizon.net): For network safety, your client is being scanned for open proxies by scanner.rizon.net (80.65.51.222). This scan will not harm your computer.
+2016-02-13 18:25:53	 @	CTCP requested by py-ctcp: VERSION
+2016-02-13 18:25:53	 @	CTCP reply to py-ctcp: VERSION WeeChat 1.4 (Feb  2 2016)
+2016-02-13 18:26:06	 @	#rice: You need to login to services to join or speak in that channel.
+2016-02-13 18:26:10	 @	You are now known as trumpster
+2016-02-13 18:26:10	 @	NickServ (service@rizon.net): This nickname is registered and protected. If it is your
+2016-02-13 18:26:10	 @	NickServ (service@rizon.net): nick, type /msg NickServ IDENTIFY password. Otherwise,
+2016-02-13 18:26:10	 @	NickServ (service@rizon.net): please choose a different nick.
+2016-02-13 18:26:19	 @	MSG(NickServ): IDENTIFY ********
+2016-02-13 18:26:19	 @	User mode [+r] by trumpster
+2016-02-13 18:26:19	 @	NickServ (service@rizon.net): Password accepted - you are now recognized.
+2016-02-13 18:52:52	 @	irc: connecting to server irc.rizon.net/6667...
+2016-02-13 18:52:52	 @	irc: connected to irc.rizon.net/6667 (192.161.191.29)
+2016-02-13 18:52:52	 @	* :Please wait while we process your connection.
+2016-02-13 18:52:52	 @	irc.rizon.io: *** Looking up your hostname...
+2016-02-13 18:52:52	 @	irc.rizon.io: *** Checking Ident
+2016-02-13 18:52:52	 @	irc.rizon.io: *** Found your hostname
+2016-02-13 18:52:54	 @	irc.rizon.io: *** No Ident response
+2016-02-13 18:52:54	 @	irc.rizon.io: *** Your host is masked (Rizon-71E5EF26.ph.ph.cox.net)
+2016-02-13 18:52:54	 @	Welcome to the Rizon Internet Relay Chat Network michael
+2016-02-13 18:52:54	 @	Your host is irc.rizon.io, running version hybrid-7.2.3+plexus-3.1.0(20151005_0-546)
+2016-02-13 18:52:54	 @	This server was created Oct 23 2015 at 15:30:46
+2016-02-13 18:52:54	 @	irc.rizon.io hybrid-7.2.3+plexus-3.1.0(20151005_0-546) CDFGNRSUWXabcdfgijklnopqrsuwxyz BIMNORSabcehiklmnopqstvz Iabehkloqv
+2016-02-13 18:52:54	 @	CALLERID CASEMAPPING=rfc1459 DEAF=D KICKLEN=160 MODES=4 NICKLEN=30 TOPICLEN=390 PREFIX=(qaohv)~&@%+ STATUSMSG=~&@%+ NETWORK=Rizon MAXLIST=beI:250 TARGMAX=ACCEPT:,KICK:1,LIST:1,NAMES:1,NOTICE:4,PRIVMSG:4,WHOIS:1 CHANTYPES=# :are supported by this server
+2016-02-13 18:52:54	 @	CHANLIMIT=#:75 CHANNELLEN=50 CHANMODES=beI,k,l,BCMNORScimnpstz ELIST=CMNTU SAFELIST AWAYLEN=160 KNOCK FNC NAMESX UHNAMES EXCEPTS=e INVEX=I :are supported by this server
+2016-02-13 18:52:54	 @	89CAAOID3 :your unique ID
+2016-02-13 18:52:54	 @	There are 23 users and 22434 invisible on 13 servers
+2016-02-13 18:52:54	 @	58 :IRC Operators online
+2016-02-13 18:52:54	 @	2 :unknown connection(s)
+2016-02-13 18:52:54	 @	20589 :channels formed
+2016-02-13 18:52:54	 @	I have 22457 clients and 13 servers
+2016-02-13 18:52:54	 @	22457 25636 :Current local users 22457, max 25636
+2016-02-13 18:52:54	 @	22457 25636 :Current global users 22457, max 25636
+2016-02-13 18:52:54	 @	- irc.rizon.io Message of the Day -
+2016-02-13 18:52:54	 @	-          oo                            
+2016-02-13 18:52:54	 @	-
+2016-02-13 18:52:54	 @	- 88d888b. dP d888888b .d8888b. 88d888b. 
+2016-02-13 18:52:54	 @	- 88'  `88 88    .d8P' 88'  `88 88'  `88 
+2016-02-13 18:52:54	 @	- 88       88  .Y8P    88.  .88 88    88 
+2016-02-13 18:52:54	 @	- dP       dP d888888P `88888P' dP    dP
+2016-02-13 18:52:54	 @	-
+2016-02-13 18:52:54	 @	- Rizon Chat Network -- http://rizon.net
+2016-02-13 18:52:54	 @	-
+2016-02-13 18:52:54	 @	- Listening on ports: 6660 - 6669, 7000. SSL: 6697, 9999
+2016-02-13 18:52:54	 @	-
+2016-02-13 18:52:54	 @	- Rules:
+2016-02-13 18:52:54	 @	- o No spamming or flooding
+2016-02-13 18:52:54	 @	- o No clones or malicious bots
+2016-02-13 18:52:54	 @	- o No takeovers
+2016-02-13 18:52:54	 @	- o No distribution of child pornography
+2016-02-13 18:52:54	 @	- o Clients must respond to VERSION requests
+2016-02-13 18:52:54	 @	- o Rizon staff may disconnect clients for any or no reason
+2016-02-13 18:52:54	 @	-
+2016-02-13 18:52:54	 @	- First steps:
+2016-02-13 18:52:54	 @	- o To register your nick: /msg NickServ HELP
+2016-02-13 18:52:54	 @	- o To register your channel: /msg ChanServ HELP
+2016-02-13 18:52:54	 @	- o To get a vHost: /msg HostServ HELP REQUEST
+2016-02-13 18:52:54	 @	- o For other help with Rizon: /join #help
+2016-02-13 18:52:54	 @	-
+2016-02-13 18:52:54	 @	- Usage of this network is a privilege, not a right. Rizon is a
+2016-02-13 18:52:54	 @	- transit provider, therefore no person or entity involved with
+2016-02-13 18:52:54	 @	- *.rizon.net or irc.rizon.io takes any responsibility for
+2016-02-13 18:52:54	 @	- users' actions. Absolutely no warranty is expressed or implied.
+2016-02-13 18:52:54	 @	End of /MOTD command.
+2016-02-13 18:52:54	 @	User mode [+ix] by michael
+2016-02-13 18:52:54	 @	CTCP requested by py-ctcp: VERSION
+2016-02-13 18:52:54	 @	CTCP reply to py-ctcp: VERSION WeeChat 1.4 (Feb  2 2016)
+2016-02-13 18:52:54	 @	Global (service@rizon.net): [Logon News - May 21 2011] First time on Rizon? Be sure to read the FAQ! http://s.rizon.net/FAQ
+2016-02-13 18:52:54	 @	Global (service@rizon.net): [Logon News - Dec 16 2013] Own a large/active channel or plan to get one going? Please read http://s.rizon.net/authline
+2016-02-13 18:52:54	 @	Global (service@rizon.net): [Logon News - Dec 21 2015] Ready for a Rizon style Christmas decoration? Read http://s.rizon.net/xmas
+2016-02-13 18:52:54	 @	Global (service@rizon.net): [Random News - Mar 20 2009] Idle on Rizon a lot? Why not play our idlerpg game, you can check it out at #RizonIRPG for more information visit the website http://idlerpg.rizon.net -Rizon Staff
+2016-02-13 18:52:54	 @	NickServ (service@rizon.net): This nickname is registered and protected. If it is your
+2016-02-13 18:52:54	 @	NickServ (service@rizon.net): nick, type /msg NickServ IDENTIFY password. Otherwise,
+2016-02-13 18:52:54	 @	NickServ (service@rizon.net): please choose a different nick.
+2016-02-13 18:52:54	 @	NickServ (service@rizon.net): If you do not change within 20 seconds, I will change your nick.
+2016-02-13 18:52:54	 @	peer (service@rizon.net): For network safety, your client is being scanned for open proxies by scanner.rizon.net (80.65.51.221). This scan will not harm your computer.
+2016-02-13 18:52:56	 @	You are now known as trumpster
+2016-02-13 18:52:57	 @	NickServ (service@rizon.net): This nickname is registered and protected. If it is your
+2016-02-13 18:52:57	 @	NickServ (service@rizon.net): nick, type /msg NickServ IDENTIFY password. Otherwise,
+2016-02-13 18:52:57	 @	NickServ (service@rizon.net): please choose a different nick.
+2016-02-14 17:06:37	 @	irc: connecting to server irc.rizon.net/6667...
+2016-02-14 17:06:37	 @	irc: connected to irc.rizon.net/6667 (208.100.38.65)
+2016-02-14 17:06:37	 @	* :Please wait while we process your connection.
+2016-02-14 17:06:37	 @	irc.sxci.net: *** Looking up your hostname...
+2016-02-14 17:06:37	 @	irc.sxci.net: *** Checking Ident
+2016-02-14 17:06:37	 @	irc.sxci.net: *** Found your hostname
+2016-02-14 17:06:39	 @	irc.sxci.net: *** No Ident response
+2016-02-14 17:06:39	 @	irc.sxci.net: *** Your host is masked (Rizon-71E5EF26.ph.ph.cox.net)
+2016-02-14 17:06:39	 @	Welcome to the Rizon Internet Relay Chat Network michael
+2016-02-14 17:06:39	 @	Your host is irc.sxci.net, running version hybrid-7.2.3+plexus-3.1.0(20151005_0-546)
+2016-02-14 17:06:39	 @	This server was created Oct 20 2015 at 17:55:25
+2016-02-14 17:06:39	 @	irc.sxci.net hybrid-7.2.3+plexus-3.1.0(20151005_0-546) CDFGNRSUWXabcdfgijklnopqrsuwxyz BIMNORSabcehiklmnopqstvz Iabehkloqv
+2016-02-14 17:06:39	 @	CALLERID CASEMAPPING=rfc1459 DEAF=D KICKLEN=160 MODES=4 NICKLEN=30 TOPICLEN=390 PREFIX=(qaohv)~&@%+ STATUSMSG=~&@%+ NETWORK=Rizon MAXLIST=beI:250 TARGMAX=ACCEPT:,KICK:1,LIST:1,NAMES:1,NOTICE:4,PRIVMSG:4,WHOIS:1 CHANTYPES=# :are supported by this server
+2016-02-14 17:06:39	 @	CHANLIMIT=#:75 CHANNELLEN=50 CHANMODES=beI,k,l,BCMNORScimnpstz FNC ELIST=CMNTU SAFELIST NAMESX UHNAMES AWAYLEN=160 KNOCK EXCEPTS=e INVEX=I :are supported by this server
+2016-02-14 17:06:39	 @	08CAAMCA1 :your unique ID
+2016-02-14 17:06:39	 @	There are 24 users and 22978 invisible on 13 servers
+2016-02-14 17:06:39	 @	58 :IRC Operators online
+2016-02-14 17:06:39	 @	20649 :channels formed
+2016-02-14 17:06:39	 @	I have 23002 clients and 13 servers
+2016-02-14 17:06:39	 @	23002 25058 :Current local users 23002, max 25058
+2016-02-14 17:06:39	 @	23002 25058 :Current global users 23002, max 25058
+2016-02-14 17:06:39	 @	- irc.sxci.net Message of the Day -
+2016-02-14 17:06:39	 @	-          oo                            
+2016-02-14 17:06:39	 @	-
+2016-02-14 17:06:39	 @	- 88d888b. dP d888888b .d8888b. 88d888b. 
+2016-02-14 17:06:39	 @	- 88'  `88 88    .d8P' 88'  `88 88'  `88 
+2016-02-14 17:06:39	 @	- 88       88  .Y8P    88.  .88 88    88 
+2016-02-14 17:06:39	 @	- dP       dP d888888P `88888P' dP    dP
+2016-02-14 17:06:39	 @	-
+2016-02-14 17:06:39	 @	- Rizon Chat Network -- http://rizon.net
+2016-02-14 17:06:39	 @	-
+2016-02-14 17:06:39	 @	- Listening on ports: 6660 - 6669, 7000. SSL: 6697, 9999
+2016-02-14 17:06:39	 @	-
+2016-02-14 17:06:39	 @	- Rules:
+2016-02-14 17:06:39	 @	- o No spamming or flooding
+2016-02-14 17:06:39	 @	- o No clones or malicious bots
+2016-02-14 17:06:39	 @	- o No takeovers
+2016-02-14 17:06:39	 @	- o No distribution of child pornography
+2016-02-14 17:06:39	 @	- o Clients must respond to VERSION requests
+2016-02-14 17:06:39	 @	- o Rizon staff may disconnect clients for any or no reason
+2016-02-14 17:06:39	 @	-
+2016-02-14 17:06:39	 @	- First steps:
+2016-02-14 17:06:39	 @	- o To register your nick: /msg NickServ HELP
+2016-02-14 17:06:39	 @	- o To register your channel: /msg ChanServ HELP
+2016-02-14 17:06:39	 @	- o To get a vHost: /msg HostServ HELP REQUEST
+2016-02-14 17:06:39	 @	- o For other help with Rizon: /join #help
+2016-02-14 17:06:39	 @	-
+2016-02-14 17:06:39	 @	- Usage of this network is a privilege, not a right. Rizon is a
+2016-02-14 17:06:39	 @	- transit provider, therefore no person or entity involved with
+2016-02-14 17:06:39	 @	- *.rizon.net or irc.sxci.net takes any responsibility for
+2016-02-14 17:06:39	 @	- users' actions. Absolutely no warranty is expressed or implied.
+2016-02-14 17:06:39	 @	End of /MOTD command.
+2016-02-14 17:06:39	 @	User mode [+ix] by michael
+2016-02-14 17:06:39	 @	CTCP requested by py-ctcp: VERSION
+2016-02-14 17:06:39	 @	CTCP reply to py-ctcp: VERSION WeeChat 1.4 (Feb  2 2016)
+2016-02-14 17:06:39	 @	Global (service@rizon.net): [Logon News - May 21 2011] First time on Rizon? Be sure to read the FAQ! http://s.rizon.net/FAQ
+2016-02-14 17:06:39	 @	Global (service@rizon.net): [Logon News - Dec 16 2013] Own a large/active channel or plan to get one going? Please read http://s.rizon.net/authline
+2016-02-14 17:06:39	 @	Global (service@rizon.net): [Logon News - Dec 21 2015] Ready for a Rizon style Christmas decoration? Read http://s.rizon.net/xmas
+2016-02-14 17:06:39	 @	Global (service@rizon.net): [Random News - May 07 2013] Looking for a quotes, trivia, or other extra bots? /msg funserv help
+2016-02-14 17:06:39	 @	NickServ (service@rizon.net): This nickname is registered and protected. If it is your
+2016-02-14 17:06:39	 @	NickServ (service@rizon.net): nick, type /msg NickServ IDENTIFY password. Otherwise,
+2016-02-14 17:06:39	 @	NickServ (service@rizon.net): please choose a different nick.
+2016-02-14 17:06:39	 @	NickServ (service@rizon.net): If you do not change within 20 seconds, I will change your nick.
+2016-02-14 17:06:39	 @	peer (service@rizon.net): For network safety, your client is being scanned for open proxies by scanner.rizon.net (80.65.51.220). This scan will not harm your computer.
+2016-02-14 17:06:59	 @	NickServ (service@rizon.net): Your nickname is now being changed to Guest18849
+2016-02-14 17:06:59	 @	You are now known as Guest18849
+2016-02-14 17:07:52	 @	You are now known as trumpster
+2016-02-14 17:07:52	 @	NickServ (service@rizon.net): This nickname is registered and protected. If it is your
+2016-02-14 17:07:52	 @	NickServ (service@rizon.net): nick, type /msg NickServ IDENTIFY password. Otherwise,
+2016-02-14 17:07:52	 @	NickServ (service@rizon.net): please choose a different nick.
+2016-02-14 17:07:56	 @	MSG(NickServ): IDENTIFY
+2016-02-14 17:07:56	 @	NickServ (service@rizon.net): Syntax: IDENTIFY password
+2016-02-14 17:07:56	 @	NickServ (service@rizon.net): /msg NickServ HELP IDENTIFY for more information.
+2016-02-14 17:08:22	 @	MSG(nickserv): ID ********
+2016-02-14 17:08:22	 @	User mode [+r] by trumpster
+2016-02-14 17:08:22	 @	NickServ (service@rizon.net): Password accepted - you are now recognized.
+2016-02-15 13:51:19	 @	irc: connecting to server irc.rizon.net/6667...
+2016-02-15 13:51:24	 @	irc: connected to irc.rizon.net/6667 (76.72.161.18)
+2016-02-15 13:51:24	 @	* :Please wait while we process your connection.
+2016-02-15 13:51:24	 @	irc.broke-it.com: *** Looking up your hostname...
+2016-02-15 13:51:24	 @	irc.broke-it.com: *** Checking Ident
+2016-02-15 13:51:24	 @	irc.broke-it.com: *** Found your hostname
+2016-02-15 13:51:26	 @	irc.broke-it.com: *** No Ident response
+2016-02-15 13:51:26	 @	irc.broke-it.com: *** Your host is masked (Rizon-71E5EF26.ph.ph.cox.net)
+2016-02-15 13:51:26	 @	Welcome to the Rizon Internet Relay Chat Network michael
+2016-02-15 13:51:26	 @	Your host is irc.broke-it.com, running version hybrid-7.2.3+plexus-3.1.0(20151028_0-547)
+2016-02-15 13:51:26	 @	This server was created Dec 12 2015 at 20:07:55
+2016-02-15 13:51:26	 @	irc.broke-it.com hybrid-7.2.3+plexus-3.1.0(20151028_0-547) CDFGNRSUWXabcdfgijklnopqrsuwxyz BIMNORSabcehiklmnopqstvz Iabehkloqv
+2016-02-15 13:51:26	 @	CALLERID CASEMAPPING=rfc1459 DEAF=D KICKLEN=160 MODES=4 NICKLEN=30 TOPICLEN=390 PREFIX=(qaohv)~&@%+ STATUSMSG=~&@%+ NETWORK=Rizon MAXLIST=beI:250 TARGMAX=ACCEPT:,KICK:1,LIST:1,NAMES:1,NOTICE:4,PRIVMSG:4,WHOIS:1 CHANTYPES=# :are supported by this server
+2016-02-15 13:51:26	 @	CHANLIMIT=#:75 CHANNELLEN=50 CHANMODES=beI,k,l,BCMNORScimnpstz AWAYLEN=160 KNOCK NAMESX UHNAMES ELIST=CMNTU SAFELIST FNC EXCEPTS=e INVEX=I :are supported by this server
+2016-02-15 13:51:26	 @	90CAAHVLP :your unique ID
+2016-02-15 13:51:26	 @	There are 29 users and 23405 invisible on 13 servers
+2016-02-15 13:51:26	 @	58 :IRC Operators online
+2016-02-15 13:51:26	 @	2 :unknown connection(s)
+2016-02-15 13:51:26	 @	20757 :channels formed
+2016-02-15 13:51:26	 @	I have 23434 clients and 13 servers
+2016-02-15 13:51:26	 @	23434 25636 :Current local users 23434, max 25636
+2016-02-15 13:51:26	 @	23434 25636 :Current global users 23434, max 25636
+2016-02-15 13:51:26	 @	- irc.broke-it.com Message of the Day -
+2016-02-15 13:51:26	 @	-    Welcome to irc.broke-it.com
+2016-02-15 13:51:26	 @	-
+2016-02-15 13:51:26	 @	-         Now its time for **UPDATED** conversational spanish with grimlock
+2016-02-15 13:51:26	 @	-
+2016-02-15 13:51:26	 @	-    Las ardillas. Me persiguen. Quieren mis tuercas pero no pueden tenerlas.
+2016-02-15 13:51:26	 @	-
+2016-02-15 13:51:26	 @	-    no habla? the squirrels. they chase me. they want my nuts but they
+2016-02-15 13:51:26	 @	-    can not have them.
+2016-02-15 13:51:26	 @	-
+2016-02-15 13:51:26	 @	-    El gato en mi pantalones, quiere mi burrito. Pero el no puede
+2016-02-15 13:51:26	 @	-    tenerlo. No compartire con el.
+2016-02-15 13:51:26	 @	-
+2016-02-15 13:51:26	 @	-    Still no habla? the cat in my pants, he wants my burrito. But he can
+2016-02-15 13:51:26	 @	-    not have it. I will not share with him.
+2016-02-15 13:51:26	 @	-
+2016-02-15 13:51:26	 @	-    Por que el perro que lame mis bolas? Debo de haber banado en mantequilla
+2016-02-15 13:51:26	 @	-    de mani de nuevo ...
+2016-02-15 13:51:26	 @	-
+2016-02-15 13:51:26	 @	-    Really!?!? No habla?! You really need to work on your spanglish skills..
+2016-02-15 13:51:26	 @	-    Why is the dog licking my balls? I must have bathed in peanut butter
+2016-02-15 13:51:26	 @	-    again...
+2016-02-15 13:51:26	 @	-
+2016-02-15 13:51:26	 @	-    Cuando salgo de la peluqueria despues de tener mi espalda afeitado, me
+2016-02-15 13:51:26	 @	-    doy cuenta de que seria mucho mas barato tener un rebano de cabras.
+2016-02-15 13:51:26	 @	-
+2016-02-15 13:51:26	 @	-    You really need to sign up for my formal spanish lessons.  I can teach
+2016-02-15 13:51:26	 @	-    many more useful phrases phrases!  When I leave the barber after having
+2016-02-15 13:51:26	 @	-    my back shaved, I realize it would be much cheaper to own a herd of goats.
+2016-02-15 13:51:26	 @	-
+2016-02-15 13:51:26	 @	-    Usted dice que el tomate, digo que me gusta la leche con chocolate y
+2016-02-15 13:51:26	 @	-    panecillos. Has visto a mi cepillo de dientes?
+2016-02-15 13:51:26	 @	-
+2016-02-15 13:51:26	 @	-    My lesson rates are very reasonable!  I can teach you to splanglish like
+2016-02-15 13:51:26	 @	-    I do!  You say tomato, I say I like chocolate milk and bagels.  Have you
+2016-02-15 13:51:26	 @	-    seen my toothbrush?
+2016-02-15 13:51:26	 @	-
+2016-02-15 13:51:26	 @	-    mi escroto es como un helicóptero de dolor. no recibir un golpe en el oj
+2016-02-15 13:51:26	 @	-    o con esa mierda.
+2016-02-15 13:51:26	 @	-
+2016-02-15 13:51:26	 @	-    I am considering expanding my lessons to french.  Did you know I spoke
+2016-02-15 13:51:26	 @	-    french?  I speak it quite well.  My ball sack is like a helicopter of pain.
+2016-02-15 13:51:26	 @	-    Do not get hit in the eye with that shit.
+2016-02-15 13:51:26	 @	-
+2016-02-15 13:51:26	 @	-         This has been conversational spanish with grimlock, time for
+2016-02-15 13:51:26	 @	-         something more serious.
+2016-02-15 13:51:26	 @	-
+2016-02-15 13:51:26	 @	-          oo                            
+2016-02-15 13:51:26	 @	-
+2016-02-15 13:51:26	 @	- 88d888b. dP d888888b .d8888b. 88d888b. 
+2016-02-15 13:51:26	 @	- 88'  `88 88    .d8P' 88'  `88 88'  `88 
+2016-02-15 13:51:26	 @	- 88       88  .Y8P    88.  .88 88    88 
+2016-02-15 13:51:26	 @	- dP       dP d888888P `88888P' dP    dP
+2016-02-15 13:51:26	 @	-
+2016-02-15 13:51:26	 @	- Rizon Chat Network -- http://rizon.net
+2016-02-15 13:51:26	 @	-
+2016-02-15 13:51:26	 @	- Listening on ports: 6660 - 6669, 7000. SSL: 6697, 9999
+2016-02-15 13:51:26	 @	-
+2016-02-15 13:51:26	 @	- Rules:
+2016-02-15 13:51:26	 @	- o No spamming or flooding
+2016-02-15 13:51:26	 @	- o No clones or malicious bots
+2016-02-15 13:51:26	 @	- o No takeovers
+2016-02-15 13:51:26	 @	- o No distribution of child pornography
+2016-02-15 13:51:26	 @	- o Clients must respond to VERSION requests
+2016-02-15 13:51:26	 @	- o Rizon staff may disconnect clients for any or no reason
+2016-02-15 13:51:26	 @	-
+2016-02-15 13:51:26	 @	- First steps:
+2016-02-15 13:51:26	 @	- o To register your nick: /msg NickServ HELP
+2016-02-15 13:51:26	 @	- o To register your channel: /msg ChanServ HELP
+2016-02-15 13:51:26	 @	- o To get a vHost: /msg HostServ HELP REQUEST
+2016-02-15 13:51:26	 @	- o For other help with Rizon: /join #help
+2016-02-15 13:51:26	 @	-
+2016-02-15 13:51:26	 @	- Usage of this network is a privilege, not a right. Rizon is a
+2016-02-15 13:51:26	 @	- transit provider, therefore no person or entity involved with
+2016-02-15 13:51:26	 @	- *.rizon.net or irc.broke-it.com takes any responsibility for
+2016-02-15 13:51:26	 @	- users' actions. Absolutely no warranty is expressed or implied.
+2016-02-15 13:51:26	 @	End of /MOTD command.
+2016-02-15 13:51:26	 @	User mode [+ix] by michael
+2016-02-15 13:51:26	 @	CTCP requested by py-ctcp: VERSION
+2016-02-15 13:51:26	 @	CTCP reply to py-ctcp: VERSION WeeChat 1.4 (Feb  2 2016)
+2016-02-15 13:51:26	 @	Global (service@rizon.net): [Logon News - May 21 2011] First time on Rizon? Be sure to read the FAQ! http://s.rizon.net/FAQ
+2016-02-15 13:51:26	 @	Global (service@rizon.net): [Logon News - Dec 16 2013] Own a large/active channel or plan to get one going? Please read http://s.rizon.net/authline
+2016-02-15 13:51:26	 @	Global (service@rizon.net): [Logon News - Dec 21 2015] Ready for a Rizon style Christmas decoration? Read http://s.rizon.net/xmas
+2016-02-15 13:51:26	 @	Global (service@rizon.net): [Random News - Mar 20 2009] Idle on Rizon a lot? Why not play our idlerpg game, you can check it out at #RizonIRPG for more information visit the website http://idlerpg.rizon.net -Rizon Staff
+2016-02-15 13:51:26	 @	NickServ (service@rizon.net): This nickname is registered and protected. If it is your
+2016-02-15 13:51:26	 @	NickServ (service@rizon.net): nick, type /msg NickServ IDENTIFY password. Otherwise,
+2016-02-15 13:51:26	 @	NickServ (service@rizon.net): please choose a different nick.
+2016-02-15 13:51:26	 @	NickServ (service@rizon.net): If you do not change within 20 seconds, I will change your nick.
+2016-02-15 13:51:26	 @	peer (service@rizon.net): For network safety, your client is being scanned for open proxies by scanner.rizon.net (80.65.51.221). This scan will not harm your computer.
+2016-02-15 13:51:31	 @	MSG(nickserv): ID ********
+2016-02-15 13:51:32	 @	NickServ (service@rizon.net): Password incorrect.
+2016-02-15 13:51:37	 @	You are now known as trumpster
+2016-02-15 13:51:37	 @	NickServ (service@rizon.net): This nickname is registered and protected. If it is your
+2016-02-15 13:51:37	 @	NickServ (service@rizon.net): nick, type /msg NickServ IDENTIFY password. Otherwise,
+2016-02-15 13:51:37	 @	NickServ (service@rizon.net): please choose a different nick.
+2016-02-15 13:51:38	 @	MSG(nickserv): ID ********
+2016-02-15 13:51:39	 @	NickServ (service@rizon.net): Password incorrect.
+2016-02-15 13:51:47	 @	MSG(nickserv): ID ********
+2016-02-15 13:51:48	 @	User mode [+r] by trumpster
+2016-02-15 13:51:48	 @	NickServ (service@rizon.net): Password accepted - you are now recognized.
+2016-02-15 13:52:15	 @	Aigis (Aigis@anti.shadow.weapon): Commands: Tell: tell Battlestation: station Desktops: selfie desktop AigisPermissions: register login aenable adisable LewdIRC: porn WebStuff: nowplaying google MarioMaker: mariomaker Help: help Greets: greet Distribution: distro AigisGames: dice coin Quotes: aquote Animelist: anilist 
+2016-02-15 14:01:21	 @	Aigis (Aigis@anti.shadow.weapon): Commands: Tell: tell Battlestation: station Desktops: selfie desktop AigisPermissions: register login aenable adisable LewdIRC: porn WebStuff: nowplaying google MarioMaker: mariomaker Help: help Greets: greet Distribution: distro AigisGames: dice coin Quotes: aquote Animelist: anilist 
+2016-02-15 14:09:25	 @	irc: connecting to server irc.rizon.net/6667...
+2016-02-15 14:09:25	 @	irc: connected to irc.rizon.net/6667 (192.161.191.29)
+2016-02-15 14:09:25	 @	* :Please wait while we process your connection.
+2016-02-15 14:09:25	 @	irc.rizon.io: *** Looking up your hostname...
+2016-02-15 14:09:25	 @	irc.rizon.io: *** Checking Ident
+2016-02-15 14:09:25	 @	irc.rizon.io: *** Found your hostname
+2016-02-15 14:09:27	 @	irc.rizon.io: *** No Ident response
+2016-02-15 14:09:27	 @	irc.rizon.io: *** Your host is masked (Rizon-71E5EF26.ph.ph.cox.net)
+2016-02-15 14:09:27	 @	Welcome to the Rizon Internet Relay Chat Network michael
+2016-02-15 14:09:27	 @	Your host is irc.rizon.io, running version hybrid-7.2.3+plexus-3.1.0(20151005_0-546)
+2016-02-15 14:09:27	 @	This server was created Oct 23 2015 at 15:30:46
+2016-02-15 14:09:27	 @	irc.rizon.io hybrid-7.2.3+plexus-3.1.0(20151005_0-546) CDFGNRSUWXabcdfgijklnopqrsuwxyz BIMNORSabcehiklmnopqstvz Iabehkloqv
+2016-02-15 14:09:27	 @	CALLERID CASEMAPPING=rfc1459 DEAF=D KICKLEN=160 MODES=4 NICKLEN=30 TOPICLEN=390 PREFIX=(qaohv)~&@%+ STATUSMSG=~&@%+ NETWORK=Rizon MAXLIST=beI:250 TARGMAX=ACCEPT:,KICK:1,LIST:1,NAMES:1,NOTICE:4,PRIVMSG:4,WHOIS:1 CHANTYPES=# :are supported by this server
+2016-02-15 14:09:27	 @	CHANLIMIT=#:75 CHANNELLEN=50 CHANMODES=beI,k,l,BCMNORScimnpstz ELIST=CMNTU SAFELIST AWAYLEN=160 KNOCK FNC NAMESX UHNAMES EXCEPTS=e INVEX=I :are supported by this server
+2016-02-15 14:09:27	 @	89CAAOU8O :your unique ID
+2016-02-15 14:09:27	 @	There are 29 users and 23343 invisible on 13 servers
+2016-02-15 14:09:27	 @	58 :IRC Operators online
+2016-02-15 14:09:27	 @	20741 :channels formed
+2016-02-15 14:09:27	 @	I have 23372 clients and 13 servers
+2016-02-15 14:09:27	 @	23372 25636 :Current local users 23372, max 25636
+2016-02-15 14:09:27	 @	23372 25636 :Current global users 23372, max 25636
+2016-02-15 14:09:27	 @	- irc.rizon.io Message of the Day -
+2016-02-15 14:09:27	 @	-          oo                            
+2016-02-15 14:09:27	 @	-
+2016-02-15 14:09:27	 @	- 88d888b. dP d888888b .d8888b. 88d888b. 
+2016-02-15 14:09:27	 @	- 88'  `88 88    .d8P' 88'  `88 88'  `88 
+2016-02-15 14:09:27	 @	- 88       88  .Y8P    88.  .88 88    88 
+2016-02-15 14:09:27	 @	- dP       dP d888888P `88888P' dP    dP
+2016-02-15 14:09:27	 @	-
+2016-02-15 14:09:27	 @	- Rizon Chat Network -- http://rizon.net
+2016-02-15 14:09:27	 @	-
+2016-02-15 14:09:27	 @	- Listening on ports: 6660 - 6669, 7000. SSL: 6697, 9999
+2016-02-15 14:09:27	 @	-
+2016-02-15 14:09:27	 @	- Rules:
+2016-02-15 14:09:27	 @	- o No spamming or flooding
+2016-02-15 14:09:27	 @	- o No clones or malicious bots
+2016-02-15 14:09:27	 @	- o No takeovers
+2016-02-15 14:09:27	 @	- o No distribution of child pornography
+2016-02-15 14:09:27	 @	- o Clients must respond to VERSION requests
+2016-02-15 14:09:27	 @	- o Rizon staff may disconnect clients for any or no reason
+2016-02-15 14:09:27	 @	-
+2016-02-15 14:09:27	 @	- First steps:
+2016-02-15 14:09:27	 @	- o To register your nick: /msg NickServ HELP
+2016-02-15 14:09:27	 @	- o To register your channel: /msg ChanServ HELP
+2016-02-15 14:09:27	 @	- o To get a vHost: /msg HostServ HELP REQUEST
+2016-02-15 14:09:27	 @	- o For other help with Rizon: /join #help
+2016-02-15 14:09:27	 @	-
+2016-02-15 14:09:27	 @	- Usage of this network is a privilege, not a right. Rizon is a
+2016-02-15 14:09:27	 @	- transit provider, therefore no person or entity involved with
+2016-02-15 14:09:27	 @	- *.rizon.net or irc.rizon.io takes any responsibility for
+2016-02-15 14:09:27	 @	- users' actions. Absolutely no warranty is expressed or implied.
+2016-02-15 14:09:27	 @	End of /MOTD command.
+2016-02-15 14:09:27	 @	User mode [+ix] by michael
+2016-02-15 14:09:27	 @	CTCP requested by py-ctcp: VERSION
+2016-02-15 14:09:27	 @	CTCP reply to py-ctcp: VERSION WeeChat 1.4 (Feb  2 2016)
+2016-02-15 14:09:27	 @	Global (service@rizon.net): [Logon News - May 21 2011] First time on Rizon? Be sure to read the FAQ! http://s.rizon.net/FAQ
+2016-02-15 14:09:27	 @	Global (service@rizon.net): [Logon News - Dec 16 2013] Own a large/active channel or plan to get one going? Please read http://s.rizon.net/authline
+2016-02-15 14:09:27	 @	Global (service@rizon.net): [Logon News - Dec 21 2015] Ready for a Rizon style Christmas decoration? Read http://s.rizon.net/xmas
+2016-02-15 14:09:27	 @	Global (service@rizon.net): [Random News - Mar 20 2009] Idle on Rizon a lot? Why not play our idlerpg game, you can check it out at #RizonIRPG for more information visit the website http://idlerpg.rizon.net -Rizon Staff
+2016-02-15 14:09:27	 @	NickServ (service@rizon.net): This nickname is registered and protected. If it is your
+2016-02-15 14:09:27	 @	NickServ (service@rizon.net): nick, type /msg NickServ IDENTIFY password. Otherwise,
+2016-02-15 14:09:27	 @	NickServ (service@rizon.net): please choose a different nick.
+2016-02-15 14:09:27	 @	NickServ (service@rizon.net): If you do not change within 20 seconds, I will change your nick.
+2016-02-15 14:09:27	 @	peer (service@rizon.net): For network safety, your client is being scanned for open proxies by scanner.rizon.net (80.65.51.220). This scan will not harm your computer.
+2016-02-15 14:09:29	 @	#rice: You need to identify to a registered nick to join that channel. Check /msg nickserv help register
+2016-02-15 14:09:37	 @	You are now known as trumpster
+2016-02-15 14:09:37	 @	NickServ (service@rizon.net): This nickname is registered and protected. If it is your
+2016-02-15 14:09:37	 @	NickServ (service@rizon.net): nick, type /msg NickServ IDENTIFY password. Otherwise,
+2016-02-15 14:09:37	 @	NickServ (service@rizon.net): please choose a different nick.
+2016-02-15 14:09:41	 @	MSG(NickServ): IDENTIFY ********
+2016-02-15 14:09:42	 @	User mode [+r] by trumpster
+2016-02-15 14:09:42	 @	NickServ (service@rizon.net): Password accepted - you are now recognized.
+2016-02-15 14:13:00	 @	irc: connecting to server irc.rizon.net/6667...
+2016-02-15 14:13:00	 @	irc: connected to irc.rizon.net/6667 (76.72.161.18)
+2016-02-15 14:13:00	 @	* :Please wait while we process your connection.
+2016-02-15 14:13:00	 @	irc.broke-it.com: *** Looking up your hostname...
+2016-02-15 14:13:00	 @	irc.broke-it.com: *** Checking Ident
+2016-02-15 14:13:00	 @	irc.broke-it.com: *** Found your hostname
+2016-02-15 14:13:02	 @	irc.broke-it.com: *** No Ident response
+2016-02-15 14:13:02	 @	irc.broke-it.com: *** Your host is masked (Rizon-71E5EF26.ph.ph.cox.net)
+2016-02-15 14:13:02	 @	Welcome to the Rizon Internet Relay Chat Network michael
+2016-02-15 14:13:02	 @	Your host is irc.broke-it.com, running version hybrid-7.2.3+plexus-3.1.0(20151028_0-547)
+2016-02-15 14:13:02	 @	This server was created Dec 12 2015 at 20:07:55
+2016-02-15 14:13:02	 @	irc.broke-it.com hybrid-7.2.3+plexus-3.1.0(20151028_0-547) CDFGNRSUWXabcdfgijklnopqrsuwxyz BIMNORSabcehiklmnopqstvz Iabehkloqv
+2016-02-15 14:13:02	 @	CALLERID CASEMAPPING=rfc1459 DEAF=D KICKLEN=160 MODES=4 NICKLEN=30 TOPICLEN=390 PREFIX=(qaohv)~&@%+ STATUSMSG=~&@%+ NETWORK=Rizon MAXLIST=beI:250 TARGMAX=ACCEPT:,KICK:1,LIST:1,NAMES:1,NOTICE:4,PRIVMSG:4,WHOIS:1 CHANTYPES=# :are supported by this server
+2016-02-15 14:13:02	 @	CHANLIMIT=#:75 CHANNELLEN=50 CHANMODES=beI,k,l,BCMNORScimnpstz AWAYLEN=160 KNOCK NAMESX UHNAMES ELIST=CMNTU SAFELIST FNC EXCEPTS=e INVEX=I :are supported by this server
+2016-02-15 14:13:02	 @	90CAAHVOU :your unique ID
+2016-02-15 14:13:02	 @	There are 29 users and 23350 invisible on 13 servers
+2016-02-15 14:13:02	 @	58 :IRC Operators online
+2016-02-15 14:13:02	 @	1 :unknown connection(s)
+2016-02-15 14:13:02	 @	20743 :channels formed
+2016-02-15 14:13:02	 @	I have 23379 clients and 13 servers
+2016-02-15 14:13:02	 @	23379 25636 :Current local users 23379, max 25636
+2016-02-15 14:13:02	 @	23379 25636 :Current global users 23379, max 25636
+2016-02-15 14:13:02	 @	- irc.broke-it.com Message of the Day -
+2016-02-15 14:13:02	 @	-    Welcome to irc.broke-it.com
+2016-02-15 14:13:02	 @	-
+2016-02-15 14:13:02	 @	-         Now its time for **UPDATED** conversational spanish with grimlock
+2016-02-15 14:13:02	 @	-
+2016-02-15 14:13:02	 @	-    Las ardillas. Me persiguen. Quieren mis tuercas pero no pueden tenerlas.
+2016-02-15 14:13:02	 @	-
+2016-02-15 14:13:02	 @	-    no habla? the squirrels. they chase me. they want my nuts but they
+2016-02-15 14:13:02	 @	-    can not have them.
+2016-02-15 14:13:02	 @	-
+2016-02-15 14:13:02	 @	-    El gato en mi pantalones, quiere mi burrito. Pero el no puede
+2016-02-15 14:13:02	 @	-    tenerlo. No compartire con el.
+2016-02-15 14:13:02	 @	-
+2016-02-15 14:13:02	 @	-    Still no habla? the cat in my pants, he wants my burrito. But he can
+2016-02-15 14:13:02	 @	-    not have it. I will not share with him.
+2016-02-15 14:13:02	 @	-
+2016-02-15 14:13:02	 @	-    Por que el perro que lame mis bolas? Debo de haber banado en mantequilla
+2016-02-15 14:13:02	 @	-    de mani de nuevo ...
+2016-02-15 14:13:02	 @	-
+2016-02-15 14:13:02	 @	-    Really!?!? No habla?! You really need to work on your spanglish skills..
+2016-02-15 14:13:02	 @	-    Why is the dog licking my balls? I must have bathed in peanut butter
+2016-02-15 14:13:02	 @	-    again...
+2016-02-15 14:13:02	 @	-
+2016-02-15 14:13:02	 @	-    Cuando salgo de la peluqueria despues de tener mi espalda afeitado, me
+2016-02-15 14:13:02	 @	-    doy cuenta de que seria mucho mas barato tener un rebano de cabras.
+2016-02-15 14:13:02	 @	-
+2016-02-15 14:13:02	 @	-    You really need to sign up for my formal spanish lessons.  I can teach
+2016-02-15 14:13:02	 @	-    many more useful phrases phrases!  When I leave the barber after having
+2016-02-15 14:13:02	 @	-    my back shaved, I realize it would be much cheaper to own a herd of goats.
+2016-02-15 14:13:02	 @	-
+2016-02-15 14:13:02	 @	-    Usted dice que el tomate, digo que me gusta la leche con chocolate y
+2016-02-15 14:13:02	 @	-    panecillos. Has visto a mi cepillo de dientes?
+2016-02-15 14:13:02	 @	-
+2016-02-15 14:13:02	 @	-    My lesson rates are very reasonable!  I can teach you to splanglish like
+2016-02-15 14:13:02	 @	-    I do!  You say tomato, I say I like chocolate milk and bagels.  Have you
+2016-02-15 14:13:02	 @	-    seen my toothbrush?
+2016-02-15 14:13:02	 @	-
+2016-02-15 14:13:02	 @	-    mi escroto es como un helicóptero de dolor. no recibir un golpe en el oj
+2016-02-15 14:13:02	 @	-    o con esa mierda.
+2016-02-15 14:13:02	 @	-
+2016-02-15 14:13:02	 @	-    I am considering expanding my lessons to french.  Did you know I spoke
+2016-02-15 14:13:02	 @	-    french?  I speak it quite well.  My ball sack is like a helicopter of pain.
+2016-02-15 14:13:02	 @	-    Do not get hit in the eye with that shit.
+2016-02-15 14:13:02	 @	-
+2016-02-15 14:13:02	 @	-         This has been conversational spanish with grimlock, time for
+2016-02-15 14:13:02	 @	-         something more serious.
+2016-02-15 14:13:02	 @	-
+2016-02-15 14:13:02	 @	-          oo                            
+2016-02-15 14:13:02	 @	-
+2016-02-15 14:13:02	 @	- 88d888b. dP d888888b .d8888b. 88d888b. 
+2016-02-15 14:13:02	 @	- 88'  `88 88    .d8P' 88'  `88 88'  `88 
+2016-02-15 14:13:02	 @	- 88       88  .Y8P    88.  .88 88    88 
+2016-02-15 14:13:02	 @	- dP       dP d888888P `88888P' dP    dP
+2016-02-15 14:13:02	 @	-
+2016-02-15 14:13:02	 @	- Rizon Chat Network -- http://rizon.net
+2016-02-15 14:13:02	 @	-
+2016-02-15 14:13:02	 @	- Listening on ports: 6660 - 6669, 7000. SSL: 6697, 9999
+2016-02-15 14:13:02	 @	-
+2016-02-15 14:13:02	 @	- Rules:
+2016-02-15 14:13:02	 @	- o No spamming or flooding
+2016-02-15 14:13:02	 @	- o No clones or malicious bots
+2016-02-15 14:13:02	 @	- o No takeovers
+2016-02-15 14:13:02	 @	- o No distribution of child pornography
+2016-02-15 14:13:02	 @	- o Clients must respond to VERSION requests
+2016-02-15 14:13:02	 @	- o Rizon staff may disconnect clients for any or no reason
+2016-02-15 14:13:02	 @	-
+2016-02-15 14:13:02	 @	- First steps:
+2016-02-15 14:13:02	 @	- o To register your nick: /msg NickServ HELP
+2016-02-15 14:13:02	 @	- o To register your channel: /msg ChanServ HELP
+2016-02-15 14:13:02	 @	- o To get a vHost: /msg HostServ HELP REQUEST
+2016-02-15 14:13:02	 @	- o For other help with Rizon: /join #help
+2016-02-15 14:13:02	 @	-
+2016-02-15 14:13:02	 @	- Usage of this network is a privilege, not a right. Rizon is a
+2016-02-15 14:13:02	 @	- transit provider, therefore no person or entity involved with
+2016-02-15 14:13:02	 @	- *.rizon.net or irc.broke-it.com takes any responsibility for
+2016-02-15 14:13:02	 @	- users' actions. Absolutely no warranty is expressed or implied.
+2016-02-15 14:13:02	 @	End of /MOTD command.
+2016-02-15 14:13:02	 @	User mode [+ix] by michael
+2016-02-15 14:13:02	 @	CTCP requested by py-ctcp: VERSION
+2016-02-15 14:13:02	 @	CTCP reply to py-ctcp: VERSION WeeChat 1.4 (Feb  2 2016)
+2016-02-15 14:13:02	 @	Global (service@rizon.net): [Logon News - May 21 2011] First time on Rizon? Be sure to read the FAQ! http://s.rizon.net/FAQ
+2016-02-15 14:13:02	 @	Global (service@rizon.net): [Logon News - Dec 16 2013] Own a large/active channel or plan to get one going? Please read http://s.rizon.net/authline
+2016-02-15 14:13:02	 @	Global (service@rizon.net): [Logon News - Dec 21 2015] Ready for a Rizon style Christmas decoration? Read http://s.rizon.net/xmas
+2016-02-15 14:13:02	 @	Global (service@rizon.net): [Random News - Nov 29 2013] Want to make your vhost shiny by adding colors to it? Try your luck in #VIzon
+2016-02-15 14:13:02	 @	NickServ (service@rizon.net): This nickname is registered and protected. If it is your
+2016-02-15 14:13:02	 @	NickServ (service@rizon.net): nick, type /msg NickServ IDENTIFY password. Otherwise,
+2016-02-15 14:13:02	 @	NickServ (service@rizon.net): please choose a different nick.
+2016-02-15 14:13:02	 @	NickServ (service@rizon.net): If you do not change within 20 seconds, I will change your nick.
+2016-02-15 14:13:02	 @	peer (service@rizon.net): For network safety, your client is being scanned for open proxies by scanner.rizon.net (80.65.51.221). This scan will not harm your computer.
+2016-02-15 14:13:21	 @	irc: connecting to server irc.rizon.net/6667...
+2016-02-15 14:13:22	 @	irc: connected to irc.rizon.net/6667 (23.251.154.162)
+2016-02-15 14:13:22	 @	irc.rizon.sexy: *** Looking up your hostname...
+2016-02-15 14:13:22	 @	irc.rizon.sexy: *** Checking Ident
+2016-02-15 14:13:22	 @	irc.rizon.sexy: *** Found your hostname
+2016-02-15 14:13:24	 @	irc.rizon.sexy: *** No Ident response
+2016-02-15 14:13:24	 @	irc.rizon.sexy: *** Your host is masked (Rizon-71E5EF26.ph.ph.cox.net)
+2016-02-15 14:13:24	 @	Welcome to the Rizon Internet Relay Chat Network michael
+2016-02-15 14:13:24	 @	Your host is irc.rizon.sexy, running version plexus-4(hybrid-8.1.20)
+2016-02-15 14:13:24	 @	This server was created Feb  9 2016 at 01:06:06
+2016-02-15 14:13:24	 @	irc.rizon.sexy plexus-4(hybrid-8.1.20) CDGNRSUWagilopqrswxyz BCIMNORSabcehiklmnopqstvz Iabehkloqv
+2016-02-15 14:13:24	 @	CALLERID CASEMAPPING=rfc1459 DEAF=D KICKLEN=180 MODES=4 PREFIX=(qaohv)~&@%+ STATUSMSG=~&@%+ EXCEPTS=e INVEX=I NICKLEN=30 NETWORK=Rizon MAXLIST=beI:250 MAXTARGETS=4 :are supported by this server
+2016-02-15 14:13:24	 @	CHANTYPES=# CHANLIMIT=#:500 CHANNELLEN=50 TOPICLEN=390 CHANMODES=beI,k,l,BCMNORScimnpstz AWAYLEN=180 WATCH=60 NAMESX UHNAMES KNOCK ELIST=CMNTU SAFELIST :are supported by this server
+2016-02-15 14:13:24	 @	There are 29 users and 23347 invisible on 13 servers
+2016-02-15 14:13:24	 @	58 :IRC Operators online
+2016-02-15 14:13:24	 @	1 :unknown connection(s)
+2016-02-15 14:13:24	 @	20741 :channels formed
+2016-02-15 14:13:24	 @	I have 23376 clients and 13 servers
+2016-02-15 14:13:24	 @	Current local users: 23376  Max: 24206
+2016-02-15 14:13:24	 @	Current global users: 23376  Max: 24206
+2016-02-15 14:13:24	 @	- irc.rizon.sexy Message of the Day -
+2016-02-15 14:13:24	 @	-          oo                            
+2016-02-15 14:13:24	 @	-
+2016-02-15 14:13:24	 @	- 88d888b. dP d888888b .d8888b. 88d888b. 
+2016-02-15 14:13:24	 @	- 88'  `88 88    .d8P' 88'  `88 88'  `88 
+2016-02-15 14:13:24	 @	- 88       88  .Y8P    88.  .88 88    88 
+2016-02-15 14:13:24	 @	- dP       dP d888888P `88888P' dP    dP
+2016-02-15 14:13:24	 @	-
+2016-02-15 14:13:24	 @	- Rizon Chat Network -- http://rizon.net
+2016-02-15 14:13:24	 @	-
+2016-02-15 14:13:24	 @	- Listening on ports: 6660 - 6669, 7000. SSL: 6697, 9999
+2016-02-15 14:13:24	 @	-
+2016-02-15 14:13:24	 @	- Rules:
+2016-02-15 14:13:24	 @	- o No spamming or flooding
+2016-02-15 14:13:24	 @	- o No clones or malicious bots
+2016-02-15 14:13:24	 @	- o No takeovers
+2016-02-15 14:13:24	 @	- o No distribution of child pornography
+2016-02-15 14:13:24	 @	- o Clients must respond to VERSION requests
+2016-02-15 14:13:24	 @	- o Rizon staff may disconnect clients for any or no reason
+2016-02-15 14:13:24	 @	-
+2016-02-15 14:13:24	 @	- First steps:
+2016-02-15 14:13:24	 @	- o To register your nick: /msg NickServ HELP
+2016-02-15 14:13:24	 @	- o To register your channel: /msg ChanServ HELP
+2016-02-15 14:13:24	 @	- o To get a vHost: /msg HostServ HELP REQUEST
+2016-02-15 14:13:24	 @	- o For other help with Rizon: /join #help
+2016-02-15 14:13:24	 @	-
+2016-02-15 14:13:24	 @	- Usage of this network is a privilege, not a right. Rizon is a
+2016-02-15 14:13:24	 @	- transit provider, therefore no person or entity involved with
+2016-02-15 14:13:24	 @	- *.rizon.net or irc.rizon.sexy takes any responsibility for
+2016-02-15 14:13:24	 @	- users' actions. Absolutely no warranty is expressed or implied.
+2016-02-15 14:13:24	 @	End of /MOTD command.
+2016-02-15 14:13:24	 @	User mode [+ix] by michael
+2016-02-15 14:13:24	 @	Global (service@rizon.net): [Logon News - May 21 2011] First time on Rizon? Be sure to read the FAQ! http://s.rizon.net/FAQ
+2016-02-15 14:13:24	 @	Global (service@rizon.net): [Logon News - Dec 16 2013] Own a large/active channel or plan to get one going? Please read http://s.rizon.net/authline
+2016-02-15 14:13:24	 @	Global (service@rizon.net): [Logon News - Dec 21 2015] Ready for a Rizon style Christmas decoration? Read http://s.rizon.net/xmas
+2016-02-15 14:13:24	 @	Global (service@rizon.net): [Random News - May 07 2013] Looking for a quotes, trivia, or other extra bots? /msg funserv help
+2016-02-15 14:13:24	 @	NickServ (service@rizon.net): This nickname is registered and protected. If it is your
+2016-02-15 14:13:24	 @	NickServ (service@rizon.net): nick, type /msg NickServ IDENTIFY password. Otherwise,
+2016-02-15 14:13:24	 @	NickServ (service@rizon.net): please choose a different nick.
+2016-02-15 14:13:24	 @	NickServ (service@rizon.net): If you do not change within 20 seconds, I will change your nick.
+2016-02-15 14:13:24	 @	CTCP requested by py-ctcp: VERSION
+2016-02-15 14:13:24	 @	CTCP reply to py-ctcp: VERSION WeeChat 1.4 (Feb  2 2016)
+2016-02-15 14:13:28	 @	You are now known as trumpster
+2016-02-15 14:13:28	 @	NickServ (service@rizon.net): This nickname is registered and protected. If it is your
+2016-02-15 14:13:28	 @	NickServ (service@rizon.net): nick, type /msg NickServ IDENTIFY password. Otherwise,
+2016-02-15 14:13:28	 @	NickServ (service@rizon.net): please choose a different nick.
+2016-02-15 14:13:41	 @	MSG(nickserv): ID ********
+2016-02-15 14:13:42	 @	User mode [+r] by trumpster
+2016-02-15 14:13:42	 @	NickServ (service@rizon.net): Password accepted - you are now recognized.
+2016-02-15 18:21:38	 @	irc: connecting to server irc.rizon.net/6667...
+2016-02-15 18:21:38	 @	irc: connected to irc.rizon.net/6667 (76.72.161.18)
+2016-02-15 18:21:38	 @	* :Please wait while we process your connection.
+2016-02-15 18:21:38	 @	irc.broke-it.com: *** Looking up your hostname...
+2016-02-15 18:21:38	 @	irc.broke-it.com: *** Checking Ident
+2016-02-15 18:21:38	 @	irc.broke-it.com: *** Found your hostname
+2016-02-15 18:21:40	 @	irc.broke-it.com: *** No Ident response
+2016-02-15 18:21:40	 @	irc.broke-it.com: *** Your host is masked (Rizon-71E5EF26.ph.ph.cox.net)
+2016-02-15 18:21:40	 @	Welcome to the Rizon Internet Relay Chat Network michael
+2016-02-15 18:21:40	 @	Your host is irc.broke-it.com, running version hybrid-7.2.3+plexus-3.1.0(20151028_0-547)
+2016-02-15 18:21:40	 @	This server was created Dec 12 2015 at 20:07:55
+2016-02-15 18:21:40	 @	irc.broke-it.com hybrid-7.2.3+plexus-3.1.0(20151028_0-547) CDFGNRSUWXabcdfgijklnopqrsuwxyz BIMNORSabcehiklmnopqstvz Iabehkloqv
+2016-02-15 18:21:40	 @	CALLERID CASEMAPPING=rfc1459 DEAF=D KICKLEN=160 MODES=4 NICKLEN=30 TOPICLEN=390 PREFIX=(qaohv)~&@%+ STATUSMSG=~&@%+ NETWORK=Rizon MAXLIST=beI:250 TARGMAX=ACCEPT:,KICK:1,LIST:1,NAMES:1,NOTICE:4,PRIVMSG:4,WHOIS:1 CHANTYPES=# :are supported by this server
+2016-02-15 18:21:40	 @	CHANLIMIT=#:75 CHANNELLEN=50 CHANMODES=beI,k,l,BCMNORScimnpstz AWAYLEN=160 KNOCK NAMESX UHNAMES ELIST=CMNTU SAFELIST FNC EXCEPTS=e INVEX=I :are supported by this server
+2016-02-15 18:21:40	 @	90CAAHWW2 :your unique ID
+2016-02-15 18:21:40	 @	There are 31 users and 22233 invisible on 13 servers
+2016-02-15 18:21:40	 @	58 :IRC Operators online
+2016-02-15 18:21:40	 @	4 :unknown connection(s)
+2016-02-15 18:21:40	 @	20656 :channels formed
+2016-02-15 18:21:40	 @	I have 22264 clients and 13 servers
+2016-02-15 18:21:40	 @	22264 25636 :Current local users 22264, max 25636
+2016-02-15 18:21:40	 @	22264 25636 :Current global users 22264, max 25636
+2016-02-15 18:21:40	 @	- irc.broke-it.com Message of the Day -
+2016-02-15 18:21:40	 @	-    Welcome to irc.broke-it.com
+2016-02-15 18:21:40	 @	-
+2016-02-15 18:21:40	 @	-         Now its time for **UPDATED** conversational spanish with grimlock
+2016-02-15 18:21:40	 @	-
+2016-02-15 18:21:40	 @	-    Las ardillas. Me persiguen. Quieren mis tuercas pero no pueden tenerlas.
+2016-02-15 18:21:40	 @	-
+2016-02-15 18:21:40	 @	-    no habla? the squirrels. they chase me. they want my nuts but they
+2016-02-15 18:21:40	 @	-    can not have them.
+2016-02-15 18:21:40	 @	-
+2016-02-15 18:21:40	 @	-    El gato en mi pantalones, quiere mi burrito. Pero el no puede
+2016-02-15 18:21:40	 @	-    tenerlo. No compartire con el.
+2016-02-15 18:21:40	 @	-
+2016-02-15 18:21:40	 @	-    Still no habla? the cat in my pants, he wants my burrito. But he can
+2016-02-15 18:21:40	 @	-    not have it. I will not share with him.
+2016-02-15 18:21:40	 @	-
+2016-02-15 18:21:40	 @	-    Por que el perro que lame mis bolas? Debo de haber banado en mantequilla
+2016-02-15 18:21:40	 @	-    de mani de nuevo ...
+2016-02-15 18:21:40	 @	-
+2016-02-15 18:21:40	 @	-    Really!?!? No habla?! You really need to work on your spanglish skills..
+2016-02-15 18:21:40	 @	-    Why is the dog licking my balls? I must have bathed in peanut butter
+2016-02-15 18:21:40	 @	-    again...
+2016-02-15 18:21:40	 @	-
+2016-02-15 18:21:40	 @	-    Cuando salgo de la peluqueria despues de tener mi espalda afeitado, me
+2016-02-15 18:21:40	 @	-    doy cuenta de que seria mucho mas barato tener un rebano de cabras.
+2016-02-15 18:21:40	 @	-
+2016-02-15 18:21:40	 @	-    You really need to sign up for my formal spanish lessons.  I can teach
+2016-02-15 18:21:40	 @	-    many more useful phrases phrases!  When I leave the barber after having
+2016-02-15 18:21:40	 @	-    my back shaved, I realize it would be much cheaper to own a herd of goats.
+2016-02-15 18:21:40	 @	-
+2016-02-15 18:21:40	 @	-    Usted dice que el tomate, digo que me gusta la leche con chocolate y
+2016-02-15 18:21:40	 @	-    panecillos. Has visto a mi cepillo de dientes?
+2016-02-15 18:21:40	 @	-
+2016-02-15 18:21:40	 @	-    My lesson rates are very reasonable!  I can teach you to splanglish like
+2016-02-15 18:21:40	 @	-    I do!  You say tomato, I say I like chocolate milk and bagels.  Have you
+2016-02-15 18:21:40	 @	-    seen my toothbrush?
+2016-02-15 18:21:40	 @	-
+2016-02-15 18:21:40	 @	-    mi escroto es como un helicóptero de dolor. no recibir un golpe en el oj
+2016-02-15 18:21:40	 @	-    o con esa mierda.
+2016-02-15 18:21:40	 @	-
+2016-02-15 18:21:40	 @	-    I am considering expanding my lessons to french.  Did you know I spoke
+2016-02-15 18:21:40	 @	-    french?  I speak it quite well.  My ball sack is like a helicopter of pain.
+2016-02-15 18:21:40	 @	-    Do not get hit in the eye with that shit.
+2016-02-15 18:21:40	 @	-
+2016-02-15 18:21:40	 @	-         This has been conversational spanish with grimlock, time for
+2016-02-15 18:21:40	 @	-         something more serious.
+2016-02-15 18:21:40	 @	-
+2016-02-15 18:21:40	 @	-          oo                            
+2016-02-15 18:21:40	 @	-
+2016-02-15 18:21:40	 @	- 88d888b. dP d888888b .d8888b. 88d888b. 
+2016-02-15 18:21:40	 @	- 88'  `88 88    .d8P' 88'  `88 88'  `88 
+2016-02-15 18:21:40	 @	- 88       88  .Y8P    88.  .88 88    88 
+2016-02-15 18:21:40	 @	- dP       dP d888888P `88888P' dP    dP
+2016-02-15 18:21:40	 @	-
+2016-02-15 18:21:40	 @	- Rizon Chat Network -- http://rizon.net
+2016-02-15 18:21:40	 @	-
+2016-02-15 18:21:40	 @	- Listening on ports: 6660 - 6669, 7000. SSL: 6697, 9999
+2016-02-15 18:21:40	 @	-
+2016-02-15 18:21:40	 @	- Rules:
+2016-02-15 18:21:40	 @	- o No spamming or flooding
+2016-02-15 18:21:40	 @	- o No clones or malicious bots
+2016-02-15 18:21:40	 @	- o No takeovers
+2016-02-15 18:21:40	 @	- o No distribution of child pornography
+2016-02-15 18:21:40	 @	- o Clients must respond to VERSION requests
+2016-02-15 18:21:40	 @	- o Rizon staff may disconnect clients for any or no reason
+2016-02-15 18:21:40	 @	-
+2016-02-15 18:21:40	 @	- First steps:
+2016-02-15 18:21:40	 @	- o To register your nick: /msg NickServ HELP
+2016-02-15 18:21:40	 @	- o To register your channel: /msg ChanServ HELP
+2016-02-15 18:21:40	 @	- o To get a vHost: /msg HostServ HELP REQUEST
+2016-02-15 18:21:40	 @	- o For other help with Rizon: /join #help
+2016-02-15 18:21:40	 @	-
+2016-02-15 18:21:40	 @	- Usage of this network is a privilege, not a right. Rizon is a
+2016-02-15 18:21:40	 @	- transit provider, therefore no person or entity involved with
+2016-02-15 18:21:40	 @	- *.rizon.net or irc.broke-it.com takes any responsibility for
+2016-02-15 18:21:40	 @	- users' actions. Absolutely no warranty is expressed or implied.
+2016-02-15 18:21:40	 @	End of /MOTD command.
+2016-02-15 18:21:40	 @	User mode [+ix] by michael
+2016-02-15 18:21:40	 @	CTCP requested by py-ctcp: VERSION
+2016-02-15 18:21:40	 @	CTCP reply to py-ctcp: VERSION WeeChat 1.4 (Feb  2 2016)
+2016-02-15 18:21:40	 @	Global (service@rizon.net): [Logon News - May 21 2011] First time on Rizon? Be sure to read the FAQ! http://s.rizon.net/FAQ
+2016-02-15 18:21:40	 @	Global (service@rizon.net): [Logon News - Dec 16 2013] Own a large/active channel or plan to get one going? Please read http://s.rizon.net/authline
+2016-02-15 18:21:40	 @	Global (service@rizon.net): [Logon News - Dec 21 2015] Ready for a Rizon style Christmas decoration? Read http://s.rizon.net/xmas
+2016-02-15 18:21:40	 @	Global (service@rizon.net): [Random News - Mar 20 2009] Idle on Rizon a lot? Why not play our idlerpg game, you can check it out at #RizonIRPG for more information visit the website http://idlerpg.rizon.net -Rizon Staff
+2016-02-15 18:21:40	 @	NickServ (service@rizon.net): This nickname is registered and protected. If it is your
+2016-02-15 18:21:40	 @	NickServ (service@rizon.net): nick, type /msg NickServ IDENTIFY password. Otherwise,
+2016-02-15 18:21:40	 @	NickServ (service@rizon.net): please choose a different nick.
+2016-02-15 18:21:40	 @	NickServ (service@rizon.net): If you do not change within 20 seconds, I will change your nick.
+2016-02-15 18:21:40	 @	peer (service@rizon.net): For network safety, your client is being scanned for open proxies by scanner.rizon.net (80.65.51.221). This scan will not harm your computer.
+2016-02-15 18:21:43	 @	#rice: You need to identify to a registered nick to join that channel. Check /msg nickserv help register
+2016-02-15 18:21:49	 @	You are now known as trumpster
+2016-02-15 18:21:50	 @	NickServ (service@rizon.net): This nickname is registered and protected. If it is your
+2016-02-15 18:21:50	 @	NickServ (service@rizon.net): nick, type /msg NickServ IDENTIFY password. Otherwise,
+2016-02-15 18:21:50	 @	NickServ (service@rizon.net): please choose a different nick.
+2016-02-15 18:22:10	 @	MSG(NickServ): IDENTIFY ********
+2016-02-15 18:22:10	 @	User mode [+r] by trumpster
+2016-02-15 18:22:10	 @	NickServ (service@rizon.net): Password accepted - you are now recognized.
+2016-02-15 18:54:52	 @	irc: connecting to server irc.rizon.net/6667...
+2016-02-15 18:54:52	 @	irc: connected to irc.rizon.net/6667 (23.251.154.162)
+2016-02-15 18:54:52	 @	irc.rizon.sexy: *** Looking up your hostname...
+2016-02-15 18:54:52	 @	irc.rizon.sexy: *** Checking Ident
+2016-02-15 18:54:52	 @	irc.rizon.sexy: *** Found your hostname
+2016-02-15 18:54:54	 @	irc.rizon.sexy: *** No Ident response
+2016-02-15 18:54:54	 @	irc.rizon.sexy: *** Your host is masked (Rizon-71E5EF26.ph.ph.cox.net)
+2016-02-15 18:54:54	 @	Welcome to the Rizon Internet Relay Chat Network michael
+2016-02-15 18:54:54	 @	Your host is irc.rizon.sexy, running version plexus-4(hybrid-8.1.20)
+2016-02-15 18:54:54	 @	This server was created Feb  9 2016 at 01:06:06
+2016-02-15 18:54:54	 @	irc.rizon.sexy plexus-4(hybrid-8.1.20) CDGNRSUWagilopqrswxyz BCIMNORSabcehiklmnopqstvz Iabehkloqv
+2016-02-15 18:54:54	 @	CALLERID CASEMAPPING=rfc1459 DEAF=D KICKLEN=180 MODES=4 PREFIX=(qaohv)~&@%+ STATUSMSG=~&@%+ EXCEPTS=e INVEX=I NICKLEN=30 NETWORK=Rizon MAXLIST=beI:250 MAXTARGETS=4 :are supported by this server
+2016-02-15 18:54:54	 @	CHANTYPES=# CHANLIMIT=#:500 CHANNELLEN=50 TOPICLEN=390 CHANMODES=beI,k,l,BCMNORScimnpstz AWAYLEN=180 WATCH=60 NAMESX UHNAMES KNOCK ELIST=CMNTU SAFELIST :are supported by this server
+2016-02-15 18:54:54	 @	There are 29 users and 22160 invisible on 13 servers
+2016-02-15 18:54:54	 @	58 :IRC Operators online
+2016-02-15 18:54:54	 @	4 :unknown connection(s)
+2016-02-15 18:54:54	 @	20622 :channels formed
+2016-02-15 18:54:54	 @	I have 22189 clients and 13 servers
+2016-02-15 18:54:54	 @	Current local users: 22189  Max: 24206
+2016-02-15 18:54:54	 @	Current global users: 22189  Max: 24206
+2016-02-15 18:54:54	 @	- irc.rizon.sexy Message of the Day -
+2016-02-15 18:54:54	 @	-          oo                            
+2016-02-15 18:54:54	 @	-
+2016-02-15 18:54:54	 @	- 88d888b. dP d888888b .d8888b. 88d888b. 
+2016-02-15 18:54:54	 @	- 88'  `88 88    .d8P' 88'  `88 88'  `88 
+2016-02-15 18:54:54	 @	- 88       88  .Y8P    88.  .88 88    88 
+2016-02-15 18:54:54	 @	- dP       dP d888888P `88888P' dP    dP
+2016-02-15 18:54:54	 @	-
+2016-02-15 18:54:54	 @	- Rizon Chat Network -- http://rizon.net
+2016-02-15 18:54:54	 @	-
+2016-02-15 18:54:54	 @	- Listening on ports: 6660 - 6669, 7000. SSL: 6697, 9999
+2016-02-15 18:54:54	 @	-
+2016-02-15 18:54:54	 @	- Rules:
+2016-02-15 18:54:54	 @	- o No spamming or flooding
+2016-02-15 18:54:54	 @	- o No clones or malicious bots
+2016-02-15 18:54:54	 @	- o No takeovers
+2016-02-15 18:54:54	 @	- o No distribution of child pornography
+2016-02-15 18:54:54	 @	- o Clients must respond to VERSION requests
+2016-02-15 18:54:54	 @	- o Rizon staff may disconnect clients for any or no reason
+2016-02-15 18:54:54	 @	-
+2016-02-15 18:54:54	 @	- First steps:
+2016-02-15 18:54:54	 @	- o To register your nick: /msg NickServ HELP
+2016-02-15 18:54:54	 @	- o To register your channel: /msg ChanServ HELP
+2016-02-15 18:54:54	 @	- o To get a vHost: /msg HostServ HELP REQUEST
+2016-02-15 18:54:54	 @	- o For other help with Rizon: /join #help
+2016-02-15 18:54:54	 @	-
+2016-02-15 18:54:54	 @	- Usage of this network is a privilege, not a right. Rizon is a
+2016-02-15 18:54:54	 @	- transit provider, therefore no person or entity involved with
+2016-02-15 18:54:54	 @	- *.rizon.net or irc.rizon.sexy takes any responsibility for
+2016-02-15 18:54:54	 @	- users' actions. Absolutely no warranty is expressed or implied.
+2016-02-15 18:54:54	 @	End of /MOTD command.
+2016-02-15 18:54:54	 @	User mode [+ix] by michael
+2016-02-15 18:54:54	 @	Global (service@rizon.net): [Logon News - May 21 2011] First time on Rizon? Be sure to read the FAQ! http://s.rizon.net/FAQ
+2016-02-15 18:54:54	 @	Global (service@rizon.net): [Logon News - Dec 16 2013] Own a large/active channel or plan to get one going? Please read http://s.rizon.net/authline
+2016-02-15 18:54:54	 @	Global (service@rizon.net): [Logon News - Dec 21 2015] Ready for a Rizon style Christmas decoration? Read http://s.rizon.net/xmas
+2016-02-15 18:54:54	 @	Global (service@rizon.net): [Random News - Nov 29 2013] Want to make your vhost shiny by adding colors to it? Try your luck in #VIzon
+2016-02-15 18:54:54	 @	NickServ (service@rizon.net): This nickname is registered and protected. If it is your
+2016-02-15 18:54:54	 @	NickServ (service@rizon.net): nick, type /msg NickServ IDENTIFY password. Otherwise,
+2016-02-15 18:54:54	 @	NickServ (service@rizon.net): please choose a different nick.
+2016-02-15 18:54:54	 @	NickServ (service@rizon.net): If you do not change within 20 seconds, I will change your nick.
+2016-02-15 18:54:54	 @	peer (service@rizon.net): For network safety, your client is being scanned for open proxies by scanner.rizon.net (80.65.51.220). This scan will not harm your computer.
+2016-02-15 18:54:54	 @	CTCP requested by py-ctcp: VERSION
+2016-02-15 18:54:54	 @	CTCP reply to py-ctcp: VERSION WeeChat 1.4 (Feb  2 2016)
+2016-02-15 18:55:00	 @	You are now known as trumpster
+2016-02-15 18:55:00	 @	NickServ (service@rizon.net): This nickname is registered and protected. If it is your
+2016-02-15 18:55:00	 @	NickServ (service@rizon.net): nick, type /msg NickServ IDENTIFY password. Otherwise,
+2016-02-15 18:55:00	 @	NickServ (service@rizon.net): please choose a different nick.
+2016-02-15 18:55:14	 @	MSG(NickServ): IDENTIFY ********
+2016-02-15 18:55:14	 @	User mode [+r] by trumpster
+2016-02-15 18:55:14	 @	NickServ (service@rizon.net): Password accepted - you are now recognized.
+2016-02-15 19:13:27	 @	irc: connecting to server irc.rizon.net/6667...
+2016-02-15 19:13:27	 @	irc: connected to irc.rizon.net/6667 (76.72.161.18)
+2016-02-15 19:13:27	 @	* :Please wait while we process your connection.
+2016-02-15 19:13:27	 @	irc.broke-it.com: *** Looking up your hostname...
+2016-02-15 19:13:27	 @	irc.broke-it.com: *** Checking Ident
+2016-02-15 19:13:27	 @	irc.broke-it.com: *** Found your hostname
+2016-02-15 19:13:29	 @	irc.broke-it.com: *** No Ident response
+2016-02-15 19:13:29	 @	irc.broke-it.com: *** Your host is masked (Rizon-71E5EF26.ph.ph.cox.net)
+2016-02-15 19:13:29	 @	Welcome to the Rizon Internet Relay Chat Network michael
+2016-02-15 19:13:29	 @	Your host is irc.broke-it.com, running version hybrid-7.2.3+plexus-3.1.0(20151028_0-547)
+2016-02-15 19:13:29	 @	This server was created Dec 12 2015 at 20:07:55
+2016-02-15 19:13:29	 @	irc.broke-it.com hybrid-7.2.3+plexus-3.1.0(20151028_0-547) CDFGNRSUWXabcdfgijklnopqrsuwxyz BIMNORSabcehiklmnopqstvz Iabehkloqv
+2016-02-15 19:13:29	 @	CALLERID CASEMAPPING=rfc1459 DEAF=D KICKLEN=160 MODES=4 NICKLEN=30 TOPICLEN=390 PREFIX=(qaohv)~&@%+ STATUSMSG=~&@%+ NETWORK=Rizon MAXLIST=beI:250 TARGMAX=ACCEPT:,KICK:1,LIST:1,NAMES:1,NOTICE:4,PRIVMSG:4,WHOIS:1 CHANTYPES=# :are supported by this server
+2016-02-15 19:13:29	 @	CHANLIMIT=#:75 CHANNELLEN=50 CHANMODES=beI,k,l,BCMNORScimnpstz AWAYLEN=160 KNOCK NAMESX UHNAMES ELIST=CMNTU SAFELIST FNC EXCEPTS=e INVEX=I :are supported by this server
+2016-02-15 19:13:29	 @	90CAAHW5M :your unique ID
+2016-02-15 19:13:29	 @	There are 30 users and 22147 invisible on 13 servers
+2016-02-15 19:13:29	 @	58 :IRC Operators online
+2016-02-15 19:13:29	 @	9 :unknown connection(s)
+2016-02-15 19:13:29	 @	20622 :channels formed
+2016-02-15 19:13:29	 @	I have 22177 clients and 13 servers
+2016-02-15 19:13:29	 @	22177 25636 :Current local users 22177, max 25636
+2016-02-15 19:13:29	 @	22177 25636 :Current global users 22177, max 25636
+2016-02-15 19:13:29	 @	- irc.broke-it.com Message of the Day -
+2016-02-15 19:13:29	 @	-    Welcome to irc.broke-it.com
+2016-02-15 19:13:29	 @	-
+2016-02-15 19:13:29	 @	-         Now its time for **UPDATED** conversational spanish with grimlock
+2016-02-15 19:13:29	 @	-
+2016-02-15 19:13:29	 @	-    Las ardillas. Me persiguen. Quieren mis tuercas pero no pueden tenerlas.
+2016-02-15 19:13:29	 @	-
+2016-02-15 19:13:29	 @	-    no habla? the squirrels. they chase me. they want my nuts but they
+2016-02-15 19:13:29	 @	-    can not have them.
+2016-02-15 19:13:29	 @	-
+2016-02-15 19:13:29	 @	-    El gato en mi pantalones, quiere mi burrito. Pero el no puede
+2016-02-15 19:13:29	 @	-    tenerlo. No compartire con el.
+2016-02-15 19:13:29	 @	-
+2016-02-15 19:13:29	 @	-    Still no habla? the cat in my pants, he wants my burrito. But he can
+2016-02-15 19:13:29	 @	-    not have it. I will not share with him.
+2016-02-15 19:13:29	 @	-
+2016-02-15 19:13:29	 @	-    Por que el perro que lame mis bolas? Debo de haber banado en mantequilla
+2016-02-15 19:13:29	 @	-    de mani de nuevo ...
+2016-02-15 19:13:29	 @	-
+2016-02-15 19:13:29	 @	-    Really!?!? No habla?! You really need to work on your spanglish skills..
+2016-02-15 19:13:29	 @	-    Why is the dog licking my balls? I must have bathed in peanut butter
+2016-02-15 19:13:29	 @	-    again...
+2016-02-15 19:13:29	 @	-
+2016-02-15 19:13:29	 @	-    Cuando salgo de la peluqueria despues de tener mi espalda afeitado, me
+2016-02-15 19:13:29	 @	-    doy cuenta de que seria mucho mas barato tener un rebano de cabras.
+2016-02-15 19:13:29	 @	-
+2016-02-15 19:13:29	 @	-    You really need to sign up for my formal spanish lessons.  I can teach
+2016-02-15 19:13:29	 @	-    many more useful phrases phrases!  When I leave the barber after having
+2016-02-15 19:13:29	 @	-    my back shaved, I realize it would be much cheaper to own a herd of goats.
+2016-02-15 19:13:29	 @	-
+2016-02-15 19:13:29	 @	-    Usted dice que el tomate, digo que me gusta la leche con chocolate y
+2016-02-15 19:13:29	 @	-    panecillos. Has visto a mi cepillo de dientes?
+2016-02-15 19:13:29	 @	-
+2016-02-15 19:13:29	 @	-    My lesson rates are very reasonable!  I can teach you to splanglish like
+2016-02-15 19:13:29	 @	-    I do!  You say tomato, I say I like chocolate milk and bagels.  Have you
+2016-02-15 19:13:29	 @	-    seen my toothbrush?
+2016-02-15 19:13:29	 @	-
+2016-02-15 19:13:29	 @	-    mi escroto es como un helicóptero de dolor. no recibir un golpe en el oj
+2016-02-15 19:13:29	 @	-    o con esa mierda.
+2016-02-15 19:13:29	 @	-
+2016-02-15 19:13:29	 @	-    I am considering expanding my lessons to french.  Did you know I spoke
+2016-02-15 19:13:29	 @	-    french?  I speak it quite well.  My ball sack is like a helicopter of pain.
+2016-02-15 19:13:29	 @	-    Do not get hit in the eye with that shit.
+2016-02-15 19:13:29	 @	-
+2016-02-15 19:13:29	 @	-         This has been conversational spanish with grimlock, time for
+2016-02-15 19:13:29	 @	-         something more serious.
+2016-02-15 19:13:29	 @	-
+2016-02-15 19:13:29	 @	-          oo                            
+2016-02-15 19:13:29	 @	-
+2016-02-15 19:13:29	 @	- 88d888b. dP d888888b .d8888b. 88d888b. 
+2016-02-15 19:13:29	 @	- 88'  `88 88    .d8P' 88'  `88 88'  `88 
+2016-02-15 19:13:29	 @	- 88       88  .Y8P    88.  .88 88    88 
+2016-02-15 19:13:29	 @	- dP       dP d888888P `88888P' dP    dP
+2016-02-15 19:13:29	 @	-
+2016-02-15 19:13:29	 @	- Rizon Chat Network -- http://rizon.net
+2016-02-15 19:13:29	 @	-
+2016-02-15 19:13:29	 @	- Listening on ports: 6660 - 6669, 7000. SSL: 6697, 9999
+2016-02-15 19:13:29	 @	-
+2016-02-15 19:13:29	 @	- Rules:
+2016-02-15 19:13:29	 @	- o No spamming or flooding
+2016-02-15 19:13:29	 @	- o No clones or malicious bots
+2016-02-15 19:13:29	 @	- o No takeovers
+2016-02-15 19:13:29	 @	- o No distribution of child pornography
+2016-02-15 19:13:29	 @	- o Clients must respond to VERSION requests
+2016-02-15 19:13:29	 @	- o Rizon staff may disconnect clients for any or no reason
+2016-02-15 19:13:29	 @	-
+2016-02-15 19:13:29	 @	- First steps:
+2016-02-15 19:13:29	 @	- o To register your nick: /msg NickServ HELP
+2016-02-15 19:13:29	 @	- o To register your channel: /msg ChanServ HELP
+2016-02-15 19:13:29	 @	- o To get a vHost: /msg HostServ HELP REQUEST
+2016-02-15 19:13:29	 @	- o For other help with Rizon: /join #help
+2016-02-15 19:13:29	 @	-
+2016-02-15 19:13:29	 @	- Usage of this network is a privilege, not a right. Rizon is a
+2016-02-15 19:13:29	 @	- transit provider, therefore no person or entity involved with
+2016-02-15 19:13:29	 @	- *.rizon.net or irc.broke-it.com takes any responsibility for
+2016-02-15 19:13:29	 @	- users' actions. Absolutely no warranty is expressed or implied.
+2016-02-15 19:13:29	 @	End of /MOTD command.
+2016-02-15 19:13:29	 @	User mode [+ix] by michael
+2016-02-15 19:13:29	 @	CTCP requested by py-ctcp: VERSION
+2016-02-15 19:13:29	 @	CTCP reply to py-ctcp: VERSION WeeChat 1.4 (Feb  2 2016)
+2016-02-15 19:13:29	 @	Global (service@rizon.net): [Logon News - May 21 2011] First time on Rizon? Be sure to read the FAQ! http://s.rizon.net/FAQ
+2016-02-15 19:13:29	 @	Global (service@rizon.net): [Logon News - Dec 16 2013] Own a large/active channel or plan to get one going? Please read http://s.rizon.net/authline
+2016-02-15 19:13:29	 @	Global (service@rizon.net): [Logon News - Dec 21 2015] Ready for a Rizon style Christmas decoration? Read http://s.rizon.net/xmas
+2016-02-15 19:13:29	 @	Global (service@rizon.net): [Random News - May 07 2013] Looking for a quotes, trivia, or other extra bots? /msg funserv help
+2016-02-15 19:13:29	 @	NickServ (service@rizon.net): This nickname is registered and protected. If it is your
+2016-02-15 19:13:29	 @	NickServ (service@rizon.net): nick, type /msg NickServ IDENTIFY password. Otherwise,
+2016-02-15 19:13:29	 @	NickServ (service@rizon.net): please choose a different nick.
+2016-02-15 19:13:29	 @	NickServ (service@rizon.net): If you do not change within 20 seconds, I will change your nick.
+2016-02-15 19:13:29	 @	peer (service@rizon.net): For network safety, your client is being scanned for open proxies by scanner.rizon.net (80.65.51.219). This scan will not harm your computer.
+2016-02-15 19:13:33	 @	You are now known as trumpster
+2016-02-15 19:13:34	 @	NickServ (service@rizon.net): This nickname is registered and protected. If it is your
+2016-02-15 19:13:34	 @	NickServ (service@rizon.net): nick, type /msg NickServ IDENTIFY password. Otherwise,
+2016-02-15 19:13:34	 @	NickServ (service@rizon.net): please choose a different nick.
+2016-02-15 19:13:42	 @	MSG(nickserv): ID ********
+2016-02-15 19:13:42	 @	User mode [+r] by trumpster
+2016-02-15 19:13:42	 @	NickServ (service@rizon.net): Password accepted - you are now recognized.
+2016-02-15 19:24:33	 @	Aigis (Aigis@anti.shadow.weapon): (.)desktop - Displays your desktops.
+2016-02-15 19:24:33	 @	Aigis (Aigis@anti.shadow.weapon): --add/-a    <urls...>  - Adds desktop(s) to database.
+2016-02-15 19:24:33	 @	Aigis (Aigis@anti.shadow.weapon): --delete/-d <ids...|*> - Deletes desktops from database.
+2016-02-15 19:24:33	 @	Aigis (Aigis@anti.shadow.weapon): --replace/r <id> <url> - Replaces <id> with <url>.
+2016-02-15 21:46:34	 @	irc: connecting to server irc.rizon.net/6667...
+2016-02-15 21:46:35	 @	irc: connected to irc.rizon.net/6667 (80.65.57.18)
+2016-02-15 21:46:35	 @	* :Please wait while we process your connection.
+2016-02-15 21:46:35	 @	irc.rizon.no: *** Looking up your hostname...
+2016-02-15 21:46:35	 @	irc.rizon.no: *** Checking Ident
+2016-02-15 21:46:35	 @	irc.rizon.no: *** Found your hostname
+2016-02-15 21:46:37	 @	irc.rizon.no: *** No Ident response
+2016-02-15 21:46:37	 @	irc.rizon.no: *** Your host is masked (Rizon-71E5EF26.ph.ph.cox.net)
+2016-02-15 21:46:37	 @	Welcome to the Rizon Internet Relay Chat Network michael
+2016-02-15 21:46:37	 @	Your host is irc.rizon.no, running version hybrid-7.2.3+plexus-3.1.0(20141225_0-545)
+2016-02-15 21:46:37	 @	This server was created Jun 25 2015 at 17:38:48
+2016-02-15 21:46:37	 @	irc.rizon.no hybrid-7.2.3+plexus-3.1.0(20141225_0-545) CDFGNRSUWXabcdfgijklnopqrsuwxyz BIMNORSabcehiklmnopqstvz Iabehkloqv
+2016-02-15 21:46:37	 @	CALLERID CASEMAPPING=rfc1459 DEAF=D KICKLEN=160 MODES=4 NICKLEN=30 TOPICLEN=390 PREFIX=(qaohv)~&@%+ STATUSMSG=~&@%+ NETWORK=Rizon MAXLIST=beI:250 TARGMAX=ACCEPT:,KICK:1,LIST:1,NAMES:1,NOTICE:4,PRIVMSG:4,WHOIS:1 CHANTYPES=# :are supported by this server
+2016-02-15 21:46:37	 @	CHANLIMIT=#:250 CHANNELLEN=50 CHANMODES=beI,k,l,BCMNORScimnpstz KNOCK ELIST=CMNTU SAFELIST NAMESX UHNAMES FNC AWAYLEN=160 EXCEPTS=e INVEX=I :are supported by this server
+2016-02-15 21:46:37	 @	06CAA14LI :your unique ID
+2016-02-15 21:46:37	 @	There are 30 users and 21606 invisible on 13 servers
+2016-02-15 21:46:37	 @	58 :IRC Operators online
+2016-02-15 21:46:37	 @	2 :unknown connection(s)
+2016-02-15 21:46:37	 @	20569 :channels formed
+2016-02-15 21:46:37	 @	I have 21636 clients and 13 servers
+2016-02-15 21:46:37	 @	21636 25636 :Current local users 21636, max 25636
+2016-02-15 21:46:37	 @	21636 25636 :Current global users 21636, max 25636
+2016-02-15 21:46:37	 @	- irc.rizon.no Message of the Day -
+2016-02-15 21:46:37	 @	-          oo                            
+2016-02-15 21:46:37	 @	-
+2016-02-15 21:46:37	 @	- 88d888b. dP d888888b .d8888b. 88d888b. 
+2016-02-15 21:46:37	 @	- 88'  `88 88    .d8P' 88'  `88 88'  `88 
+2016-02-15 21:46:37	 @	- 88       88  .Y8P    88.  .88 88    88 
+2016-02-15 21:46:37	 @	- dP       dP d888888P `88888P' dP    dP
+2016-02-15 21:46:37	 @	-
+2016-02-15 21:46:37	 @	- Rizon Chat Network -- http://rizon.net
+2016-02-15 21:46:37	 @	-
+2016-02-15 21:46:37	 @	- Listening on ports: 6660 - 6669, 7000. SSL: 6697, 9999
+2016-02-15 21:46:37	 @	-
+2016-02-15 21:46:37	 @	- Rules:
+2016-02-15 21:46:37	 @	- o No spamming or flooding
+2016-02-15 21:46:37	 @	- o No clones or malicious bots
+2016-02-15 21:46:37	 @	- o No takeovers
+2016-02-15 21:46:37	 @	- o No distribution of child pornography
+2016-02-15 21:46:37	 @	- o Clients must respond to VERSION requests
+2016-02-15 21:46:37	 @	- o Rizon staff may disconnect clients for any or no reason
+2016-02-15 21:46:37	 @	-
+2016-02-15 21:46:37	 @	- First steps:
+2016-02-15 21:46:37	 @	- o To register your nick: /msg NickServ HELP
+2016-02-15 21:46:37	 @	- o To register your channel: /msg ChanServ HELP
+2016-02-15 21:46:37	 @	- o To get a vHost: /msg HostServ HELP REQUEST
+2016-02-15 21:46:37	 @	- o For other help with Rizon: /join #help
+2016-02-15 21:46:37	 @	-
+2016-02-15 21:46:37	 @	- Usage of this network is a privilege, not a right. Rizon is a
+2016-02-15 21:46:37	 @	- transit provider, therefore no person or entity involved with
+2016-02-15 21:46:37	 @	- *.rizon.net or irc.rizon.no takes any responsibility for
+2016-02-15 21:46:37	 @	- users' actions. Absolutely no warranty is expressed or implied.
+2016-02-15 21:46:37	 @	End of /MOTD command.
+2016-02-15 21:46:37	 @	User mode [+ix] by michael
+2016-02-15 21:46:37	 @	CTCP requested by py-ctcp: VERSION
+2016-02-15 21:46:37	 @	CTCP reply to py-ctcp: VERSION WeeChat 1.4 (Feb  2 2016)
+2016-02-15 21:46:37	 @	Global (service@rizon.net): [Logon News - May 21 2011] First time on Rizon? Be sure to read the FAQ! http://s.rizon.net/FAQ
+2016-02-15 21:46:37	 @	Global (service@rizon.net): [Logon News - Dec 16 2013] Own a large/active channel or plan to get one going? Please read http://s.rizon.net/authline
+2016-02-15 21:46:37	 @	Global (service@rizon.net): [Logon News - Dec 21 2015] Ready for a Rizon style Christmas decoration? Read http://s.rizon.net/xmas
+2016-02-15 21:46:37	 @	Global (service@rizon.net): [Random News - Mar 20 2009] Idle on Rizon a lot? Why not play our idlerpg game, you can check it out at #RizonIRPG for more information visit the website http://idlerpg.rizon.net -Rizon Staff
+2016-02-15 21:46:37	 @	NickServ (service@rizon.net): This nickname is registered and protected. If it is your
+2016-02-15 21:46:37	 @	NickServ (service@rizon.net): nick, type /msg NickServ IDENTIFY password. Otherwise,
+2016-02-15 21:46:37	 @	NickServ (service@rizon.net): please choose a different nick.
+2016-02-15 21:46:37	 @	NickServ (service@rizon.net): If you do not change within 20 seconds, I will change your nick.
+2016-02-15 21:46:37	 @	peer (service@rizon.net): For network safety, your client is being scanned for open proxies by scanner.rizon.net (80.65.51.222). This scan will not harm your computer.
+2016-02-15 21:46:40	 @	You are now known as trumpster
+2016-02-15 21:46:40	 @	NickServ (service@rizon.net): This nickname is registered and protected. If it is your
+2016-02-15 21:46:40	 @	NickServ (service@rizon.net): nick, type /msg NickServ IDENTIFY password. Otherwise,
+2016-02-15 21:46:40	 @	NickServ (service@rizon.net): please choose a different nick.
+2016-02-15 21:46:46	 @	MSG(NickServ): ID ********
+2016-02-15 21:46:46	 @	User mode [+r] by trumpster
+2016-02-15 21:46:46	 @	NickServ (service@rizon.net): Password accepted - you are now recognized.

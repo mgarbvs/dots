@@ -1,0 +1,21 @@
+source .zshrc
+vim config
+source config
+ source ~/.zshrc
+cd ..
+vim xresources
+screenfetch
+screenfetch -t
+screenfetch -t -A logos
+screenfetch -t -A Logos
+cd code
+./cpu
+fetch
+./rice
+ranger
+weono
+weslp
+weechat
+l
+q
+form ono

@@ -1,0 +1,7 @@
+{
+  0: ('08/02/16 17:16:59', 'Global', 'irc.server.snoo', 'https://support.snoonet.org', " @\tGlobal (Global@snoonet/services/Global): [Logon News - Oct 22 22:28:09 2015 UTC] Need to contact us for any reason and can't join #help? Snoonet has implemented a ticket system to serve you better. Support requests, including ban appeals, can now be initiated by visiting https://support.snoonet.org"),
+  1: ('08/02/16 17:16:59', 'Global', 'irc.server.snoo', 'https://support.snoonet.org', ' @\tGlobal (Global@snoonet/services/Global): [Random News - Oct 28 00:36:54 2015 UTC] Remember, we now have a ticketing system for network support requests and ban appeals! Visit https://support.snoonet.org to open a support ticket.'),
+  2: ('08/02/16 17:22:15', 'Global', 'irc.server.rizon', 'http://s.rizon.net/FAQ', ' @\tGlobal (service@rizon.net): [Logon News - May 21 2011] First time on Rizon? Be sure to read the FAQ! http://s.rizon.net/FAQ'),
+  3: ('08/02/16 17:22:15', 'Global', 'irc.server.rizon', 'http://s.rizon.net/authline', ' @\tGlobal (service@rizon.net): [Logon News - Dec 16 2013] Own a large/active channel or plan to get one going? Please read http://s.rizon.net/authline'),
+  4: ('08/02/16 17:22:20', 'Global', 'irc.server.rizon', 'http://s.rizon.net/xmas', ' @\tGlobal (service@rizon.net): [Logon News - Dec 21 2015] Ready for a Rizon style Christmas decoration? Read http://s.rizon.net/xmas'),
+}

@@ -1,0 +1,80 @@
+2016-02-04 18:34:20	 @	irc: connecting to server irc.snoonet.org/6667...
+2016-02-04 18:34:20	 @	irc: connected to irc.snoonet.org/6667 (162.243.53.239)
+2016-02-04 18:34:20	 @	corellia.snoonet.org: *** Looking up your hostname...
+2016-02-04 18:34:20	 @	corellia.snoonet.org: *** Found your hostname (ip68-3-11-156.ph.ph.cox.net)
+2016-02-04 18:34:20	 @	corellia.snoonet.org: *** If you are having problems connecting due to ping timeouts, please type /quote PONG M_\~NXRGlr or /raw PONG M_\~NXRGlr now.
+2016-02-04 18:34:21	 @	corellia.snoonet.org: Welcome to Snoonet!
+2016-02-04 18:34:21	 @	Welcome to the Snoonet IRC Network michael!michael@ip68-3-11-156.ph.ph.cox.net
+2016-02-04 18:34:21	 @	Your host is corellia.snoonet.org, running version InspIRCd-2.0
+2016-02-04 18:34:21	 @	This server was created 19:32:28 May 16 2015
+2016-02-04 18:34:21	 @	corellia.snoonet.org InspIRCd-2.0 BGHILORSTWcdghikorswx ABCDFGHIJKLMNOPQRSTUXYZbcdefghijklmnoprstuvwxz FHIJLUXYZbdefghjklovwx
+2016-02-04 18:34:21	 @	AWAYLEN=200 CALLERID=g CASEMAPPING=rfc1459 CHANMODES=IXZbegw,k,FHJLUdfjlx,ABCDGKMNOPQRSTcimnprstuz CHANNELLEN=64 CHANTYPES=# CHARSET=ascii ELIST=MU ESILENCE EXCEPTS=e EXTBAN=,ABCNOQRSTUcjmprsz FNC INVEX=I :are supported by this server
+2016-02-04 18:34:21	 @	KICKLEN=255 MAP MAXBANS=60 MAXCHANNELS=200 MAXPARA=32 MAXTARGETS=20 MODES=50 NAMESX NETWORK=Snoonet NICKLEN=27 OPERLOG PREFIX=(Yohv)!@%+ REMOVE :are supported by this server
+2016-02-04 18:34:21	 @	SECURELIST SILENCE=32 SSL=[::]:6697 STATUSMSG=!@%+ TOPICLEN=1000 UHNAMES USERIP VBANLIST WALLCHOPS WALLVOICES WATCH=64 :are supported by this server
+2016-02-04 18:34:21	 @	2COAAMKYI :your unique ID
+2016-02-04 18:34:21	 @	corellia.snoonet.org message of the day
+2016-02-04 18:34:21	 @	- #/-#/-#/-#/-#/-#/-#/-#/-#/-#/-#/-#/-#/-#/-#/-#/-#/-#/-#/-#/-#/-#/-#/-
+2016-02-04 18:34:21	 @	-
+2016-02-04 18:34:21	 @	-
+2016-02-04 18:34:21	 @	-   _____                              _
+2016-02-04 18:34:21	 @	-  / ____|                            | |
+2016-02-04 18:34:21	 @	- | (___  _ __   ___   ___  _ __   ___| |_
+2016-02-04 18:34:21	 @	-  \___ \| '_ \ / _ \ / _ \| '_ \ / _ \ __|
+2016-02-04 18:34:21	 @	-  ____) | | | | (_) | (_) | | | |  __/ |_
+2016-02-04 18:34:21	 @	- |_____/|_| |_|\___/ \___/|_| |_|\___|\__|
+2016-02-04 18:34:21	 @	-
+2016-02-04 18:34:21	 @	-
+2016-02-04 18:34:21	 @	-
+2016-02-04 18:34:21	 @	- Welcome to the Snoonet Chat Network.
+2016-02-04 18:34:21	 @	-
+2016-02-04 18:34:21	 @	- By connecting to Snoonet you indicate that you have read and
+2016-02-04 18:34:21	 @	- accept our policies as set out on http://www.snoonet.org/rules .
+2016-02-04 18:34:21	 @	- Snoonet runs an open proxy scanner.  If you continue connecting
+2016-02-04 18:34:21	 @	- to Snoonet, you agree to this scanning to protect our network
+2016-02-04 18:34:21	 @	- from scammers, spammers and the propagation of viruses.
+2016-02-04 18:34:21	 @	-
+2016-02-04 18:34:21	 @	-
+2016-02-04 18:34:21	 @	- Please visit our ruleset listed at http://www.snoonet.org/rules .
+2016-02-04 18:34:21	 @	- Yes, this is so important we list it twice. Snoonet does not have
+2016-02-04 18:34:21	 @	- many network wide rules but the ones we do have we enforce
+2016-02-04 18:34:21	 @	- to the best of our ability. This may also include the use of
+2016-02-04 18:34:21	 @	- automated oper utilities and/or standalone network bots that may
+2016-02-04 18:34:21	 @	- join/part your channel, or the mass setting of channel modes across
+2016-02-04 18:34:21	 @	- all network channels to protect you and your users during times
+2016-02-04 18:34:21	 @	- of network turmoil.
+2016-02-04 18:34:21	 @	-
+2016-02-04 18:34:21	 @	- Please join #help if you have questions about any of the above
+2016-02-04 18:34:21	 @	- information.
+2016-02-04 18:34:21	 @	-
+2016-02-04 18:34:21	 @	- Network Administration may remove any problem user at any time
+2016-02-04 18:34:21	 @	- for the betterment of all users. This includes, but is not limited
+2016-02-04 18:34:21	 @	- to, trolling, attempting to receive or spread users personal
+2016-02-04 18:34:21	 @	- information (also known as Doxxing), vote brigading on any social
+2016-02-04 18:34:21	 @	- media websites, or any thing that network administration sees as
+2016-02-04 18:34:21	 @	- potentially harmful to the atmosphere of Snoonet.
+2016-02-04 18:34:21	 @	-
+2016-02-04 18:34:21	 @	-
+2016-02-04 18:34:21	 @	-
+2016-02-04 18:34:21	 @	- Our network rules are located here: http://www.snoonet.org/rules .
+2016-02-04 18:34:21	 @	-
+2016-02-04 18:34:21	 @	- Ignorance is not an excuse - most of the network rules are common sense.
+2016-02-04 18:34:21	 @	-
+2016-02-04 18:34:21	 @	- #/-#/-#/-#/-#/-#/-#/-#/-#/-#/-#/-#/-#/-#/-#/-#/-#/-#/-#/-#/-#/-#/-#/-
+2016-02-04 18:34:21	 @	-
+2016-02-04 18:34:21	 @	-
+2016-02-04 18:34:21	 @	-
+2016-02-04 18:34:21	 @	End of message of the day.
+2016-02-04 18:34:21	 @	There are 139 users and 4572 invisible on 14 servers
+2016-02-04 18:34:21	 @	28 :operator(s) online
+2016-02-04 18:34:21	 @	3818 :channels formed
+2016-02-04 18:34:21	 @	I have 456 clients and 1 servers
+2016-02-04 18:34:21	 @	Current Local Users: 456  Max: 747
+2016-02-04 18:34:21	 @	Current Global Users: 4711  Max: 5142
+2016-02-04 18:34:21	 @	Snoonet-dcp.r84.1kbodk.IP :is now your displayed host
+2016-02-04 18:34:21	 @	User mode [+wxiI] by michael
+2016-02-04 18:34:21	 @	NickServ (NickServ@snoonet/services/NickServ): This nickname is registered and protected.  If it is your
+2016-02-04 18:34:21	 @	NickServ (NickServ@snoonet/services/NickServ): nick, type /msg NickServ IDENTIFY password.  Otherwise,
+2016-02-04 18:34:21	 @	NickServ (NickServ@snoonet/services/NickServ): please choose a different nick.
+2016-02-04 18:34:21	 @	NickServ (NickServ@snoonet/services/NickServ): If you do not change within 1 minute, I will change your nick.
+2016-02-04 18:34:21	 @	Global (Global@snoonet/services/Global): [Logon News - Oct 22 22:28:09 2015 UTC] Need to contact us for any reason and can't join #help? Snoonet has implemented a ticket system to serve you better. Support requests, including ban appeals, can now be initiated by visiting https://support.snoonet.org
+2016-02-04 18:34:21	 @	Global (Global@snoonet/services/Global): [Random News - Oct 28 00:36:54 2015 UTC] Remember, we now have a ticketing system for network support requests and ban appeals! Visit https://support.snoonet.org to open a support ticket.
